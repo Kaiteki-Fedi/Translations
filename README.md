@@ -6,6 +6,8 @@ About English translations: Kaiteki uses US English, a British version can be ad
 
 Contributions are welcome!
 
+[![Translation status](https://wl.craftplacer.moe/widgets/kaiteki/-/multi-auto.svg)](https://wl.craftplacer.moe/engage/kaiteki/)
+
 ## A note about terminology
 
 Kaiteki uses generalized terms that don't adhere to a specific social media platform. Here below you will find a table of the different terms Kaiteki uses compared to other platforms.

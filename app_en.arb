@@ -497,5 +497,23 @@
   "postPinned": "Pinned",
   "noMorePosts": "You have reached the end",
   "timelineBubble": "Bubble",
-  "timelineBubbleDescription": "Posts from neighbored instances"
+  "timelineBubbleDescription": "Posts from neighbored instances",
+  "showAltTextTooltip": "Show alt text",
+  "copyAttachmentUrl": "Copy attachment address",
+  "copiedToClipboard": "Copied to clipboard",
+  "visibilityCircle": "Circle",
+  "visibilityCircleDescription": "Visible to users in your circle",
+  "pageViewTitle": "{current} of {total}",
+  "@pageViewTitle": {
+    "placeholders": {
+      "current": {
+        "description": "The current number of the page",
+        "example": "2"
+      },
+      "total": {
+        "description": "The total amount of pages available",
+        "example": "10"
+      }
+    }
+  }
 }

@@ -515,5 +515,14 @@
         "example": "10"
       }
     }
-  }
+  },
+  "emojiUnicodeGroupSmileysEmotion": "Smileys & Emotion",
+  "emojiUnicodeGroupPeopleBody": "People & Body",
+  "emojiUnicodeGroupAnimalsNature": "Animals & Nature",
+  "emojiUnicodeGroupFoodDrink": "Food & Drink",
+  "emojiUnicodeGroupTravelPlaces": "Travel & Places",
+  "emojiUnicodeGroupActivities": "Activites",
+  "emojiUnicodeGroupObjects": "Objects",
+  "emojiUnicodeGroupSymbols": "Symbols",
+  "emojiUnicodeGroupFlags": "Flags"
 }

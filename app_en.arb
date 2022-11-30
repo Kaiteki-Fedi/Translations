@@ -454,6 +454,8 @@
   "timelineFederated": "Federated",
   "timelineHome": "Home",
   "timelineLocal": "Local",
+  "timelineRecommended": "Recommended",
+  "timelineHybrid": "Social",
   "timelineDirectMessages": "Direct Messages",
   "timelineBookmarks": "Bookmarks",
   "timelineFederatedDescription": "Posts from everyone across the Fediverse",

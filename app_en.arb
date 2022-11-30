@@ -415,6 +415,7 @@
   "subjectButtonLabelDisable": "Disable subject",
   "@subjectButtonLabelDisable": {},
   "timelineRetrievalFailed": "Failed to fetch timeline",
+  "searchButtonLabel": "Search",
   "refresh": "Refresh",
   "attachmentNoDescription": "No description",
   "attachmentDownloadButtonLabel": "Download attachment",

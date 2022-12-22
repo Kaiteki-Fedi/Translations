@@ -6,7 +6,7 @@ About English translations: Kaiteki uses US English, a British version can be ad
 
 Contributions are welcome!
 
-[![Translation status](https://wl.craftplacer.moe/widgets/kaiteki/-/multi-auto.svg)](https://wl.craftplacer.moe/engage/kaiteki/)
+[![Translation status](https://hosted.weblate.org/widgets/kaiteki/-/kaiteki/multi-auto.svg)](https://hosted.weblate.org/engage/kaiteki/)
 
 ## A note about terminology
 

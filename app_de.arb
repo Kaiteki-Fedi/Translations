@@ -5,8 +5,6 @@
   "@apiTypeDialog_description": {},
   "apiTypeDialog_missing": "Fehlt etwas?",
   "@apiTypeDialog_missing": {},
-  "2fa": "Zwei-Faktor-Authentifizierung",
-  "@2fa": {},
   "okButtonLabel": "OK",
   "@okButtonLabel": {},
   "cancelButtonLabel": "Abbrechen",
@@ -277,12 +275,8 @@
   "@empty": {},
   "creditsLicenses": "Open-Source Lizenzen",
   "@creditsLicenses": {},
-  "creditsFlutter": "Mit Flutter gemacht",
-  "@creditsFlutter": {},
   "creditsFriends": "Besuche unsere Freunde",
   "@creditsFriends": {},
-  "creditsPleromaDescription": "Freie und offene Kommunikation für jeden",
-  "@creditsPleromaDescription": {},
   "creditsHuskyDescription": "Fork von Tusky für Pleroma",
   "@creditsHuskyDescription": {},
   "attachmentUnsupported": "Nicht unterstützter Anhang",
@@ -299,7 +293,7 @@
       }
     }
   },
-  "timeDifferenceMinutes": "{minutes} min.",
+  "timeDifferenceMinutes": "{minutes} min",
   "@timeDifferenceMinutes": {
     "description": "Text used to display how many minutes have passed since a certain event",
     "placeholders": {
@@ -401,7 +395,7 @@
   "@refresh": {},
   "attachmentNoDescription": "Keine Beschreibung",
   "@attachmentNoDescription": {},
-  "attachmentDownloadInProgress": "Anhang wird heruntergeladen...",
+  "attachmentDownloadInProgress": "Anhang wird heruntergeladen…",
   "@attachmentDownloadInProgress": {},
   "attachmentDownloadSuccessful": "{fileName} wurde heruntergeladen",
   "@attachmentDownloadSuccessful": {

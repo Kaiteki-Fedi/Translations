@@ -275,8 +275,6 @@
   "@empty": {},
   "creditsLicenses": "Open-Source Lizenzen",
   "@creditsLicenses": {},
-  "creditsHuskyDescription": "Fork von Tusky für Pleroma",
-  "@creditsHuskyDescription": {},
   "attachmentUnsupported": "Nicht unterstützter Anhang",
   "@attachmentUnsupported": {},
   "creditsGithubRepo": "GitHub Repository",

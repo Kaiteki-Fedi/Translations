@@ -229,7 +229,7 @@
   "@usernameFieldHint": {},
   "passwordFieldHint": "Parole",
   "@passwordFieldHint": {},
-  "emailFieldHint": "E-Pasta adrese",
+  "emailFieldHint": "E-pasta adrese",
   "@emailFieldHint": {},
   "authPasswordNoMatch": "Parolēm ir jāatbilst",
   "@authPasswordNoMatch": {},
@@ -271,8 +271,6 @@
   "@themeSystem": {},
   "creditsGithubRepo": "GitHub Repozitorijs",
   "@creditsGithubRepo": {},
-  "creditsHuskyDescription": "Forks no Tusky par Pleroma",
-  "@creditsHuskyDescription": {},
   "viewOnlineButtonLabel": "Skatīt tiešsaistē",
   "@viewOnlineButtonLabel": {
     "description": "Button label used when certain content can't be displayed in Kaiteki but might able to in a web browser instead (e.g. videos)."

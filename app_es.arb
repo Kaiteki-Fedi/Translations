@@ -168,5 +168,9 @@
   "welcome": "¡Bienvenido a Kaiteki!",
   "@welcome": {},
   "accountRequiredToContinue": "Para continuar necesitas iniciar sesión en al menos una instancia.",
-  "@accountRequiredToContinue": {}
+  "@accountRequiredToContinue": {},
+  "emailFieldHint": "Dirección de correo electrónico",
+  "@emailFieldHint": {},
+  "passwordFieldHint": "Contraseña",
+  "@passwordFieldHint": {}
 }

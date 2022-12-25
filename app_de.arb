@@ -15,7 +15,7 @@
   "@viewPostButtonLabel": {},
   "continueAnywayButtonLabel": "Trotzdem fortfahren",
   "@continueAnywayButtonLabel": {},
-  "sharedBackendFunctionality": "Dies sind die Features die beide $api und Kaiteki unterstützen:",
+  "sharedBackendFunctionality": "Dies sind die Features die beide {api} und Kaiteki unterstützen:",
   "@sharedBackendFunctionality": {},
   "reactionSupport": "Reaktionen",
   "@reactionSupport": {},

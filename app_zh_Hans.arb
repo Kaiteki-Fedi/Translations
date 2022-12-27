@@ -1,1 +1,182 @@
-{}
+{
+  "apiTypeDialog_title": "无法检测实例类型",
+  "@apiTypeDialog_title": {},
+  "apiTypeDialog_missing": "对应的平台不在列表中？",
+  "@apiTypeDialog_missing": {},
+  "mfaTitle": "两步验证",
+  "@mfaTitle": {},
+  "mfaNoCode": "请输入验证码",
+  "@mfaNoCode": {},
+  "okButtonLabel": "确认",
+  "@okButtonLabel": {},
+  "cancelButtonLabel": "取消",
+  "@cancelButtonLabel": {},
+  "verifyButtonLabel": "验证",
+  "@verifyButtonLabel": {},
+  "removeButtonLabel": "删除",
+  "@removeButtonLabel": {},
+  "abortButtonLabel": "停止",
+  "@abortButtonLabel": {},
+  "sharedBackendFunctionality": "这些是 {api} 和 Kaiteki 均支持的功能：",
+  "@sharedBackendFunctionality": {
+    "placeholders": {
+      "api": {
+        "description": "Name of the instance backend software",
+        "example": "Pleroma"
+      }
+    }
+  },
+  "reactionSupport": "反应",
+  "@reactionSupport": {},
+  "reactionSupportDescription": "给帖子添加反应",
+  "@reactionSupportDescription": {},
+  "chatSupport": "聊天",
+  "@chatSupport": {},
+  "chatSupportDescription": "发送消息给其他用户",
+  "@chatSupportDescription": {},
+  "previewSupportDescription": "在发送前对帖子进行预览",
+  "@previewSupportDescription": {},
+  "discoverInstancesButtonLabel": "发现实例",
+  "@discoverInstancesButtonLabel": {},
+  "chooseButtonLabel": "选择",
+  "@chooseButtonLabel": {},
+  "runsOn": "由 {api} 驱动",
+  "@runsOn": {
+    "placeholders": {
+      "api": {
+        "description": "Name of the instance backend software",
+        "example": "Pleroma"
+      }
+    }
+  },
+  "usesFediverseCovenant": "遵守 Fediverse-Friendly Moderation Covenant",
+  "@usesFediverseCovenant": {},
+  "usesMastodonCovenant": "遵守 Mastodon Server Covenant",
+  "@usesMastodonCovenant": {},
+  "visibilityButtonTooltip": "更改消息可见范围",
+  "@visibilityButtonTooltip": {},
+  "attachButtonTooltip": "添加附件",
+  "@attachButtonTooltip": {},
+  "emojiButtonTooltip": "插入表情符号",
+  "@emojiButtonTooltip": {},
+  "formattingButtonTooltip": "改变格式",
+  "@formattingButtonTooltip": {},
+  "aboutInstanceTitle": "关于 {instance}",
+  "@aboutInstanceTitle": {
+    "placeholders": {
+      "instance": {
+        "description": "Domain/hostname of the instance",
+        "example": "fedi.absturztau.be"
+      }
+    }
+  },
+  "aboutBackendTitle": "关于 {api}",
+  "@aboutBackendTitle": {
+    "placeholders": {
+      "api": {
+        "description": "Name of the instance backend software",
+        "example": "Pleroma"
+      }
+    }
+  },
+  "loginButtonLabel": "登录",
+  "@loginButtonLabel": {},
+  "featureSupported": "{feature} 功能受到支持",
+  "@featureSupported": {
+    "placeholders": {
+      "feature": {
+        "description": "Feature name, always in plural.",
+        "example": "Post previews"
+      }
+    }
+  },
+  "featureUnsupported": "{feature} 目前不受支持",
+  "@featureUnsupported": {
+    "placeholders": {
+      "feature": {
+        "description": "Feature name, always in plural.",
+        "example": "Post previews"
+      }
+    }
+  },
+  "rules": "规则",
+  "@rules": {},
+  "rulesLearnMore": "了解更多关于规则的信息",
+  "@rulesLearnMore": {},
+  "postPreviewTitle": "预览",
+  "@postPreviewTitle": {},
+  "postPreviewWaiting": "开始写作以进行预览",
+  "@postPreviewWaiting": {},
+  "composeSubjectHint": "主题（可选）",
+  "@composeSubjectHint": {},
+  "postSubmissionSent": "发送帖子",
+  "@postSubmissionSent": {},
+  "empty": "没有输入任何内容…",
+  "@empty": {},
+  "postsTab": "帖子",
+  "@postsTab": {},
+  "followersTab": "关注者",
+  "@followersTab": {},
+  "followingTab": "关注中",
+  "@followingTab": {},
+  "timelineTab": "时间线",
+  "@timelineTab": {},
+  "notificationsTab": "消息",
+  "@notificationsTab": {},
+  "chatsTab": "聊天",
+  "@chatsTab": {},
+  "niy": "尚未实施",
+  "@niy": {},
+  "settingsHideSensitivePosts": "隐藏敏感帖子",
+  "@settingsHideSensitivePosts": {},
+  "settingsSensitivePosts": "敏感帖子",
+  "@settingsSensitivePosts": {},
+  "settingsSubjectPosts": "带话题投稿",
+  "@settingsSubjectPosts": {},
+  "settingsDisabled": "关闭",
+  "@settingsDisabled": {},
+  "creditsTitle": "感谢名单",
+  "@creditsTitle": {},
+  "settingsGeneral": "常规",
+  "@settingsGeneral": {},
+  "settingsProfile": "信息",
+  "@settingsProfile": {},
+  "settingsSecurity": "安全",
+  "@settingsSecurity": {},
+  "settingsFiltering": "过滤",
+  "@settingsFiltering": {},
+  "settingsNotifications": "通知",
+  "@settingsNotifications": {},
+  "settingsImportExport": "导入/导出",
+  "@settingsImportExport": {},
+  "apiTypeDialog_description": "Kaiteki 试图找出该实例所运行的平台，但无法确认。请从下面的列表中选择正确的平台。",
+  "@apiTypeDialog_description": {},
+  "viewPostButtonLabel": "查看帖子",
+  "@viewPostButtonLabel": {},
+  "continueAnywayButtonLabel": "继续",
+  "@continueAnywayButtonLabel": {},
+  "previewSupport": "帖子预览",
+  "@previewSupport": {},
+  "discoverInstancesTitle": "发现实例",
+  "@discoverInstancesTitle": {},
+  "discoverInstancesDisclaimer": "这是一个精选的实例列表，由 Kaiteki 和每个 Kaiteki 所支持的实例软件的开发者推荐。",
+  "@discoverInstancesDisclaimer": {},
+  "composeBodyHint": "写点什么呢",
+  "@composeBodyHint": {},
+  "postSubmissionFailed": "帖子发送失败",
+  "@postSubmissionFailed": {},
+  "postSubmissionSending": "正在发送帖子",
+  "@postSubmissionSending": {},
+  "submitButtonTooltip": "提交",
+  "@submitButtonTooltip": {},
+  "settings": "设置",
+  "@settings": {},
+  "settingsAbout": "关于 Kaiteki",
+  "@settingsAbout": {},
+  "welcome": "欢迎来到 Kaiteki！",
+  "@welcome": {},
+  "accountRequiredToContinue": "要继续，你需要登录至少一个实例账户。",
+  "@accountRequiredToContinue": {},
+  "failedToLaunchUrl": "无法打开 URL",
+  "@failedToLaunchUrl": {}
+}

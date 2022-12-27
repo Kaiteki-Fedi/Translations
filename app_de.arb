@@ -174,7 +174,7 @@
   "@settings": {},
   "welcome": "Willkomen zu Kaiteki!",
   "@welcome": {},
-  "accountRequiredToContinue": "Um fortzufahren musst du zuerst dich in wenigens eine Instanz anmelden.",
+  "accountRequiredToContinue": "Um fortzufahren musst du dich zuerst bei mindestens einer Instanz anmelden.",
   "@accountRequiredToContinue": {},
   "settingsSubjectPosts": "Beiträge mit Betreff",
   "@settingsSubjectPosts": {},
@@ -602,5 +602,11 @@
   "copiedToClipboard": "In die Zwischenablage kopiert",
   "@copiedToClipboard": {},
   "emojiUnicodeGroupTravelPlaces": "Reisen und Orte",
-  "@emojiUnicodeGroupTravelPlaces": {}
+  "@emojiUnicodeGroupTravelPlaces": {},
+  "authOAuthPending": "Warte auf OAuth…",
+  "@authOAuthPending": {
+    "description": "Kaiteki is waiting for an external website to confirm an authorization request"
+  },
+  "useSystemColorScheme": "System-Farbschema verwenden",
+  "@useSystemColorScheme": {}
 }

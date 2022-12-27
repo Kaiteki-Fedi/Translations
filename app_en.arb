@@ -620,5 +620,6 @@
   "emojiUnicodeGroupSymbols": "Symbols",
   "@emojiUnicodeGroupSymbols": {},
   "emojiUnicodeGroupFlags": "Flags",
-  "@emojiUnicodeGroupFlags": {}
+  "@emojiUnicodeGroupFlags": {},
+  "useSystemColorScheme": "Use system color scheme"
 }

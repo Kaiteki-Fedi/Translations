@@ -156,5 +156,7 @@
   "failedToLaunchUrl": "לא ניתן לפתוח URL",
   "@failedToLaunchUrl": {},
   "settingsMutesBlocks": "השתקות וחסימות",
-  "@settingsMutesBlocks": {}
+  "@settingsMutesBlocks": {},
+  "emailFieldHint": "כתובת דוא\"ל",
+  "@emailFieldHint": {}
 }

@@ -178,5 +178,99 @@
   "accountRequiredToContinue": "要继续，你需要登录至少一个实例账户。",
   "@accountRequiredToContinue": {},
   "failedToLaunchUrl": "无法打开 URL",
-  "@failedToLaunchUrl": {}
+  "@failedToLaunchUrl": {},
+  "nextButtonLabel": "下一步",
+  "@nextButtonLabel": {},
+  "backButtonLabel": "返回",
+  "@backButtonLabel": {},
+  "instanceFieldHint": "实例",
+  "@instanceFieldHint": {},
+  "usernameFieldHint": "用户名",
+  "@usernameFieldHint": {},
+  "passwordFieldHint": "密码",
+  "@passwordFieldHint": {},
+  "settingsMutesBlocks": "静音与屏蔽",
+  "@settingsMutesBlocks": {},
+  "settingsKaiteki": "设置 Kaiteki",
+  "@settingsKaiteki": {},
+  "settingsCustomization": "主题",
+  "@settingsCustomization": {},
+  "settingsTabs": "标签栏",
+  "@settingsTabs": {},
+  "settingsDebugMaintenance": "调试和维护",
+  "@settingsDebugMaintenance": {},
+  "authNoInstance": "请输入实例域名",
+  "@authNoInstance": {},
+  "authNoPassword": "请输入密码",
+  "@authNoPassword": {},
+  "authNoUsername": "请输入用户名",
+  "@authNoUsername": {},
+  "authDuplicate": "已有一个使用同一用户名的账户在同一实例上",
+  "@authDuplicate": {},
+  "authNoUrlAllowed": "仅需提供域名",
+  "@authNoUrlAllowed": {},
+  "authOAuthPending": "Kaiteki 正在等待外部网站确认授权请求…",
+  "@authOAuthPending": {
+    "description": "Kaiteki is waiting for an external website to confirm an authorization request"
+  },
+  "loginTitle": "登录一个实例",
+  "@loginTitle": {},
+  "loginTitleInstance": "登录 {instance}",
+  "@loginTitleInstance": {
+    "placeholders": {
+      "instance": {
+        "description": "Instance name",
+        "example": "'the wired' or as fallback 'letsalllovela.in'"
+      }
+    }
+  },
+  "emailFieldHint": "电子邮箱地址",
+  "@emailFieldHint": {},
+  "repeatPasswordFieldHint": "再输一次密码",
+  "@repeatPasswordFieldHint": {},
+  "authPasswordNoMatch": "两次密码必须一致",
+  "@authPasswordNoMatch": {},
+  "forgotPasswordButtonLabel": "忘记密码",
+  "@forgotPasswordButtonLabel": {},
+  "createAccountButtonLabel": "建立一个新账户",
+  "@createAccountButtonLabel": {},
+  "existingAccountButtonLabel": "登录已有帐户",
+  "@existingAccountButtonLabel": {},
+  "registerButtonLabel": "注册",
+  "@registerButtonLabel": {},
+  "unsupportedInstanceTitle": "此实例类型目前尚未支持",
+  "@unsupportedInstanceTitle": {},
+  "addAccountButtonLabel": "添加账号",
+  "@addAccountButtonLabel": {},
+  "threadRetrievalFailed": "无法检索线程",
+  "@threadRetrievalFailed": {},
+  "conversationTitle": "对话",
+  "@conversationTitle": {
+    "description": "Title used for conversation/thread page"
+  },
+  "emptyAccounts": "无账号",
+  "@emptyAccounts": {
+    "description": "Placeholder text used if user doesn't have any accounts"
+  },
+  "manageAccountsTitle": "管理账号",
+  "@manageAccountsTitle": {},
+  "accountRemovalConfirmationTitle": "是否删除用户？",
+  "@accountRemovalConfirmationTitle": {},
+  "accountRemovalConfirmationDescription": "如果删除此用户，当你下次使用时则需要重新登录以再次使用。",
+  "@accountRemovalConfirmationDescription": {},
+  "switchListTileTextOn": "开启",
+  "@switchListTileTextOn": {},
+  "switchListTileTextOff": "关闭",
+  "@switchListTileTextOff": {},
+  "emojiRetrievalFailed": "无法检索表情符号",
+  "@emojiRetrievalFailed": {},
+  "unsupportedInstanceDescriptionCORS": "Kaiteki 网页版目前不支持 {api} ，因为你的浏览器屏蔽了原实例至其他网站的请求。想了解更多信息，请参考 ",
+  "@unsupportedInstanceDescriptionCORS": {
+    "placeholders": {
+      "api": {
+        "description": "Name of the instance backend software",
+        "example": "Pleroma"
+      }
+    }
+  }
 }

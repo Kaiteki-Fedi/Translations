@@ -74,7 +74,7 @@
   "@visibilityDirectDescription": {},
   "visibilityFollowersOnlyDescription": "关注者可见",
   "@visibilityFollowersOnlyDescription": {},
-  "visibilityUnlistedDescription": "对所有人可见，不会出现在公共时间线上",
+  "visibilityUnlistedDescription": "对所有人可见，但不会出现在公共时间线上",
   "@visibilityUnlistedDescription": {},
   "visibilityPublicDescription": "所有人可见",
   "@visibilityPublicDescription": {},

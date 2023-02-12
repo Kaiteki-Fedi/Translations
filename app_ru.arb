@@ -253,5 +253,224 @@
   "filteringIncludeSensitive": "Включать посты с чувствительными вложениями",
   "@filteringIncludeSensitive": {},
   "filteringIncludeSubject": "Включать посты с темой",
-  "@filteringIncludeSubject": {}
+  "@filteringIncludeSubject": {},
+  "themeDark": "Тёмная",
+  "@themeDark": {},
+  "attachmentUnsupported": "Неподдерживаемое вложение",
+  "@attachmentUnsupported": {},
+  "timeDifferenceDays": "{days} дн",
+  "@timeDifferenceDays": {
+    "description": "Text used to display how many days have passed since a certain event",
+    "placeholders": {
+      "days": {
+        "description": "Amount of days",
+        "example": "2"
+      }
+    }
+  },
+  "switchListTileTextOn": "Вкл",
+  "@switchListTileTextOn": {},
+  "filteringSensitiveTitle": "Фильтровать чувствительные посты",
+  "@filteringSensitiveTitle": {},
+  "composeButtonLabel": "Написать",
+  "@composeButtonLabel": {},
+  "composeDialogTitle": "Написать новый пост",
+  "@composeDialogTitle": {},
+  "composeDialogTitleReply": "В ответ ",
+  "@composeDialogTitleReply": {
+    "description": "Title used when compose dialog is shown for writing a reply. Gets appended with replyee's display name"
+  },
+  "discardButtonTooltip": "Отменить",
+  "@discardButtonTooltip": {},
+  "themeLight": "Светлая",
+  "@themeLight": {},
+  "creditsLicenses": "Лицензии Open Source",
+  "@creditsLicenses": {},
+  "viewOnlineButtonLabel": "Посмотреть в браузере",
+  "@viewOnlineButtonLabel": {
+    "description": "Button label used when certain content can't be displayed in Kaiteki but might able to in a web browser instead (e.g. videos)."
+  },
+  "creditsGithubRepo": "Репозиторий на GitHub",
+  "@creditsGithubRepo": {},
+  "creditsWebsite": "Вебсайт",
+  "@creditsWebsite": {},
+  "timeDifferenceMinutes": "{minutes} мин",
+  "@timeDifferenceMinutes": {
+    "description": "Text used to display how many minutes have passed since a certain event",
+    "placeholders": {
+      "minutes": {
+        "description": "Amount of minutes",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceHours": "{hours} ч",
+  "@timeDifferenceHours": {
+    "description": "Text used to display how many hours have passed since a certain event",
+    "placeholders": {
+      "hours": {
+        "description": "Amount of hours",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceWeeks": "{weeks} нед",
+  "@timeDifferenceWeeks": {
+    "description": "Text used to display how many weeks have passed since a certain event",
+    "placeholders": {
+      "weeks": {
+        "description": "Amount of weeks",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceSeconds": "{seconds} сек",
+  "@timeDifferenceSeconds": {
+    "description": "Text used to display how many seconds have passed since a certain event",
+    "placeholders": {
+      "seconds": {
+        "description": "Amount of seconds",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceNow": "сейчас",
+  "@timeDifferenceNow": {
+    "description": "Text used to display an event that just happened"
+  },
+  "replyTo": "В ответ",
+  "@replyTo": {
+    "description": "Gets appended with replyee's display name"
+  },
+  "timeDifferenceYears": "{years} г/л",
+  "@timeDifferenceYears": {
+    "description": "Text used to display how many years have passed since a certain event",
+    "placeholders": {
+      "years": {
+        "description": "Amount of years",
+        "example": "2"
+      }
+    }
+  },
+  "postRepeated": "повторил",
+  "@postRepeated": {
+    "description": "Gets prepended with repeater's display name"
+  },
+  "visibilityUnlisted": "Вне ленты",
+  "@visibilityUnlisted": {},
+  "visibilityFollowersOnly": "Только подписчикам",
+  "@visibilityFollowersOnly": {},
+  "visibilityDirect": "Для упоминаемых",
+  "@visibilityDirect": {},
+  "formattingPlain": "Обычный текст",
+  "@formattingPlain": {},
+  "createPollButtonLabel": "Сделать опрос",
+  "@createPollButtonLabel": {},
+  "subjectButtonLabelEnable": "Включить субъект",
+  "@subjectButtonLabelEnable": {},
+  "visibilityPublic": "Публично",
+  "@visibilityPublic": {},
+  "visibilityDirectDescription": "Видно только для упомянутых вами пользователей",
+  "@visibilityDirectDescription": {},
+  "visibilityFollowersOnlyDescription": "Видно только вашим подписчикам",
+  "@visibilityFollowersOnlyDescription": {},
+  "visibilityUnlistedDescription": "Видно всем, но не появится в публичной ленте",
+  "@visibilityUnlistedDescription": {},
+  "visibilityPublicDescription": "Видно каждому",
+  "@visibilityPublicDescription": {},
+  "formattingMfm": "Markdown MissKey'я",
+  "@formattingMfm": {},
+  "timelineRetrievalFailed": "Не удалось обновить ленту",
+  "@timelineRetrievalFailed": {},
+  "refresh": "Обновить",
+  "@refresh": {},
+  "discardDraftDialogTitle": "Удалить черновик?",
+  "@discardDraftDialogTitle": {},
+  "attachFilesButtonLabel": "Прикрепить файлы",
+  "@attachFilesButtonLabel": {},
+  "takePictureButtonLabel": "Сделать фото",
+  "@takePictureButtonLabel": {},
+  "recordVoiceButtonLabel": "Записать голос",
+  "@recordVoiceButtonLabel": {},
+  "subjectButtonLabelDisable": "Отключить субъект",
+  "@subjectButtonLabelDisable": {},
+  "searchButtonLabel": "Найти",
+  "@searchButtonLabel": {},
+  "attachmentDownloadButtonLabel": "Скачать вложение",
+  "@attachmentDownloadButtonLabel": {},
+  "attachmentNoDescription": "Без описания",
+  "@attachmentNoDescription": {},
+  "attachmentDownloadDialogTitle": "Скачать вложение",
+  "@attachmentDownloadDialogTitle": {},
+  "creditsTelegramChannel": "Telegram канал",
+  "@creditsTelegramChannel": {},
+  "discardDraftDialogDescription": "Ты действительно уверен, что хочешь удалить этот черновик?",
+  "@discardDraftDialogDescription": {},
+  "keepWritingButtonLabel": "Писать дальше",
+  "@keepWritingButtonLabel": {},
+  "discardButtonLabel": "Удалить",
+  "@discardButtonLabel": {},
+  "refreshTimelineButtonLabel": "Обновить",
+  "@refreshTimelineButtonLabel": {},
+  "reportsTitle": "Поступившие жалобы",
+  "@reportsTitle": {},
+  "whyButtonLabel": "Почему?",
+  "@whyButtonLabel": {},
+  "bookmarkSupport": "Закладки",
+  "@bookmarkSupport": {},
+  "postBookmarkAdded": "Закладка добавлена",
+  "@postBookmarkAdded": {},
+  "postBookmarkRemoved": "Закладка удалена",
+  "@postBookmarkRemoved": {},
+  "postBookmarkFailed": "Не удалось добавить или удалить пост в закладках",
+  "@postBookmarkFailed": {},
+  "postFavoriteFailed": "Не удалось поставить или убрать звездочку",
+  "@postFavoriteFailed": {},
+  "postRepeatFailed": "Не удалось сделать или убрать репост",
+  "@postRepeatFailed": {},
+  "bookmarksTab": "Закладки",
+  "@bookmarksTab": {},
+  "accountSettingsTitle": "Настройки аккаунта",
+  "@accountSettingsTitle": {},
+  "postRemoveFromBookmarks": "Убрать закладку",
+  "@postRemoveFromBookmarks": {},
+  "postAddToBookmarks": "Добавить в закладки",
+  "@postAddToBookmarks": {},
+  "reportLabel": "Пожаловаться",
+  "@reportLabel": {},
+  "reportSupport": "Жалобы на жестокое обращение",
+  "@reportSupport": {},
+  "reportSupportDescription": "Пожаловаться модераторам на пользователей или на посты.",
+  "@reportSupportDescription": {},
+  "authOAuthPending": "Ждём, когда OAuth закончит свое дело…",
+  "@authOAuthPending": {
+    "description": "Kaiteki is waiting for an external website to confirm an authorization request"
+  },
+  "selectThemeTitle": "Выбрать тему",
+  "@selectThemeTitle": {},
+  "openInBrowserLabel": "Открыть в браузере",
+  "@openInBrowserLabel": {},
+  "previewSupportDescription": "Просмотр превью поста до того, как он будет отправлен",
+  "@previewSupportDescription": {},
+  "chatSupportDescription": "Отправка личных сообщений другим пользователям",
+  "@chatSupportDescription": {},
+  "switchListTileTextOff": "Выкл",
+  "@switchListTileTextOff": {},
+  "reactionSupportDescription": "Добавить реакции на посты",
+  "@reactionSupportDescription": {},
+  "creditsTitle": "Авторы",
+  "@creditsTitle": {},
+  "theme": "Тема",
+  "@theme": {},
+  "attachmentDownloadSuccessful": "Скачался: {fileName}",
+  "@attachmentDownloadSuccessful": {
+    "placeholders": {
+      "fileName": {
+        "description": "The name of the file that the user has downloaded",
+        "example": "image.jpg"
+      }
+    }
+  },
+  "attachmentDownloadInProgress": "Скачиваю вложение…",
+  "@attachmentDownloadInProgress": {}
 }

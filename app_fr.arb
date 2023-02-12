@@ -231,8 +231,6 @@
   "@loginButtonLabel": {},
   "composeBodyHint": "Je viens d'arriver à Montréal.",
   "@composeBodyHint": {},
-  "composeSubjectHint": "Objet (optionnel)",
-  "@composeSubjectHint": {},
   "niy": "Pas encore implémenté",
   "@niy": {},
   "settings": "Paramètres",
@@ -389,8 +387,6 @@
       }
     }
   },
-  "subjectButtonLabelEnable": "Activer l'objet",
-  "@subjectButtonLabelEnable": {},
   "refresh": "Actualiser",
   "@refresh": {},
   "bookmarkSupport": "Marque-pages",
@@ -405,8 +401,6 @@
   "@settingsSubjectPosts": {},
   "settingsDisabled": "Désactivé",
   "@settingsDisabled": {},
-  "subjectButtonLabelDisable": "Désactiver l'objet",
-  "@subjectButtonLabelDisable": {},
   "searchButtonLabel": "Recherche",
   "@searchButtonLabel": {},
   "failedToLaunchUrl": "L'URL n'a pas pu être ouverte",

@@ -78,8 +78,6 @@
   "@rulesLearnMore": {},
   "postPreviewTitle": "Anteprima",
   "@postPreviewTitle": {},
-  "composeSubjectHint": "Oggetto (facoltativo)",
-  "@composeSubjectHint": {},
   "postSubmissionFailed": "Post non inviato",
   "@postSubmissionFailed": {},
   "postSubmissionSent": "Post inviato",
@@ -563,8 +561,6 @@
       }
     }
   },
-  "subjectButtonLabelEnable": "Abilita soggetto",
-  "@subjectButtonLabelEnable": {},
   "discardDraftDialogTitle": "Scartare la bozza?",
   "@discardDraftDialogTitle": {},
   "visibilityUnlisted": "Non elencato",
@@ -575,8 +571,6 @@
   "@visibilityPublic": {},
   "attachFilesButtonLabel": "Allegare i file",
   "@attachFilesButtonLabel": {},
-  "subjectButtonLabelDisable": "Disattiva soggetto",
-  "@subjectButtonLabelDisable": {},
   "timelineRetrievalFailed": "Impossibile recuperare la sequenza temporale",
   "@timelineRetrievalFailed": {},
   "formattingMfm": "Markdown a base di chiavi in mano",

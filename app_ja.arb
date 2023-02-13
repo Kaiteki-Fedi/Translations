@@ -399,8 +399,6 @@
   "@createPollButtonLabel": {},
   "recordVoiceButtonLabel": "録音する",
   "@recordVoiceButtonLabel": {},
-  "subjectButtonLabelDisable": "件名を無効化",
-  "@subjectButtonLabelDisable": {},
   "timelineRetrievalFailed": "タイムラインの取得に失敗しました",
   "@timelineRetrievalFailed": {},
   "refresh": "更新",
@@ -618,5 +616,13 @@
   "emojiUnicodeGroupFlags": "旗と国旗",
   "@emojiUnicodeGroupFlags": {},
   "useSystemColorScheme": "システムの配色を使用",
-  "@useSystemColorScheme": {}
+  "@useSystemColorScheme": {},
+  "composeContentWarningHint": "閲覧注意（オプション）",
+  "@composeContentWarningHint": {},
+  "visibilityLocal": "ローカル",
+  "@visibilityLocal": {},
+  "contentWarningButtonLabelDisable": "閲覧注意を無効化",
+  "@contentWarningButtonLabelDisable": {},
+  "contentWarningButtonLabelEnable": "閲覧注意を有効化",
+  "@contentWarningButtonLabelEnable": {}
 }

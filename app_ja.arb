@@ -23,7 +23,7 @@
   "@continueAnywayButtonLabel": {},
   "abortButtonLabel": "中止",
   "@abortButtonLabel": {},
-  "sharedBackendFunctionality": "これらは {api} とKaitekiの両方がサポートする機能です:",
+  "sharedBackendFunctionality": "{api} とKaitekiの両方がサポートする機能:",
   "@sharedBackendFunctionality": {
     "placeholders": {
       "api": {
@@ -63,7 +63,7 @@
   },
   "usesFediverseCovenant": "Fediverse-Friendly Moderation Covenantを使用",
   "@usesFediverseCovenant": {},
-  "usesMastodonCovenant": "マストドンサーバー規約を使用",
+  "usesMastodonCovenant": "Mastodonサーバー規約を使用",
   "@usesMastodonCovenant": {},
   "visibilityButtonTooltip": "投稿の公開範囲を変更",
   "@visibilityButtonTooltip": {},
@@ -672,5 +672,7 @@
   "settingsHidePostMetrics": "投稿のメトリクスを非表示",
   "@settingsHidePostMetrics": {},
   "settingsThirdPartyServices": "サードパーティサービス",
-  "@settingsThirdPartyServices": {}
+  "@settingsThirdPartyServices": {},
+  "settingsPedantry": "とてもマニアックな設定",
+  "@settingsPedantry": {}
 }

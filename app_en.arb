@@ -649,5 +649,13 @@
   "sendFeedbackButton": "Send Feedback",
   "translateButton": "Translate",
   "undoTranslateButton": "Show original text",
-  "settingsThirdPartyServices": "Third-party services"
+  "settingsThirdPartyServices": "Third-party services",
+  "replyButtonLabel": "Reply",
+  "favoriteButtonLabel": "Favorite",
+  "repeatButtonLabel": "Repeat",
+  "bookmarkButtonLabel": "Bookmark",
+  "shareButtonLabel": "Share",
+  "deleteButtonLabel": "Delete",
+  "editButtonLabel": "Edit",
+  "reactButtonLabel": "React"
 }

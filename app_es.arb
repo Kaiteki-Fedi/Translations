@@ -64,8 +64,6 @@
   "@postPreviewTitle": {},
   "postPreviewWaiting": "¡Empieza a escribir para la vista previa!",
   "@postPreviewWaiting": {},
-  "composeSubjectHint": "Asunto (opcional)",
-  "@composeSubjectHint": {},
   "postSubmissionFailed": "Falló la publicación del mensaje",
   "@postSubmissionFailed": {},
   "postSubmissionSent": "Mensaje publicado",

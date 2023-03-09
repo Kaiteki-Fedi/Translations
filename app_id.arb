@@ -1,1 +1,41 @@
-{}
+{
+  "mfaTitle": "Autentikasi-Dua-Faktor",
+  "@mfaTitle": {},
+  "mfaNoCode": "Tolong masukkan sebuah kode",
+  "@mfaNoCode": {},
+  "viewPostButtonLabel": "Lihat Pos",
+  "@viewPostButtonLabel": {},
+  "abortButtonLabel": "Akhiri",
+  "@abortButtonLabel": {},
+  "reactionSupportDescription": "Tambah reaksi ke pos",
+  "@reactionSupportDescription": {},
+  "chatSupport": "Obrolan",
+  "@chatSupport": {},
+  "apiTypeDialog_title": "Tidak dapat mendeteksi jenis instance",
+  "@apiTypeDialog_title": {},
+  "apiTypeDialog_description": "Kaiteki mencoba mencari tahu perangkat lunak apa yang sedang dijalankan oleh instance tersebut, tetapi tidak dapat mengetahuinya. Harap pilih backend instance yang benar dari bawah.",
+  "@apiTypeDialog_description": {},
+  "apiTypeDialog_missing": "Apakah ada sesuatu yang hilang?",
+  "@apiTypeDialog_missing": {},
+  "continueAnywayButtonLabel": "Tetap lanjutkan",
+  "@continueAnywayButtonLabel": {},
+  "reactionSupport": "Reaksi",
+  "@reactionSupport": {},
+  "okButtonLabel": "Oke",
+  "@okButtonLabel": {},
+  "cancelButtonLabel": "Batal",
+  "@cancelButtonLabel": {},
+  "verifyButtonLabel": "Verifikasi",
+  "@verifyButtonLabel": {},
+  "removeButtonLabel": "Hapus",
+  "@removeButtonLabel": {},
+  "sharedBackendFunctionality": "Ini adalah fitur yang didukung oleh {api} dan Kaiteki:",
+  "@sharedBackendFunctionality": {
+    "placeholders": {
+      "api": {
+        "description": "Name of the instance backend software",
+        "example": "Pleroma"
+      }
+    }
+  }
+}

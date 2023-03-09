@@ -37,5 +37,78 @@
         "example": "Pleroma"
       }
     }
+  },
+  "chatSupportDescription": "Kirim pesan instan ke pengguna lain",
+  "@chatSupportDescription": {},
+  "previewSupport": "Pratinjau postingan",
+  "@previewSupport": {},
+  "discoverInstancesButtonLabel": "Temukan instance",
+  "@discoverInstancesButtonLabel": {},
+  "usesFediverseCovenant": "Menggunakan Perjanjian Moderasi yang Ramah terhadap Fediverse",
+  "@usesFediverseCovenant": {},
+  "usesMastodonCovenant": "Menggunakan Perjanjian Server Mastodon",
+  "@usesMastodonCovenant": {},
+  "visibilityButtonTooltip": "Ubah cakupan pos",
+  "@visibilityButtonTooltip": {},
+  "attachButtonTooltip": "Lampirkan",
+  "@attachButtonTooltip": {},
+  "emojiButtonTooltip": "Masukkan emoji",
+  "@emojiButtonTooltip": {},
+  "formattingButtonTooltip": "Ubah pemformatan",
+  "@formattingButtonTooltip": {},
+  "aboutInstanceTitle": "Tentang {instance}",
+  "@aboutInstanceTitle": {
+    "placeholders": {
+      "instance": {
+        "description": "Domain/hostname of the instance",
+        "example": "fedi.absturztau.be"
+      }
+    }
+  },
+  "featureUnsupported": "{feature} tidak didukung",
+  "@featureUnsupported": {
+    "placeholders": {
+      "feature": {
+        "description": "Feature name, always in plural.",
+        "example": "Post previews"
+      }
+    }
+  },
+  "discoverInstancesTitle": "Temukan instance",
+  "@discoverInstancesTitle": {},
+  "previewSupportDescription": "Lihat pratinjau kiriman Anda sebelum mengirimnya",
+  "@previewSupportDescription": {},
+  "discoverInstancesDisclaimer": "Ini adalah daftar instance yang dipilih sendiri, direkomendasikan oleh pengembang Kaiteki dan setiap perangkat lunak instance yang didukung.",
+  "@discoverInstancesDisclaimer": {},
+  "chooseButtonLabel": "Pilih",
+  "@chooseButtonLabel": {},
+  "runsOn": "Berjalan di {api}",
+  "@runsOn": {
+    "placeholders": {
+      "api": {
+        "description": "Name of the instance backend software",
+        "example": "Pleroma"
+      }
+    }
+  },
+  "aboutBackendTitle": "Tentang {api}",
+  "@aboutBackendTitle": {
+    "placeholders": {
+      "api": {
+        "description": "Name of the instance backend software",
+        "example": "Pleroma"
+      }
+    }
+  },
+  "loginButtonLabel": "Masuk",
+  "@loginButtonLabel": {},
+  "featureSupported": "{feature} didukung",
+  "@featureSupported": {
+    "placeholders": {
+      "feature": {
+        "description": "Feature name, always in plural.",
+        "example": "Post previews"
+      }
+    }
   }
 }

@@ -131,8 +131,6 @@
   "@createPollButtonLabel": {},
   "recordVoiceButtonLabel": "Ierakstīt balss",
   "@recordVoiceButtonLabel": {},
-  "subjectButtonLabelDisable": "Atspējot priekšmetu",
-  "@subjectButtonLabelDisable": {},
   "rules": "Noteikumi",
   "@rules": {},
   "rulesLearnMore": "Uzziniet vairāk par noteikumiem",

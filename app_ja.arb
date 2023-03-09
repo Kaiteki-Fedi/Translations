@@ -674,5 +674,19 @@
   "settingsThirdPartyServices": "サードパーティサービス",
   "@settingsThirdPartyServices": {},
   "settingsPedantry": "とてもマニアックな設定",
-  "@settingsPedantry": {}
+  "@settingsPedantry": {},
+  "replyButtonLabel": "返信",
+  "@replyButtonLabel": {},
+  "deleteButtonLabel": "削除",
+  "@deleteButtonLabel": {},
+  "editButtonLabel": "編集",
+  "@editButtonLabel": {},
+  "favoriteButtonLabel": "お気に入り",
+  "@favoriteButtonLabel": {},
+  "repeatButtonLabel": "拡散",
+  "@repeatButtonLabel": {},
+  "bookmarkButtonLabel": "ブックマーク",
+  "@bookmarkButtonLabel": {},
+  "shareButtonLabel": "シェア",
+  "@shareButtonLabel": {}
 }

@@ -674,5 +674,21 @@
   "sendFeedbackButton": "Envoyer des remarques",
   "@sendFeedbackButton": {},
   "undoTranslateButton": "Afficher le texte original",
-  "@undoTranslateButton": {}
+  "@undoTranslateButton": {},
+  "bookmarkButtonLabel": "Mettre en marque-page",
+  "@bookmarkButtonLabel": {},
+  "repeatButtonLabel": "Répéter",
+  "@repeatButtonLabel": {},
+  "shareButtonLabel": "Partager",
+  "@shareButtonLabel": {},
+  "deleteButtonLabel": "Supprimer",
+  "@deleteButtonLabel": {},
+  "editButtonLabel": "Modifier",
+  "@editButtonLabel": {},
+  "reactButtonLabel": "Réagir",
+  "@reactButtonLabel": {},
+  "replyButtonLabel": "Répondre",
+  "@replyButtonLabel": {},
+  "favoriteButtonLabel": "Mettre en favori",
+  "@favoriteButtonLabel": {}
 }

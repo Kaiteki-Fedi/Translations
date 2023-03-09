@@ -674,5 +674,21 @@
   "undoTranslateButton": "显示原始文本",
   "@undoTranslateButton": {},
   "translateButton": "翻译",
-  "@translateButton": {}
+  "@translateButton": {},
+  "shareButtonLabel": "分享",
+  "@shareButtonLabel": {},
+  "repeatButtonLabel": "转发",
+  "@repeatButtonLabel": {},
+  "bookmarkButtonLabel": "添加书签",
+  "@bookmarkButtonLabel": {},
+  "replyButtonLabel": "回复",
+  "@replyButtonLabel": {},
+  "favoriteButtonLabel": "喜欢",
+  "@favoriteButtonLabel": {},
+  "deleteButtonLabel": "删除",
+  "@deleteButtonLabel": {},
+  "editButtonLabel": "编辑",
+  "@editButtonLabel": {},
+  "reactButtonLabel": "表情回应",
+  "@reactButtonLabel": {}
 }

@@ -690,5 +690,7 @@
   "editButtonLabel": "编辑",
   "@editButtonLabel": {},
   "reactButtonLabel": "表情回应",
-  "@reactButtonLabel": {}
+  "@reactButtonLabel": {},
+  "settingsAccessibility": "无障碍",
+  "@settingsAccessibility": {}
 }

@@ -688,5 +688,9 @@
   "bookmarkButtonLabel": "ブックマーク",
   "@bookmarkButtonLabel": {},
   "shareButtonLabel": "シェア",
-  "@shareButtonLabel": {}
+  "@shareButtonLabel": {},
+  "settingsAccessibility": "アクセシビリティ",
+  "@settingsAccessibility": {},
+  "reactButtonLabel": "リアクション",
+  "@reactButtonLabel": {}
 }

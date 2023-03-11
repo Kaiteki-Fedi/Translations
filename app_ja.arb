@@ -218,7 +218,7 @@
   "@usernameFieldHint": {},
   "passwordFieldHint": "パスワード",
   "@passwordFieldHint": {},
-  "emailFieldHint": "電子メールアドレス",
+  "emailFieldHint": "メールアドレス",
   "@emailFieldHint": {},
   "repeatPasswordFieldHint": "パスワードを再度入力",
   "@repeatPasswordFieldHint": {},

@@ -676,5 +676,7 @@
   "editButtonLabel": "Bearbeiten",
   "@editButtonLabel": {},
   "reactButtonLabel": "Reagieren",
-  "@reactButtonLabel": {}
+  "@reactButtonLabel": {},
+  "settingsAccessibility": "Erreichbarkeit",
+  "@settingsAccessibility": {}
 }

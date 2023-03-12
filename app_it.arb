@@ -682,5 +682,9 @@
   "deleteButtonLabel": "Elimina",
   "@deleteButtonLabel": {},
   "reactButtonLabel": "Reagisci",
-  "@reactButtonLabel": {}
+  "@reactButtonLabel": {},
+  "settingsHidePostMetricsDescription": "Nasconde la quantità di risposte, preferiti e ripetizioni di una pubblicazione",
+  "@settingsHidePostMetricsDescription": {},
+  "settingsAccessibility": "Accessibilità",
+  "@settingsAccessibility": {}
 }

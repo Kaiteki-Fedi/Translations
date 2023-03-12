@@ -690,5 +690,7 @@
   "replyButtonLabel": "Répondre",
   "@replyButtonLabel": {},
   "favoriteButtonLabel": "Mettre en favori",
-  "@favoriteButtonLabel": {}
+  "@favoriteButtonLabel": {},
+  "settingsAccessibility": "Accessibilité",
+  "@settingsAccessibility": {}
 }

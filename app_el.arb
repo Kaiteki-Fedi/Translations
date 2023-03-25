@@ -1,1 +1,406 @@
-{}
+{
+  "authDuplicate": "Υπάρχει ήδη ένας λογαριασμός με το ίδιο instance και όνομα χρήστη",
+  "@authDuplicate": {},
+  "welcome": "Καλωσορίσατε στο Kaiteki!",
+  "@welcome": {},
+  "accountRequiredToContinue": "Για να συνεχίσετε, πρέπει να συνδεθείτε σε τουλάχιστον ένα instance.",
+  "@accountRequiredToContinue": {},
+  "settingsSensitivePosts": "Ευαίσθητες αναρτήσεις",
+  "@settingsSensitivePosts": {},
+  "failedToLaunchUrl": "Το URL δεν ήταν δυνατό να ανοιχτεί",
+  "@failedToLaunchUrl": {},
+  "apiTypeDialog_title": "Δεν ανιχνεύτηκε ο τύπος του instance",
+  "@apiTypeDialog_title": {},
+  "chooseButtonLabel": "Επιλογή",
+  "@chooseButtonLabel": {},
+  "settingsGeneral": "Γενικά",
+  "@settingsGeneral": {},
+  "apiTypeDialog_missing": "Λείπει κάτι;",
+  "@apiTypeDialog_missing": {},
+  "okButtonLabel": "Εντάξει",
+  "@okButtonLabel": {},
+  "verifyButtonLabel": "Επιβεβαίωση",
+  "@verifyButtonLabel": {},
+  "runsOn": "Τρέχει σε {api}",
+  "@runsOn": {
+    "placeholders": {
+      "api": {
+        "description": "Name of the instance backend software",
+        "example": "Pleroma"
+      }
+    }
+  },
+  "usesMastodonCovenant": "Χρησιμοποιεί το Σύμφωνο Mastodon Server",
+  "@usesMastodonCovenant": {},
+  "attachButtonTooltip": "Επισύναψη",
+  "@attachButtonTooltip": {},
+  "emojiButtonTooltip": "Προσθήκη emoji",
+  "@emojiButtonTooltip": {},
+  "formattingButtonTooltip": "Αλλαγή μορφοποίησης",
+  "@formattingButtonTooltip": {},
+  "rules": "Κανονισμοί",
+  "@rules": {},
+  "postPreviewTitle": "Προεπισκόπηση",
+  "@postPreviewTitle": {},
+  "postSubmissionFailed": "Η ανάρτηση απέτυχε να σταλεί",
+  "@postSubmissionFailed": {},
+  "postSubmissionSent": "Η ανάρτηση στάλθηκε",
+  "@postSubmissionSent": {},
+  "submitButtonTooltip": "Υποβολή",
+  "@submitButtonTooltip": {},
+  "empty": "Φαίνεται άδειο εδώ…",
+  "@empty": {},
+  "followersTab": "Ακόλουθοι",
+  "@followersTab": {},
+  "followingTab": "Ακολουθείτε",
+  "@followingTab": {},
+  "timelineTab": "Χρονολόγιο",
+  "@timelineTab": {},
+  "chatsTab": "Συνομιλίες",
+  "@chatsTab": {},
+  "niy": "Δεν υλοποιήθηκε ακόμα",
+  "@niy": {},
+  "settings": "Ρυθμίσεις",
+  "@settings": {},
+  "settingsHideSensitivePosts": "Απόκρυψη ευαίσθητων αναρτήσεων",
+  "@settingsHideSensitivePosts": {},
+  "settingsSubjectPosts": "Αναρτήσεις με θέματα",
+  "@settingsSubjectPosts": {},
+  "creditsTitle": "Συντελεστές",
+  "@creditsTitle": {},
+  "settingsAbout": "Σχετικά με το Kaiteki",
+  "@settingsAbout": {},
+  "settingsSecurity": "Ασφάλεια",
+  "@settingsSecurity": {},
+  "settingsFiltering": "Φιλτράρισμα",
+  "@settingsFiltering": {},
+  "settingsNotifications": "Ειδοποιήσεις",
+  "@settingsNotifications": {},
+  "settingsMutesBlocks": "Σιγάσεις και Μπλοκαρίσματα",
+  "@settingsMutesBlocks": {},
+  "settingsKaiteki": "Ρυθμίσεις του Kaiteki",
+  "@settingsKaiteki": {},
+  "settingsCustomization": "Εξατομίκευση",
+  "@settingsCustomization": {},
+  "settingsDebugMaintenance": "Αποσφαλμάτωση και Συντήρηση",
+  "@settingsDebugMaintenance": {},
+  "authNoInstance": "Παρακαλώ πληκτρολογήστε ένα instance",
+  "@authNoInstance": {},
+  "authNoUsername": "Παρακαλώ πληκτρολογήστε ένα όνομα χρήστη",
+  "@authNoUsername": {},
+  "authNoUrlAllowed": "Παρακαλώ πληκτρολογήστε μόνο τη διεύθυνση",
+  "@authNoUrlAllowed": {},
+  "authOAuthPending": "Αναμονή για να τελειώσει το OAuth…",
+  "@authOAuthPending": {
+    "description": "Kaiteki is waiting for an external website to confirm an authorization request"
+  },
+  "loginTitle": "Συνδεθείτε σε ένα instance",
+  "@loginTitle": {},
+  "loginTitleInstance": "Συνδεθείτε στο {instance}",
+  "@loginTitleInstance": {
+    "placeholders": {
+      "instance": {
+        "description": "Instance name",
+        "example": "'the wired' or as fallback 'letsalllovela.in'"
+      }
+    }
+  },
+  "nextButtonLabel": "Επόμενο",
+  "@nextButtonLabel": {},
+  "usernameFieldHint": "Όνομα Χρήστη",
+  "@usernameFieldHint": {},
+  "emailFieldHint": "Διεύθυνση Email",
+  "@emailFieldHint": {},
+  "repeatPasswordFieldHint": "Επανάληψη κωδικού πρόσβασης",
+  "@repeatPasswordFieldHint": {},
+  "authPasswordNoMatch": "Οι κωδικοί πρέπει να ταιριάζουν",
+  "@authPasswordNoMatch": {},
+  "forgotPasswordButtonLabel": "Ξέχασα τον κωδικό πρόσβασης",
+  "@forgotPasswordButtonLabel": {},
+  "existingAccountButtonLabel": "Σύνδεση με υπάρχον λογαριασμό",
+  "@existingAccountButtonLabel": {},
+  "registerButtonLabel": "Δημιουργία Λογαριασμού",
+  "@registerButtonLabel": {},
+  "addAccountButtonLabel": "Προσθήκη Λογαριασμού",
+  "@addAccountButtonLabel": {},
+  "threadRetrievalFailed": "Αποτυχία ανάκτησης νήματος",
+  "@threadRetrievalFailed": {},
+  "emojiRetrievalFailed": "Αποτυχία ανάκτησης emojis",
+  "@emojiRetrievalFailed": {},
+  "conversationTitle": "Συζήτηση",
+  "@conversationTitle": {
+    "description": "Title used for conversation/thread page"
+  },
+  "manageAccountsTitle": "Διαχείριση Λογαριασμών",
+  "@manageAccountsTitle": {},
+  "accountRemovalConfirmationTitle": "Αφαίρεση λογαριασμού;",
+  "@accountRemovalConfirmationTitle": {},
+  "accountRemovalConfirmationDescription": "Αν αφαιρέσετε αυτόν το λογαριασμό θα πρέπει να συνδεθείτε αργότερα για να τον χρησιμοποιήσετε ξανά.",
+  "@accountRemovalConfirmationDescription": {},
+  "switchListTileTextOn": "Ανοιχτό",
+  "@switchListTileTextOn": {},
+  "switchListTileTextOff": "Κλειστό",
+  "@switchListTileTextOff": {},
+  "filteringIncludeSensitive": "Προσθήκη αναρτήσεων μαρκαρισμένων ως ευαίσθητων",
+  "@filteringIncludeSensitive": {},
+  "filteringIncludeSubject": "Προσθήκη αναρτήσεων με θέμα",
+  "@filteringIncludeSubject": {},
+  "filteringSensitiveTitle": "Φιλτράρισμα ευαίσθητων αναρτήσεων",
+  "@filteringSensitiveTitle": {},
+  "composeButtonLabel": "Σύνθεση",
+  "@composeButtonLabel": {},
+  "composeDialogTitle": "Σύνθεση νέας ανάρτησης",
+  "@composeDialogTitle": {},
+  "discardButtonTooltip": "Απόρριψη",
+  "@discardButtonTooltip": {},
+  "theme": "Θέμα",
+  "@theme": {},
+  "selectThemeTitle": "Επιλογή θέματος",
+  "@selectThemeTitle": {},
+  "themeLight": "Ανοιχτό",
+  "@themeLight": {},
+  "themeDark": "Σκούρο",
+  "@themeDark": {},
+  "themeSystem": "Προεπιλογή συστήματος",
+  "@themeSystem": {},
+  "creditsLicenses": "Άδειες Ανοιχτού Κώδικα",
+  "@creditsLicenses": {},
+  "timeDifferenceMinutes": "{minutes}λ",
+  "@timeDifferenceMinutes": {
+    "description": "Text used to display how many minutes have passed since a certain event",
+    "placeholders": {
+      "minutes": {
+        "description": "Amount of minutes",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceHours": "{hours}ω",
+  "@timeDifferenceHours": {
+    "description": "Text used to display how many hours have passed since a certain event",
+    "placeholders": {
+      "hours": {
+        "description": "Amount of hours",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceDays": "{days}μ",
+  "@timeDifferenceDays": {
+    "description": "Text used to display how many days have passed since a certain event",
+    "placeholders": {
+      "days": {
+        "description": "Amount of days",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceWeeks": "{weeks}ε",
+  "@timeDifferenceWeeks": {
+    "description": "Text used to display how many weeks have passed since a certain event",
+    "placeholders": {
+      "weeks": {
+        "description": "Amount of weeks",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceYears": "{years}χ",
+  "@timeDifferenceYears": {
+    "description": "Text used to display how many years have passed since a certain event",
+    "placeholders": {
+      "years": {
+        "description": "Amount of years",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceSeconds": "{seconds}δ",
+  "@timeDifferenceSeconds": {
+    "description": "Text used to display how many seconds have passed since a certain event",
+    "placeholders": {
+      "seconds": {
+        "description": "Amount of seconds",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceNow": "τώρα",
+  "@timeDifferenceNow": {
+    "description": "Text used to display an event that just happened"
+  },
+  "replyTo": "Απάντηση σε",
+  "@replyTo": {
+    "description": "Gets appended with replyee's display name"
+  },
+  "postRepeated": "επανάλαβε",
+  "@postRepeated": {
+    "description": "Gets prepended with repeater's display name"
+  },
+  "openInBrowserLabel": "Άνοιγμα σε browser",
+  "@openInBrowserLabel": {},
+  "visibilityDirect": "Άμεσο μήνυμα",
+  "@visibilityDirect": {},
+  "visibilityFollowersOnly": "Μόνο για ακόλουθους",
+  "@visibilityFollowersOnly": {},
+  "visibilityUnlisted": "Εκτός λίστας",
+  "@visibilityUnlisted": {},
+  "visibilityPublic": "Δημόσιο",
+  "@visibilityPublic": {},
+  "visibilityDirectDescription": "Ορατό στους αναφερόμενους χρήστες",
+  "@visibilityDirectDescription": {},
+  "visibilityFollowersOnlyDescription": "Ορατό στους ακόλουθους",
+  "@visibilityFollowersOnlyDescription": {},
+  "visibilityUnlistedDescription": "Ορατό σε όλους, δεν εμφανίζεται στα δημόσια χρονολόγια",
+  "@visibilityUnlistedDescription": {},
+  "formattingPlain": "Απλό κείμενο",
+  "@formattingPlain": {},
+  "attachFilesButtonLabel": "Επισύναψη αρχείων",
+  "@attachFilesButtonLabel": {},
+  "takePictureButtonLabel": "Λήψη φωτογραφίας",
+  "@takePictureButtonLabel": {},
+  "createPollButtonLabel": "Δημιουργία ψηφοφορίας",
+  "@createPollButtonLabel": {},
+  "recordVoiceButtonLabel": "Εγγραφή φωνής",
+  "@recordVoiceButtonLabel": {},
+  "timelineRetrievalFailed": "Αποτυχία λήψης χρονολογίου",
+  "@timelineRetrievalFailed": {},
+  "searchButtonLabel": "Αναζήτηση",
+  "@searchButtonLabel": {},
+  "refresh": "Ανανέωση",
+  "@refresh": {},
+  "attachmentNoDescription": "Χωρίς περιγραφή",
+  "@attachmentNoDescription": {},
+  "attachmentDownloadSuccessful": "Το {fileName} ελήφθη",
+  "@attachmentDownloadSuccessful": {
+    "placeholders": {
+      "fileName": {
+        "description": "The name of the file that the user has downloaded",
+        "example": "image.jpg"
+      }
+    }
+  },
+  "attachmentDownloadDialogTitle": "Λήψη συνημμένου",
+  "@attachmentDownloadDialogTitle": {},
+  "discardDraftDialogTitle": "Απόρριψη προσχεδίου;",
+  "@discardDraftDialogTitle": {},
+  "postBookmarkAdded": "Προστέθηκε σελιδοδείκτης",
+  "@postBookmarkAdded": {},
+  "postBookmarkRemoved": "Αφαιρέθηκε σελιδοδείκτης",
+  "@postBookmarkRemoved": {},
+  "reportLabel": "Αναφορά",
+  "@reportLabel": {},
+  "apiTypeDialog_description": "Το Kaiteki προσπάθησε να βρει ποιο λογισμικό τρέχει το instance αλλά δεν τα κατάφερε. Παρακαλώ επιλέξτε το σωστό instance backend παρακάτω.",
+  "@apiTypeDialog_description": {},
+  "mfaNoCode": "Παρακαλώ πληκτρολογήστε έναν κωδικό",
+  "@mfaNoCode": {},
+  "rulesLearnMore": "Μάθετε περισσότερα για τους κανόνες",
+  "@rulesLearnMore": {},
+  "cancelButtonLabel": "Ακύρωση",
+  "@cancelButtonLabel": {},
+  "composeBodyHint": "Μόλις προσγειώθηκα στο L.A.",
+  "@composeBodyHint": {},
+  "discoverInstancesDisclaimer": "Αυτή είναι μια λίστα με επιλεγμένα instances, προτεινόμενα από τους προγραμματιστές του Kaiteki και κάθε υποστηριζόμενο λογισμικό instance.",
+  "@discoverInstancesDisclaimer": {},
+  "usesFediverseCovenant": "Χρησιμοποιεί το Φιλικό προς το Fediverse Σύμφωνο Διαχείρισης",
+  "@usesFediverseCovenant": {},
+  "aboutInstanceTitle": "Σχετικά με το {instance}",
+  "@aboutInstanceTitle": {
+    "placeholders": {
+      "instance": {
+        "description": "Domain/hostname of the instance",
+        "example": "fedi.absturztau.be"
+      }
+    }
+  },
+  "aboutBackendTitle": "Σχετικά με το {api}",
+  "@aboutBackendTitle": {
+    "placeholders": {
+      "api": {
+        "description": "Name of the instance backend software",
+        "example": "Pleroma"
+      }
+    }
+  },
+  "loginButtonLabel": "Είσοδος",
+  "@loginButtonLabel": {},
+  "postPreviewWaiting": "Ξεκινήστε να γράφετε για να δείτε την προεπισκόπηση!",
+  "@postPreviewWaiting": {},
+  "postSubmissionSending": "Αποστολή ανάρτησης",
+  "@postSubmissionSending": {},
+  "settingsDisabled": "Ανενεργό",
+  "@settingsDisabled": {},
+  "composeContentWarningHint": "Προειδοποίηση περιεχομένου (προαιρετικό)",
+  "@composeContentWarningHint": {},
+  "postsTab": "Αναρτήσεις",
+  "@postsTab": {},
+  "notificationsTab": "Ειδοποιήσεις",
+  "@notificationsTab": {},
+  "settingsProfile": "Προφίλ",
+  "@settingsProfile": {},
+  "settingsImportExport": "Εισαγωγή / Εξαγωγή Δεδομένων",
+  "@settingsImportExport": {},
+  "settingsTabs": "Καρτέλες",
+  "@settingsTabs": {},
+  "authNoPassword": "Παρακαλώ πλητρολογήστε έναν κωδικό",
+  "@authNoPassword": {},
+  "backButtonLabel": "Πίσω",
+  "@backButtonLabel": {},
+  "passwordFieldHint": "Κωδικός Πρόσβασης",
+  "@passwordFieldHint": {},
+  "createAccountButtonLabel": "Δημιουργία νέου λογαριασμού",
+  "@createAccountButtonLabel": {},
+  "unsupportedInstanceTitle": "Αυτός ο τύπος instance δεν υποστηρίζεται προς το παρόν",
+  "@unsupportedInstanceTitle": {},
+  "unsupportedInstanceDescriptionCORS": "Το Kaiteki Web δεν υποστηρίζει το {api} προς το παρόν επειδή ο browser σας μπλοκάρει τα requests προς το instance με προέλευση από άλλες ιστοσελίδες. Για περισσότερες πληροφορίες επισκεφτείτε το ",
+  "@unsupportedInstanceDescriptionCORS": {
+    "placeholders": {
+      "api": {
+        "description": "Name of the instance backend software",
+        "example": "Pleroma"
+      }
+    }
+  },
+  "emptyAccounts": "Δεν υπάρχουν λογαριασμοί",
+  "@emptyAccounts": {
+    "description": "Placeholder text used if user doesn't have any accounts"
+  },
+  "composeDialogTitleReply": "Απάντηση σε ",
+  "@composeDialogTitleReply": {
+    "description": "Title used when compose dialog is shown for writing a reply. Gets appended with replyee's display name"
+  },
+  "creditsGithubRepo": "Αποθετήριο GitHub",
+  "@creditsGithubRepo": {},
+  "creditsWebsite": "Ιστοσελίδα",
+  "@creditsWebsite": {},
+  "attachmentUnsupported": "Μη υποστηριζόμενο συνημμένο",
+  "@attachmentUnsupported": {},
+  "viewOnlineButtonLabel": "Δείτε online",
+  "@viewOnlineButtonLabel": {
+    "description": "Button label used when certain content can't be displayed in Kaiteki but might able to in a web browser instead (e.g. videos)."
+  },
+  "visibilityPublicDescription": "Ορατό σε όλους",
+  "@visibilityPublicDescription": {},
+  "contentWarningButtonLabelEnable": "Ενεργοποίηση προειδοποίησης περιεχομένου",
+  "@contentWarningButtonLabelEnable": {},
+  "contentWarningButtonLabelDisable": "Απενεργοποίηση προειδοποίησης περιεχομένου",
+  "@contentWarningButtonLabelDisable": {},
+  "attachmentDownloadButtonLabel": "Λήψη συνημμένου",
+  "@attachmentDownloadButtonLabel": {},
+  "attachmentDownloadInProgress": "Λήψη συνημμένου…",
+  "@attachmentDownloadInProgress": {},
+  "refreshTimelineButtonLabel": "Ανανέωση",
+  "@refreshTimelineButtonLabel": {},
+  "creditsTelegramChannel": "Κανάλι Telegram",
+  "@creditsTelegramChannel": {},
+  "discardDraftDialogDescription": "Θέλετε σίγουρα να απορρίψετε αυτό το προσχέδιο;",
+  "@discardDraftDialogDescription": {},
+  "discardButtonLabel": "Απόρριψη",
+  "@discardButtonLabel": {},
+  "whyButtonLabel": "Γιατί;",
+  "@whyButtonLabel": {},
+  "keepWritingButtonLabel": "Συνέχιση σύνταξης",
+  "@keepWritingButtonLabel": {},
+  "postBookmarkFailed": "Αποτυχία προσθήκης ή αφαίρεσης ανάρτησης από τους σελιδοδείκτες",
+  "@postBookmarkFailed": {}
+}

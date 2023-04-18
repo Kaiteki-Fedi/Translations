@@ -561,5 +561,60 @@
   "visibilityCircleDescription": "Ορατό στους χρήστες του κύκλου σας",
   "@visibilityCircleDescription": {},
   "contentWarningBehaviorAutomaticDescription": "Οι αναρτήσεις θα αποκρύπτονται αν η ειδοποίηση περιεχομένου τους περιέχει ευαίσθητες λέξεις.",
-  "@contentWarningBehaviorAutomaticDescription": {}
+  "@contentWarningBehaviorAutomaticDescription": {},
+  "removeButtonLabel": "Διαγραφή",
+  "@removeButtonLabel": {},
+  "featureSupported": "Οι {feature} υποστηρίζονται",
+  "@featureSupported": {
+    "placeholders": {
+      "feature": {
+        "description": "Feature name, always in plural.",
+        "example": "Post previews"
+      }
+    }
+  },
+  "featureUnsupported": "Οι {feature} δεν υποστηρίζονται",
+  "@featureUnsupported": {
+    "placeholders": {
+      "feature": {
+        "description": "Feature name, always in plural.",
+        "example": "Post previews"
+      }
+    }
+  },
+  "timelineBookmarks": "Σελιδοδείκτες",
+  "@timelineBookmarks": {},
+  "timelineFederatedDescription": "Αναρτήσεις από όλο το Fediverse",
+  "@timelineFederatedDescription": {},
+  "timelineDirectMessagesDescription": "Αναρτήσεις που στάλθηκαν άμεσα σε άλλους",
+  "@timelineDirectMessagesDescription": {},
+  "timelineDirectMessages": "Άμεσα Μηνύματα",
+  "@timelineDirectMessages": {},
+  "timelineBookmarksDescription": "Αναρτήσεις που έχετε ορίσει ως σελιδοδείκτες",
+  "@timelineBookmarksDescription": {},
+  "keyboardShortcutsNavigation": "Πλοήγηση",
+  "@keyboardShortcutsNavigation": {},
+  "featureSupportListTileTitle": "Αμοιβαία υποστηριζόμενες λειτουργίες",
+  "@featureSupportListTileTitle": {},
+  "postPinned": "Καρφιτσωμένο",
+  "@postPinned": {},
+  "copyAttachmentUrl": "Αντιγραφή διεύθυνσης συνημμένου",
+  "@copyAttachmentUrl": {},
+  "pageViewTitle": "{current} από {total}",
+  "@pageViewTitle": {
+    "placeholders": {
+      "current": {
+        "description": "The current number of the page",
+        "example": "2"
+      },
+      "total": {
+        "description": "The total amount of pages available",
+        "example": "10"
+      }
+    }
+  },
+  "visibilityLocalDescription": "Ορατό στους χρήστες του ίδιου instance",
+  "@visibilityLocalDescription": {},
+  "visibilityLocal": "Τοπικό",
+  "@visibilityLocal": {}
 }

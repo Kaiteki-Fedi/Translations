@@ -692,5 +692,9 @@
   "reactButtonLabel": "React",
   "@reactButtonLabel": {},
   "settingsAccessibility": "Accessibility",
-  "@settingsAccessibility": {}
+  "@settingsAccessibility": {},
+  "visibilityMutuals": "Mutuals-only",
+  "@visibilityMutuals": {},
+  "visibilityMutualsDescription": "Visible to users you follow and follow you back",
+  "@visibilityMutualsDescription": {}
 }

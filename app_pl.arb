@@ -1,0 +1,88 @@
+{
+  "aboutBackendTitle": "O {api}",
+  "@aboutBackendTitle": {
+    "placeholders": {
+      "api": {
+        "description": "Name of the instance backend software",
+        "example": "Pleroma"
+      }
+    }
+  },
+  "apiTypeDialog_title": "Nie udało się wykryć rodzaju instancji",
+  "@apiTypeDialog_title": {},
+  "mfaNoCode": "Wprowadź kod",
+  "@mfaNoCode": {},
+  "okButtonLabel": "OK",
+  "@okButtonLabel": {},
+  "verifyButtonLabel": "Potwierdź",
+  "@verifyButtonLabel": {},
+  "removeButtonLabel": "Usuń",
+  "@removeButtonLabel": {},
+  "viewPostButtonLabel": "Pokaż post",
+  "@viewPostButtonLabel": {},
+  "chatSupportDescription": "Wysyłaj wiadomości do innych użytkowników",
+  "@chatSupportDescription": {},
+  "previewSupport": "Podglądy postów",
+  "@previewSupport": {},
+  "discoverInstancesButtonLabel": "Odkryj instancje",
+  "@discoverInstancesButtonLabel": {},
+  "runsOn": "Działa na {api}",
+  "@runsOn": {
+    "placeholders": {
+      "api": {
+        "description": "Name of the instance backend software",
+        "example": "Pleroma"
+      }
+    }
+  },
+  "visibilityButtonTooltip": "Zmień zasięg posta",
+  "@visibilityButtonTooltip": {},
+  "attachButtonTooltip": "Dodaj załącznik",
+  "@attachButtonTooltip": {},
+  "formattingButtonTooltip": "Zmień formatowanie",
+  "@formattingButtonTooltip": {},
+  "aboutInstanceTitle": "O {instance}",
+  "@aboutInstanceTitle": {
+    "placeholders": {
+      "instance": {
+        "description": "Domain/hostname of the instance",
+        "example": "fedi.absturztau.be"
+      }
+    }
+  },
+  "loginButtonLabel": "Zaloguj",
+  "@loginButtonLabel": {},
+  "rules": "Zasady",
+  "@rules": {},
+  "mfaTitle": "Uwierzytelnianie dwuetapowe",
+  "@mfaTitle": {},
+  "cancelButtonLabel": "Anuluj",
+  "@cancelButtonLabel": {},
+  "sharedBackendFunctionality": "Funkcje wspierane zarówno przez {api} i Kaiteki:",
+  "@sharedBackendFunctionality": {
+    "placeholders": {
+      "api": {
+        "description": "Name of the instance backend software",
+        "example": "Pleroma"
+      }
+    }
+  },
+  "emojiButtonTooltip": "Wprowadź emoji",
+  "@emojiButtonTooltip": {},
+  "reactionSupport": "Reakcje",
+  "@reactionSupport": {},
+  "chatSupport": "Wiadomości",
+  "@chatSupport": {},
+  "previewSupportDescription": "Zobacz podgląd swojego posta przed jego wysłaniem",
+  "@previewSupportDescription": {},
+  "discoverInstancesTitle": "Odkryj instancje",
+  "@discoverInstancesTitle": {},
+  "chooseButtonLabel": "Wybierz",
+  "@chooseButtonLabel": {},
+  "rulesLearnMore": "Dowiedz się więcej o zasadach",
+  "@rulesLearnMore": {},
+  "manageAccountsTitle": "Zarządzaj kontami",
+  "@manageAccountsTitle": {},
+  "postPreviewTitle": "Podgląd",
+  "@postPreviewTitle": {}
+}

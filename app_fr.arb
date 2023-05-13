@@ -692,5 +692,9 @@
   "favoriteButtonLabel": "Mettre en favori",
   "@favoriteButtonLabel": {},
   "settingsAccessibility": "Accessibilité",
-  "@settingsAccessibility": {}
+  "@settingsAccessibility": {},
+  "visibilityMutualsDescription": "Visible par les utilisateurs que vous suivez et qui vous suivent en retour",
+  "@visibilityMutualsDescription": {},
+  "visibilityMutuals": "Mutuels seulement",
+  "@visibilityMutuals": {}
 }

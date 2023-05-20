@@ -466,5 +466,11 @@
     }
   },
   "attachmentDownloadInProgress": "Скачиваю вложение…",
-  "@attachmentDownloadInProgress": {}
+  "@attachmentDownloadInProgress": {},
+  "composeContentWarningHint": "Предупреждение о содержимом (необязательно)",
+  "@composeContentWarningHint": {},
+  "contentWarningButtonLabelEnable": "Включить предупреждение о содержимом",
+  "@contentWarningButtonLabelEnable": {},
+  "usesMastodonCovenant": "Использует протокол сервера Mastodon",
+  "@usesMastodonCovenant": {}
 }

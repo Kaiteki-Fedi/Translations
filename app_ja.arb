@@ -692,5 +692,9 @@
   "settingsAccessibility": "アクセシビリティ",
   "@settingsAccessibility": {},
   "reactButtonLabel": "リアクション",
-  "@reactButtonLabel": {}
+  "@reactButtonLabel": {},
+  "visibilityMutualsDescription": "相互にフォローし合っているユーザーに見えます",
+  "@visibilityMutualsDescription": {},
+  "visibilityMutuals": "相互フォロワー限定",
+  "@visibilityMutuals": {}
 }

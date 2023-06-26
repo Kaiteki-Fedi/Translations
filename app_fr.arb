@@ -393,8 +393,6 @@
   "@bookmarkSupport": {},
   "timelineFederated": "Fédéré",
   "@timelineFederated": {},
-  "timelineHome": "Accueil",
-  "@timelineHome": {},
   "settingsHideSensitivePosts": "Masquer les publications sensibles",
   "@settingsHideSensitivePosts": {},
   "settingsSubjectPosts": "Publications avec objets",

@@ -170,5 +170,207 @@
   "emailFieldHint": "Dirección de correo electrónico",
   "@emailFieldHint": {},
   "passwordFieldHint": "Contraseña",
-  "@passwordFieldHint": {}
+  "@passwordFieldHint": {},
+  "authNoInstance": "Por favor ingrese una instancia",
+  "@authNoInstance": {},
+  "chatsTab": "Conversaciones",
+  "@chatsTab": {},
+  "settingsDebugMaintenance": "Depuración y Mantenimiento",
+  "@settingsDebugMaintenance": {},
+  "authNoPassword": "Por favor ingrese una contraseña",
+  "@authNoPassword": {},
+  "authDuplicate": "Ya existe una cuenta con la misma instancia y nombre de usuario",
+  "@authDuplicate": {},
+  "usernameFieldHint": "Nombre de usuario",
+  "@usernameFieldHint": {},
+  "existingAccountButtonLabel": "Iniciar sesión con una cuenta existente",
+  "@existingAccountButtonLabel": {},
+  "conversationTitle": "Conversación",
+  "@conversationTitle": {
+    "description": "Title used for conversation/thread page"
+  },
+  "registerButtonLabel": "Registrarse",
+  "@registerButtonLabel": {},
+  "composeDialogTitleReply": "Responder a ",
+  "@composeDialogTitleReply": {
+    "description": "Title used when compose dialog is shown for writing a reply. Gets appended with replyee's display name"
+  },
+  "themeSystem": "Predeterminado del sistema",
+  "@themeSystem": {},
+  "threadRetrievalFailed": "Error al recibir hilo",
+  "@threadRetrievalFailed": {},
+  "timeDifferenceSeconds": "{seconds}s",
+  "@timeDifferenceSeconds": {
+    "description": "Text used to display how many seconds have passed since a certain event",
+    "placeholders": {
+      "seconds": {
+        "description": "Amount of seconds",
+        "example": "2"
+      }
+    }
+  },
+  "openInBrowserLabel": "Abrir en navegador",
+  "@openInBrowserLabel": {},
+  "timeDifferenceNow": "ahora",
+  "@timeDifferenceNow": {
+    "description": "Text used to display an event that just happened"
+  },
+  "replyTo": "Respondiendo a",
+  "@replyTo": {
+    "description": "Gets appended with replyee's display name"
+  },
+  "composeContentWarningHint": "Alerta de contenido (opcional)",
+  "@composeContentWarningHint": {},
+  "reactionSupportDescription": "Agrega reacciones a publicaciones",
+  "@reactionSupportDescription": {},
+  "chatSupportDescription": "Envía mensajes directos a otros usuarios",
+  "@chatSupportDescription": {},
+  "previewSupportDescription": "Mira una vista previa de tu publicación antes de enviarla",
+  "@previewSupportDescription": {},
+  "usesFediverseCovenant": "Usa el Pacto de Moderación Amigable al Fediverso",
+  "@usesFediverseCovenant": {},
+  "loginButtonLabel": "Iniciar sesión",
+  "@loginButtonLabel": {},
+  "settingsCustomization": "Personalización",
+  "@settingsCustomization": {},
+  "settingsTabs": "Pestañas",
+  "@settingsTabs": {},
+  "authNoUsername": "Por favor ingrese un nombre de usuario",
+  "@authNoUsername": {},
+  "authNoUrlAllowed": "Por favor ingrese solamente el nombre de dominio",
+  "@authNoUrlAllowed": {},
+  "loginTitle": "Ingresar a una instancia",
+  "@loginTitle": {},
+  "loginTitleInstance": "Ingresar a {instance}",
+  "@loginTitleInstance": {
+    "placeholders": {
+      "instance": {
+        "description": "Instance name",
+        "example": "'the wired' or as fallback 'letsalllovela.in'"
+      }
+    }
+  },
+  "nextButtonLabel": "Siguiente",
+  "@nextButtonLabel": {},
+  "backButtonLabel": "Anterior",
+  "@backButtonLabel": {},
+  "instanceFieldHint": "Instancia",
+  "@instanceFieldHint": {},
+  "repeatPasswordFieldHint": "Repetir contraseña",
+  "@repeatPasswordFieldHint": {},
+  "authPasswordNoMatch": "Las contraseñas deben coincidir",
+  "@authPasswordNoMatch": {},
+  "forgotPasswordButtonLabel": "He olvidado mi contraseña",
+  "@forgotPasswordButtonLabel": {},
+  "createAccountButtonLabel": "Crear una nueva cuenta",
+  "@createAccountButtonLabel": {},
+  "unsupportedInstanceTitle": "Este tipo de instancia no está soportado",
+  "@unsupportedInstanceTitle": {},
+  "unsupportedInstanceDescriptionCORS": "Kaiteki Web no tiene soporte para {api} en este momento ya que su navegador bloquea las solicitudes hacia la instancia con origen desde otros sitios web. Para más información, visite ",
+  "@unsupportedInstanceDescriptionCORS": {
+    "placeholders": {
+      "api": {
+        "description": "Name of the instance backend software",
+        "example": "Pleroma"
+      }
+    }
+  },
+  "addAccountButtonLabel": "Agregar Cuenta",
+  "@addAccountButtonLabel": {},
+  "emojiRetrievalFailed": "Error al recibir emojis",
+  "@emojiRetrievalFailed": {},
+  "emptyAccounts": "No hay cuentas",
+  "@emptyAccounts": {
+    "description": "Placeholder text used if user doesn't have any accounts"
+  },
+  "manageAccountsTitle": "Administrar Cuentas",
+  "@manageAccountsTitle": {},
+  "accountRemovalConfirmationTitle": "¿Eliminar la cuenta?",
+  "@accountRemovalConfirmationTitle": {},
+  "accountRemovalConfirmationDescription": "Si eliminas esta cuenta, tendrás que iniciar sesión después para volver a usarla.",
+  "@accountRemovalConfirmationDescription": {},
+  "switchListTileTextOn": "Encendido",
+  "@switchListTileTextOn": {},
+  "switchListTileTextOff": "Apagado",
+  "@switchListTileTextOff": {},
+  "filteringIncludeSensitive": "Incluir publiaciones marcadas como sensibles",
+  "@filteringIncludeSensitive": {},
+  "filteringIncludeSubject": "Incluir publicaciones con asunto",
+  "@filteringIncludeSubject": {},
+  "filteringSensitiveTitle": "Filtrar publicaciones sensibles",
+  "@filteringSensitiveTitle": {},
+  "composeButtonLabel": "Redactar",
+  "@composeButtonLabel": {},
+  "composeDialogTitle": "Redactar una publicación nueva",
+  "@composeDialogTitle": {},
+  "discardButtonTooltip": "Descartar",
+  "@discardButtonTooltip": {},
+  "theme": "Tema",
+  "@theme": {},
+  "selectThemeTitle": "Seleccionar tema",
+  "@selectThemeTitle": {},
+  "themeLight": "Claro",
+  "@themeLight": {},
+  "themeDark": "Oscuro",
+  "@themeDark": {},
+  "creditsLicenses": "Licencias de Código Abierto",
+  "@creditsLicenses": {},
+  "creditsGithubRepo": "Repositorio de GitHub",
+  "@creditsGithubRepo": {},
+  "creditsWebsite": "Sitio web",
+  "@creditsWebsite": {},
+  "attachmentUnsupported": "Adjunto no soportado",
+  "@attachmentUnsupported": {},
+  "viewOnlineButtonLabel": "Ver en web",
+  "@viewOnlineButtonLabel": {
+    "description": "Button label used when certain content can't be displayed in Kaiteki but might able to in a web browser instead (e.g. videos)."
+  },
+  "timeDifferenceMinutes": "{minutes}m",
+  "@timeDifferenceMinutes": {
+    "description": "Text used to display how many minutes have passed since a certain event",
+    "placeholders": {
+      "minutes": {
+        "description": "Amount of minutes",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceHours": "{hours}h",
+  "@timeDifferenceHours": {
+    "description": "Text used to display how many hours have passed since a certain event",
+    "placeholders": {
+      "hours": {
+        "description": "Amount of hours",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceDays": "{days}d",
+  "@timeDifferenceDays": {
+    "description": "Text used to display how many days have passed since a certain event",
+    "placeholders": {
+      "days": {
+        "description": "Amount of days",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceYears": "{years}a",
+  "@timeDifferenceYears": {
+    "description": "Text used to display how many years have passed since a certain event",
+    "placeholders": {
+      "years": {
+        "description": "Amount of years",
+        "example": "2"
+      }
+    }
+  },
+  "postRepeated": "repitió",
+  "@postRepeated": {
+    "description": "Gets prepended with repeater's display name"
+  },
+  "authOAuthPending": "Esperado a que OAuth finalice…",
+  "@authOAuthPending": {
+    "description": "Kaiteki is waiting for an external website to confirm an authorization request"
+  }
 }

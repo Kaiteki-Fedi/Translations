@@ -694,5 +694,7 @@
   "visibilityMutualsDescription": "相互にフォローし合っているユーザーに見えます",
   "@visibilityMutualsDescription": {},
   "visibilityMutuals": "相互フォロワー限定",
-  "@visibilityMutuals": {}
+  "@visibilityMutuals": {},
+  "timelineFollowing": "フォロー中",
+  "@timelineFollowing": {}
 }

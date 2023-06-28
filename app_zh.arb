@@ -694,5 +694,7 @@
   "visibilityMutuals": "仅限彼此",
   "@visibilityMutuals": {},
   "visibilityMutualsDescription": "对您所关注和关注您的用户可见",
-  "@visibilityMutualsDescription": {}
+  "@visibilityMutualsDescription": {},
+  "timelineFollowing": "正在关注",
+  "@timelineFollowing": {}
 }

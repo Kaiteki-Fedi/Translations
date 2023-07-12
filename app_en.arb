@@ -696,5 +696,11 @@
   "visibilityMutuals": "Mutuals-only",
   "@visibilityMutuals": {},
   "visibilityMutualsDescription": "Visible to users you follow and follow you back",
-  "@visibilityMutualsDescription": {}
+  "@visibilityMutualsDescription": {},
+  "prideSettingsHeader": "Pride",
+  "@prideSettingsHeader": {},
+  "prideFlag": "Pride flag",
+  "@prideFlag": {},
+  "enablePrideFlag": "Enable Pride",
+  "@enablePrideFlag": {}
 }

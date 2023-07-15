@@ -533,5 +533,7 @@
   "emojiUnicodeGroupObjects": "Objetos",
   "@emojiUnicodeGroupObjects": {},
   "contentWarningBehaviorExpand": "Expandir",
-  "@contentWarningBehaviorExpand": {}
+  "@contentWarningBehaviorExpand": {},
+  "usesMastodonCovenant": "Usa el Pacto de Servidores de Mastodon",
+  "@usesMastodonCovenant": {}
 }

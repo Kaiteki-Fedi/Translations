@@ -535,5 +535,7 @@
   "contentWarningBehaviorExpand": "Expandir",
   "@contentWarningBehaviorExpand": {},
   "usesMastodonCovenant": "Usa el Pacto de Servidores de Mastodon",
-  "@usesMastodonCovenant": {}
+  "@usesMastodonCovenant": {},
+  "keepWritingButtonLabel": "Sigue escribiendo",
+  "@keepWritingButtonLabel": {}
 }

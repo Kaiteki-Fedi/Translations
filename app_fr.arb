@@ -393,8 +393,6 @@
   "@bookmarkSupport": {},
   "timelineFederated": "Fédéré",
   "@timelineFederated": {},
-  "timelineHome": "Accueil",
-  "@timelineHome": {},
   "settingsHideSensitivePosts": "Masquer les publications sensibles",
   "@settingsHideSensitivePosts": {},
   "settingsSubjectPosts": "Publications avec objets",
@@ -696,5 +694,7 @@
   "visibilityMutualsDescription": "Visible par les utilisateurs que vous suivez et qui vous suivent en retour",
   "@visibilityMutualsDescription": {},
   "visibilityMutuals": "Mutuels seulement",
-  "@visibilityMutuals": {}
+  "@visibilityMutuals": {},
+  "timelineFollowing": "Abonnements",
+  "@timelineFollowing": {}
 }

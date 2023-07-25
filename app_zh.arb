@@ -479,8 +479,6 @@
   "@bookmarkSupportDescription": {},
   "timelineFederated": "跨站",
   "@timelineFederated": {},
-  "timelineHome": "主页",
-  "@timelineHome": {},
   "timelineHybrid": "社交",
   "@timelineHybrid": {},
   "timelineDirectMessages": "私信",
@@ -696,5 +694,7 @@
   "visibilityMutuals": "仅限彼此",
   "@visibilityMutuals": {},
   "visibilityMutualsDescription": "对您所关注和关注您的用户可见",
-  "@visibilityMutualsDescription": {}
+  "@visibilityMutualsDescription": {},
+  "timelineFollowing": "正在关注",
+  "@timelineFollowing": {}
 }

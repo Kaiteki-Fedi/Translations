@@ -519,8 +519,6 @@
   "@undoTranslateButton": {},
   "settingsThirdPartyServices": "Сторонние сервисы",
   "@settingsThirdPartyServices": {},
-  "timelineHome": "Главная",
-  "@timelineHome": {},
   "timelineDirectMessages": "Личные сообщения",
   "@timelineDirectMessages": {},
   "timelineBookmarks": "Закладки",
@@ -689,5 +687,7 @@
   "visibilityMutuals": "Только взаимные",
   "@visibilityMutuals": {},
   "visibilityMutualsDescription": "Видно пользователям, на которых вы подписаны, и которые подписаны на вас",
-  "@visibilityMutualsDescription": {}
+  "@visibilityMutualsDescription": {},
+  "timelineFollowing": "Подписан",
+  "@timelineFollowing": {}
 }

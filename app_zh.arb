@@ -601,8 +601,6 @@
   "@usesMastodonCovenant": {},
   "followingTab": "正在关注",
   "@followingTab": {},
-  "timelineTab": "时间线",
-  "@timelineTab": {},
   "notificationsTab": "通知",
   "@notificationsTab": {},
   "apiTypeDialog_description": "Kaiteki 试图找出实例正在运行的软件，但无法弄清楚。请从下方选择正确的实例后端。",

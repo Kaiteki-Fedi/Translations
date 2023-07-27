@@ -663,7 +663,7 @@
   "@repeatButtonLabel": {},
   "replyButtonLabel": "Antworten",
   "@replyButtonLabel": {},
-  "bookmarkButtonLabel": "Lesezeichen",
+  "bookmarkButtonLabel": "Lesezeichen hinzufügen",
   "@bookmarkButtonLabel": {},
   "shareButtonLabel": "Teilen",
   "@shareButtonLabel": {},
@@ -673,6 +673,16 @@
   "@editButtonLabel": {},
   "reactButtonLabel": "Reagieren",
   "@reactButtonLabel": {},
-  "settingsAccessibility": "Erreichbarkeit",
-  "@settingsAccessibility": {}
+  "settingsAccessibility": "Barrierefreiheit",
+  "@settingsAccessibility": {},
+  "prideSettingsHeader": "Pride",
+  "@prideSettingsHeader": {},
+  "prideFlag": "Pride-Flagge",
+  "@prideFlag": {},
+  "enablePrideFlag": "Pride aktivieren",
+  "@enablePrideFlag": {},
+  "timelineFollowing": "Folgend",
+  "@timelineFollowing": {},
+  "visibilityMutualsDescription": "Sichtbar für Nutzer die dir zurückfolgen",
+  "@visibilityMutualsDescription": {}
 }

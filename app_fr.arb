@@ -694,5 +694,13 @@
   "visibilityMutuals": "Mutuels seulement",
   "@visibilityMutuals": {},
   "timelineFollowing": "Abonnements",
-  "@timelineFollowing": {}
+  "@timelineFollowing": {},
+  "homeTab": "Accueil",
+  "@homeTab": {},
+  "prideSettingsHeader": "Fiertés",
+  "@prideSettingsHeader": {},
+  "prideFlag": "Drapeau des fiertés",
+  "@prideFlag": {},
+  "enablePrideFlag": "Activer les fiertés",
+  "@enablePrideFlag": {}
 }

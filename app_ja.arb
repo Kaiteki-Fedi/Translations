@@ -694,5 +694,13 @@
   "visibilityMutuals": "相互フォロワー限定",
   "@visibilityMutuals": {},
   "timelineFollowing": "フォロー中",
-  "@timelineFollowing": {}
+  "@timelineFollowing": {},
+  "prideFlag": "プライドフラッグ",
+  "@prideFlag": {},
+  "enablePrideFlag": "プライドを有効化",
+  "@enablePrideFlag": {},
+  "prideSettingsHeader": "プライド",
+  "@prideSettingsHeader": {},
+  "homeTab": "ホーム",
+  "@homeTab": {}
 }

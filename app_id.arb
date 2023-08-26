@@ -692,5 +692,15 @@
   "visibilityMutualsDescription": "Dapat dilihat oleh pengguna yang Anda ikuti dan ikuti Anda kembali",
   "@visibilityMutualsDescription": {},
   "visibilityMutuals": "Mutual-saja",
-  "@visibilityMutuals": {}
+  "@visibilityMutuals": {},
+  "homeTab": "Beranda",
+  "@homeTab": {},
+  "prideSettingsHeader": "Pride",
+  "@prideSettingsHeader": {},
+  "prideFlag": "Bendera Pride",
+  "@prideFlag": {},
+  "enablePrideFlag": "Aktifkan Pride",
+  "@enablePrideFlag": {},
+  "timelineFollowing": "Mengikuti",
+  "@timelineFollowing": {}
 }

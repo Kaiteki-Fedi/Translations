@@ -682,5 +682,21 @@
   "settingsHidePostMetricsDescription": "Nasconde la quantità di risposte, preferiti e ripetizioni di una pubblicazione",
   "@settingsHidePostMetricsDescription": {},
   "settingsAccessibility": "Accessibilità",
-  "@settingsAccessibility": {}
+  "@settingsAccessibility": {},
+  "settingsBadgesHeader": "Badges",
+  "@settingsBadgesHeader": {},
+  "settingsUseNeutralBadgeColors": "Usa colori neutri per il badge",
+  "@settingsUseNeutralBadgeColors": {},
+  "prideFlag": "Pride bandiera",
+  "@prideFlag": {},
+  "enablePrideFlag": "Abilita pride",
+  "@enablePrideFlag": {},
+  "timelineFollowing": "Following",
+  "@timelineFollowing": {},
+  "visibilityMutualsDescription": "Visibile agli utenti che segui e che ti seguono",
+  "@visibilityMutualsDescription": {},
+  "homeTab": "Home",
+  "@homeTab": {},
+  "prideSettingsHeader": "Pride",
+  "@prideSettingsHeader": {}
 }

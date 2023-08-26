@@ -694,5 +694,13 @@
   "visibilityMutualsDescription": "对您所关注和关注您的用户可见",
   "@visibilityMutualsDescription": {},
   "timelineFollowing": "正在关注",
-  "@timelineFollowing": {}
+  "@timelineFollowing": {},
+  "homeTab": "主页",
+  "@homeTab": {},
+  "prideSettingsHeader": "自豪",
+  "@prideSettingsHeader": {},
+  "prideFlag": "自豪旗帜",
+  "@prideFlag": {},
+  "enablePrideFlag": "启用自豪",
+  "@enablePrideFlag": {}
 }

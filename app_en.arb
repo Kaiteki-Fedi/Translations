@@ -702,5 +702,91 @@
   "prideFlag": "Pride flag",
   "@prideFlag": {},
   "enablePrideFlag": "Enable Pride",
-  "@enablePrideFlag": {}
+  "@enablePrideFlag": {},
+  "finishButtonLabel": "Finish",
+  "@finishButtonLabel": {},
+  "messagesTab": "Messages",
+  "@messagesTab": {},
+  "listsTab": "Lists",
+  "@listsTab": {},
+  "exceptionShowJson": "Show JSON",
+  "exceptionReportOnGitHub": "Report on GitHub",
+  "attachmentAltTextFallback": "No description provided",
+  "showDetailsButtonLabel": "Show details",
+  "exceptionReasonGeneric": "An error occurred",
+  "exceptionReasonUnauthorized": "An error occurred",
+  "exceptionReasonServerError": "Internal server error",
+  "exceptionReasonForbidden": "Forbidden",
+  "exceptionReasonParseError": "Couldn't parse response",
+  "postLengthExceededDialogTitle": "Your post is too long",
+  "postLengthExceededDialogDescription": "The post exceeds the maximum length of {characterLimit} characters",
+  "@postLengthExceededDialogDescription": {
+    "placeholders": {
+      "characterLimit": {
+        "description": "Maximum number of characters in the post",
+        "example": "150"
+      }
+    }
+  },
+  "pollOptionVoteCount": "{count, plural, =1 {1 vote} other {# votes}}",
+  "pollTotalVotesMultiple": "{voteCount, plural, =1 {1 vote} other {# votes}} total from {voterCount, plural, =1 {1 person} other {# people}}",
+  "pollTotalVotes": "{voteCount, plural, =1 {1 vote} other {# votes}} total",
+  "copyToClipboardButtonTooltip": "Copy to clipboard",
+  "usersTab": "Users",
+  "searchUsersNoResults": "No users found",
+  "searchPostsNoResults": "No posts found",
+  "searchEmojisNoResults": "No emojis found",
+  "noRecentlyUsedEmojis": "No emojis here yet...",
+  "postAnywayButtonLabel": "Post anyway",
+  "@postAnywayButtonLabel": {
+    "description": "Used in confirmation dialogs"
+  },
+  "missingDescriptionDialogTitle": "Your attachment is missing a description",
+  "missingDescriptionDialogDescription": "Descriptions allow users who are unable to see the attachment to understand what it is about.",
+  "customEmojisTab": "Custom",
+  "recentEmojisTab": "Recent",
+  "showStackTrace": "Show stack trace",
+  "exceptionDialogTitle": "Exception details",
+  "findUserDialogTitle": "Find user",
+  "findUserDialogHint": "Search for user",
+  "retryButtonLabel": "Retry",
+  "applyButtonLabel": "Apply",
+  "changeAltText": "Change alt text",
+  "altText": "Alt text",
+  "@changeAltText": {
+    "description": "Refers to attachment descriptions"
+  },
+  "removeAttachmentButtonLabel": "Remove attachment",
+  "unfollowButtonLabel": "Unfollow",
+  "followButtonLabel": "Follow",
+  "pendingFollowRequestButtonLabel": "Pending",
+  "editProfileButtonLabel": "Edit Profile",
+  "userJoinDate": "Joined {date}",
+  "userBirthDate": "Born {date}",
+  "@userJoinDate": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMMMMd"
+      }
+    }
+  },
+  "@userBirthDate": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMMMMd"
+      }
+    }
+  },
+  "shareSheetFormatLink": "Link",
+  "shareSheetFormatRemoteLink": "Link on {host}",
+  "shareSheetFormatContent": "Content",
+  "misskeyCalendarToday": "Today",
+  "misskeyCalendarYear": "Year",
+  "misskeyCalendarMonth": "Month",
+  "chatPreviewAttachments": "{attachmentCount, plural, =1 {1 attachment} other {# attachments}}",
+  "createButtonLabel": "Create",
+  "renameButtonLabel": "Rename",
+  "proceedButtonLabel": "Proceed"
 }

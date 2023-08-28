@@ -702,5 +702,9 @@
   "prideFlag": "自豪旗帜",
   "@prideFlag": {},
   "enablePrideFlag": "启用自豪",
-  "@enablePrideFlag": {}
+  "@enablePrideFlag": {},
+  "messagesTab": "消息",
+  "@messagesTab": {},
+  "finishButtonLabel": "完成",
+  "@finishButtonLabel": {}
 }

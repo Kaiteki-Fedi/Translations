@@ -535,5 +535,74 @@
   "usesMastodonCovenant": "Usa el Pacto de Servidores de Mastodon",
   "@usesMastodonCovenant": {},
   "keepWritingButtonLabel": "Sigue escribiendo",
-  "@keepWritingButtonLabel": {}
+  "@keepWritingButtonLabel": {},
+  "contentWarningButtonLabelEnable": "Habilitar advertencia de contenido",
+  "@contentWarningButtonLabelEnable": {},
+  "timelineRetrievalFailed": "No se pudo obtener el timeline",
+  "@timelineRetrievalFailed": {},
+  "refreshTimelineButtonLabel": "Refrescar",
+  "@refreshTimelineButtonLabel": {},
+  "postBookmarkAdded": "Marcador agregado",
+  "@postBookmarkAdded": {},
+  "postBookmarkRemoved": "Marcador eliminado",
+  "@postBookmarkRemoved": {},
+  "postBookmarkFailed": "No se pudo agregar o eliminar la publicación de los marcadores",
+  "@postBookmarkFailed": {},
+  "postFavoriteFailed": "No se pudo des-/marcar publicación como favorita",
+  "@postFavoriteFailed": {},
+  "postRemoveFromBookmarks": "Quitar marcador",
+  "@postRemoveFromBookmarks": {},
+  "postAddToBookmarks": "Añadir marcador",
+  "@postAddToBookmarks": {},
+  "timeDifferenceWeeks": "{weeks}S",
+  "@timeDifferenceWeeks": {
+    "description": "Text used to display how many weeks have passed since a certain event",
+    "placeholders": {
+      "weeks": {
+        "description": "Amount of weeks",
+        "example": "2"
+      }
+    }
+  },
+  "visibilityDirect": "Directo",
+  "@visibilityDirect": {},
+  "visibilityPublicDescription": "Visible para todos",
+  "@visibilityPublicDescription": {},
+  "formattingMfm": "Markdown estilo Misskey",
+  "@formattingMfm": {},
+  "searchButtonLabel": "Buscar",
+  "@searchButtonLabel": {},
+  "discardDraftDialogTitle": "¿Descartar el borrador?",
+  "@discardDraftDialogTitle": {},
+  "attachmentDownloadInProgress": "Descargando adjunto…",
+  "@attachmentDownloadInProgress": {},
+  "homeTab": "Inicio",
+  "@homeTab": {},
+  "visibilityUnlisted": "No listado",
+  "@visibilityUnlisted": {},
+  "visibilityFollowersOnly": "Solo a seguidores",
+  "@visibilityFollowersOnly": {},
+  "visibilityPublic": "Público",
+  "@visibilityPublic": {},
+  "visibilityFollowersOnlyDescription": "Visible para seguidores",
+  "@visibilityFollowersOnlyDescription": {},
+  "visibilityDirectDescription": "Visible para usuarios mencionados",
+  "@visibilityDirectDescription": {},
+  "visibilityUnlistedDescription": "Visible para todos, no aparece en lineas de tiempo públicas",
+  "@visibilityUnlistedDescription": {},
+  "attachmentDownloadButtonLabel": "Descargar adjunto",
+  "@attachmentDownloadButtonLabel": {},
+  "attachmentDownloadSuccessful": "Se descargó {fileName}",
+  "@attachmentDownloadSuccessful": {
+    "placeholders": {
+      "fileName": {
+        "description": "The name of the file that the user has downloaded",
+        "example": "image.jpg"
+      }
+    }
+  },
+  "attachmentDownloadDialogTitle": "Descargar adjunto",
+  "@attachmentDownloadDialogTitle": {},
+  "discardDraftDialogDescription": "Estás seguro que quieres descartar este borrador?",
+  "@discardDraftDialogDescription": {}
 }

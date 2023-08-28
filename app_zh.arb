@@ -706,5 +706,132 @@
   "messagesTab": "消息",
   "@messagesTab": {},
   "finishButtonLabel": "完成",
-  "@finishButtonLabel": {}
+  "@finishButtonLabel": {},
+  "listsTab": "列表",
+  "@listsTab": {},
+  "exceptionShowJson": "显示 JSON",
+  "@exceptionShowJson": {},
+  "exceptionReportOnGitHub": "在 GitHub 上报告",
+  "@exceptionReportOnGitHub": {},
+  "attachmentAltTextFallback": "未提供描述",
+  "@attachmentAltTextFallback": {},
+  "exceptionReasonGeneric": "出错了",
+  "@exceptionReasonGeneric": {},
+  "exceptionReasonUnauthorized": "出错了",
+  "@exceptionReasonUnauthorized": {},
+  "exceptionReasonServerError": "服务器内部错误",
+  "@exceptionReasonServerError": {},
+  "exceptionReasonForbidden": "被禁用",
+  "@exceptionReasonForbidden": {},
+  "exceptionReasonParseError": "无法解析响应",
+  "@exceptionReasonParseError": {},
+  "postLengthExceededDialogTitle": "您的帖文过长",
+  "@postLengthExceededDialogTitle": {},
+  "postLengthExceededDialogDescription": "帖文长度超过 {characterLimit}字符上限",
+  "@postLengthExceededDialogDescription": {
+    "placeholders": {
+      "characterLimit": {
+        "description": "Maximum number of characters in the post",
+        "example": "150"
+      }
+    }
+  },
+  "pollOptionVoteCount": "{count] 条投票",
+  "@pollOptionVoteCount": {},
+  "pollTotalVotesMultiple": "共有 {voterCount} 人投了 {voteCount} 票",
+  "@pollTotalVotesMultiple": {},
+  "pollTotalVotes": "共有 {voteCount} 票",
+  "@pollTotalVotes": {},
+  "copyToClipboardButtonTooltip": "复制到剪贴板",
+  "@copyToClipboardButtonTooltip": {},
+  "usersTab": "用户",
+  "@usersTab": {},
+  "searchUsersNoResults": "未找到用户",
+  "@searchUsersNoResults": {},
+  "searchPostsNoResults": "未找到帖文",
+  "@searchPostsNoResults": {},
+  "searchEmojisNoResults": "未找到表情符号",
+  "@searchEmojisNoResults": {},
+  "noRecentlyUsedEmojis": "此处尚未有表情...",
+  "@noRecentlyUsedEmojis": {},
+  "postAnywayButtonLabel": "无论如何都要发送",
+  "@postAnywayButtonLabel": {
+    "description": "Used in confirmation dialogs"
+  },
+  "missingDescriptionDialogTitle": "您的附件缺少描述",
+  "@missingDescriptionDialogTitle": {},
+  "customEmojisTab": "自定义",
+  "@customEmojisTab": {},
+  "exceptionDialogTitle": "异常详情",
+  "@exceptionDialogTitle": {},
+  "findUserDialogTitle": "查找用户",
+  "@findUserDialogTitle": {},
+  "findUserDialogHint": "搜索用户",
+  "@findUserDialogHint": {},
+  "retryButtonLabel": "重试",
+  "@retryButtonLabel": {},
+  "proceedButtonLabel": "继续",
+  "@proceedButtonLabel": {},
+  "showDetailsButtonLabel": "显示细节",
+  "@showDetailsButtonLabel": {},
+  "missingDescriptionDialogDescription": "描述可以让无法看到附件的用户了解附件内容。",
+  "@missingDescriptionDialogDescription": {},
+  "recentEmojisTab": "最近使用",
+  "@recentEmojisTab": {},
+  "showStackTrace": "显示堆栈跟踪",
+  "@showStackTrace": {},
+  "applyButtonLabel": "应用",
+  "@applyButtonLabel": {},
+  "changeAltText": "更改替代文字",
+  "@changeAltText": {
+    "description": "Refers to attachment descriptions"
+  },
+  "altText": "替代文字",
+  "@altText": {},
+  "removeAttachmentButtonLabel": "移除附件",
+  "@removeAttachmentButtonLabel": {},
+  "unfollowButtonLabel": "取消关注",
+  "@unfollowButtonLabel": {},
+  "followButtonLabel": "关注",
+  "@followButtonLabel": {},
+  "pendingFollowRequestButtonLabel": "待通过",
+  "@pendingFollowRequestButtonLabel": {},
+  "editProfileButtonLabel": "编辑个人资料",
+  "@editProfileButtonLabel": {},
+  "userJoinDate": "加入于 {date}",
+  "@userJoinDate": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMMMMd"
+      }
+    }
+  },
+  "userBirthDate": "出生于 {date}",
+  "@userBirthDate": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMMMMd"
+      }
+    }
+  },
+  "shareSheetFormatLink": "链接",
+  "@shareSheetFormatLink": {},
+  "shareSheetFormatRemoteLink": "{host} 上的链接",
+  "@shareSheetFormatRemoteLink": {},
+  "shareSheetFormatContent": "内容",
+  "@shareSheetFormatContent": {},
+  "misskeyCalendarToday": "今天",
+  "@misskeyCalendarToday": {},
+  "misskeyCalendarYear": "年",
+  "@misskeyCalendarYear": {},
+  "misskeyCalendarMonth": "月",
+  "@misskeyCalendarMonth": {},
+  "chatPreviewAttachments": "{attachmentCount} 个附件",
+  "@chatPreviewAttachments": {},
+  "createButtonLabel": "创建",
+  "@createButtonLabel": {},
+  "renameButtonLabel": "重命名",
+  "@renameButtonLabel": {}
 }

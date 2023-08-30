@@ -702,5 +702,128 @@
   "prideSettingsHeader": "プライド",
   "@prideSettingsHeader": {},
   "homeTab": "ホーム",
-  "@homeTab": {}
+  "@homeTab": {},
+  "finishButtonLabel": "完了",
+  "@finishButtonLabel": {},
+  "messagesTab": "メッセージ",
+  "@messagesTab": {},
+  "exceptionShowJson": "JSONを見る",
+  "@exceptionShowJson": {},
+  "exceptionReportOnGitHub": "GitHubで報告",
+  "@exceptionReportOnGitHub": {},
+  "attachmentAltTextFallback": "説明がありません",
+  "@attachmentAltTextFallback": {},
+  "showDetailsButtonLabel": "詳細を見る",
+  "@showDetailsButtonLabel": {},
+  "exceptionReasonServerError": "サーバーの内部エラー",
+  "@exceptionReasonServerError": {},
+  "exceptionReasonForbidden": "閲覧禁止",
+  "@exceptionReasonForbidden": {},
+  "exceptionReasonParseError": "応答を解析できませんでした",
+  "@exceptionReasonParseError": {},
+  "exceptionReasonGeneric": "エラーが発生しました",
+  "@exceptionReasonGeneric": {},
+  "exceptionReasonUnauthorized": "エラーが発生しました",
+  "@exceptionReasonUnauthorized": {},
+  "postLengthExceededDialogTitle": "投稿の長さが長すぎます",
+  "@postLengthExceededDialogTitle": {},
+  "copyToClipboardButtonTooltip": "クリップボードにコピー",
+  "@copyToClipboardButtonTooltip": {},
+  "searchUsersNoResults": "ユーザーが見つかりませんでした",
+  "@searchUsersNoResults": {},
+  "searchPostsNoResults": "投稿が見つかりませんでした",
+  "@searchPostsNoResults": {},
+  "usersTab": "ユーザー",
+  "@usersTab": {},
+  "noRecentlyUsedEmojis": "ここにはまだ絵文字がありません…",
+  "@noRecentlyUsedEmojis": {},
+  "postAnywayButtonLabel": "とにかく投稿する",
+  "@postAnywayButtonLabel": {
+    "description": "Used in confirmation dialogs"
+  },
+  "missingDescriptionDialogTitle": "添付ファイルに説明がありません",
+  "@missingDescriptionDialogTitle": {},
+  "missingDescriptionDialogDescription": "説明があると、添付ファイルを見られないユーザーも、その添付ファイルが何であるかを理解できます。",
+  "@missingDescriptionDialogDescription": {},
+  "customEmojisTab": "カスタム",
+  "@customEmojisTab": {},
+  "recentEmojisTab": "最近",
+  "@recentEmojisTab": {},
+  "showStackTrace": "スタックトレースを表示",
+  "@showStackTrace": {},
+  "findUserDialogHint": "ユーザーを検索",
+  "@findUserDialogHint": {},
+  "retryButtonLabel": "再試行",
+  "@retryButtonLabel": {},
+  "applyButtonLabel": "適用",
+  "@applyButtonLabel": {},
+  "changeAltText": "代替テキストの編集",
+  "@changeAltText": {
+    "description": "Refers to attachment descriptions"
+  },
+  "altText": "代替テキスト",
+  "@altText": {},
+  "removeAttachmentButtonLabel": "添付ファイルを削除",
+  "@removeAttachmentButtonLabel": {},
+  "unfollowButtonLabel": "フォローをやめる",
+  "@unfollowButtonLabel": {},
+  "followButtonLabel": "フォロー",
+  "@followButtonLabel": {},
+  "shareSheetFormatRemoteLink": "{host}のリンク",
+  "@shareSheetFormatRemoteLink": {},
+  "userJoinDate": "登録日: {date}",
+  "@userJoinDate": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMMMMd"
+      }
+    }
+  },
+  "shareSheetFormatContent": "内容",
+  "@shareSheetFormatContent": {},
+  "misskeyCalendarToday": "今日",
+  "@misskeyCalendarToday": {},
+  "listsTab": "リスト",
+  "@listsTab": {},
+  "searchEmojisNoResults": "絵文字が見つかりませんでした",
+  "@searchEmojisNoResults": {},
+  "postLengthExceededDialogDescription": "投稿の文字数が制限の{characterLimit}文字を超えています",
+  "@postLengthExceededDialogDescription": {
+    "placeholders": {
+      "characterLimit": {
+        "description": "Maximum number of characters in the post",
+        "example": "150"
+      }
+    }
+  },
+  "exceptionDialogTitle": "例外の詳細",
+  "@exceptionDialogTitle": {},
+  "findUserDialogTitle": "ユーザーを見つける",
+  "@findUserDialogTitle": {},
+  "pendingFollowRequestButtonLabel": "フォロー許可待ち",
+  "@pendingFollowRequestButtonLabel": {},
+  "editProfileButtonLabel": "プロフィールを編集",
+  "@editProfileButtonLabel": {},
+  "userBirthDate": "誕生日: {date}",
+  "@userBirthDate": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMMMMd"
+      }
+    }
+  },
+  "shareSheetFormatLink": "リンク",
+  "@shareSheetFormatLink": {},
+  "misskeyCalendarYear": "年",
+  "@misskeyCalendarYear": {},
+  "misskeyCalendarMonth": "月",
+  "@misskeyCalendarMonth": {},
+  "createButtonLabel": "作成",
+  "@createButtonLabel": {},
+  "renameButtonLabel": "名前を変更",
+  "@renameButtonLabel": {},
+  "proceedButtonLabel": "開始",
+  "@proceedButtonLabel": {}
 }

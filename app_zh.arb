@@ -736,7 +736,7 @@
       }
     }
   },
-  "pollOptionVoteCount": "{count] 条投票",
+  "pollOptionVoteCount": "{count} 条投票",
   "@pollOptionVoteCount": {},
   "pollTotalVotesMultiple": "共有 {voterCount} 人投了 {voteCount} 票",
   "@pollTotalVotesMultiple": {},

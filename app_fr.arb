@@ -760,5 +760,11 @@
   "misskeyCalendarMonth": "Mois",
   "@misskeyCalendarMonth": {},
   "proceedButtonLabel": "Continuer",
-  "@proceedButtonLabel": {}
+  "@proceedButtonLabel": {},
+  "finishButtonLabel": "Terminé",
+  "@finishButtonLabel": {},
+  "exceptionReasonServerError": "Erreur interne du serveur",
+  "@exceptionReasonServerError": {},
+  "exceptionReasonForbidden": "Non autorisé",
+  "@exceptionReasonForbidden": {}
 }

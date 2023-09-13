@@ -766,5 +766,14 @@
   "exceptionReasonServerError": "Erreur interne du serveur",
   "@exceptionReasonServerError": {},
   "exceptionReasonForbidden": "Non autorisé",
-  "@exceptionReasonForbidden": {}
+  "@exceptionReasonForbidden": {},
+  "postLengthExceededDialogDescription": "La publication dépasse la longueur maximale des caractères {characterLimit}",
+  "@postLengthExceededDialogDescription": {
+    "placeholders": {
+      "characterLimit": {
+        "description": "Maximum number of characters in the post",
+        "example": "150"
+      }
+    }
+  }
 }

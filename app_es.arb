@@ -383,7 +383,7 @@
   "@settingsAvatarRoundness": {},
   "settingsAvatarsHeader": "Avatares",
   "@settingsAvatarsHeader": {},
-  "settingsEmojisHeader": "Emojis",
+  "settingsEmojisHeader": "Emoticonos",
   "@settingsEmojisHeader": {},
   "settingsWellbeing": "Bienestar",
   "@settingsWellbeing": {},
@@ -447,7 +447,7 @@
   "@keyboardShortcutsBookmarkPost": {},
   "keyboardShortcutsGoToSettings": "Ir a ajustes",
   "@keyboardShortcutsGoToSettings": {},
-  "keyboardShortcutsGoToHome": "Ir al inicio",
+  "keyboardShortcutsGoToHome": "Ir a la página de inicio",
   "@keyboardShortcutsGoToHome": {},
   "keyboardShortcutsNavigation": "Navegación",
   "@keyboardShortcutsNavigation": {},
@@ -524,7 +524,7 @@
   "@emojiUnicodeGroupFlags": {},
   "useSystemColorScheme": "Usar esquema de color del sistema",
   "@useSystemColorScheme": {},
-  "keyboardShortcutsPostShortcuts": "Atajos de publicación",
+  "keyboardShortcutsPostShortcuts": "Atajos para las publicaciones",
   "@keyboardShortcutsPostShortcuts": {},
   "recordVoiceButtonLabel": "Grabar voz",
   "@recordVoiceButtonLabel": {},
@@ -680,5 +680,9 @@
   "reportsTitle": "Reportes enviados",
   "@reportsTitle": {},
   "timelineFollowing": "Siguiendo",
-  "@timelineFollowing": {}
+  "@timelineFollowing": {},
+  "contentWarningBehaviorCollapseDescription": "Las publicaciones con advertencias de contenido siempre estarán contraídas",
+  "@contentWarningBehaviorCollapseDescription": {},
+  "contentWarningBehaviorAutomaticDescription": "Las publicaciones se cerrarán si la advertencia del contenido contiene palabras confidenciales.",
+  "@contentWarningBehaviorAutomaticDescription": {}
 }

@@ -1,0 +1,306 @@
+{
+  "previewSupport": "معاينات المنشورات",
+  "@previewSupport": {},
+  "continueAnywayButtonLabel": "استمر على أي حال",
+  "@continueAnywayButtonLabel": {},
+  "creditsWebsite": "موقع الويب",
+  "@creditsWebsite": {},
+  "filteringSensitiveTitle": "تصفية المنشورات الحساسة",
+  "@filteringSensitiveTitle": {},
+  "composeBodyHint": "هبطتُ للتوّ في الجزائر العاصمة.",
+  "@composeBodyHint": {},
+  "directMessagesTitle": "الرسائل المباشِرة",
+  "@directMessagesTitle": {},
+  "noMorePosts": "لقد وصلت إلى النهاية",
+  "@noMorePosts": {},
+  "mfaNoCode": "من فضلك أدخل رمزًا",
+  "@mfaNoCode": {},
+  "themeLight": "فاتحة",
+  "@themeLight": {},
+  "trendsTitle": "المتداوَلة",
+  "@trendsTitle": {},
+  "postPreviewTitle": "معاينة",
+  "@postPreviewTitle": {},
+  "loginTitleInstance": "تسجيل الدخول في {instance}",
+  "@loginTitleInstance": {
+    "placeholders": {
+      "instance": {
+        "description": "Instance name",
+        "example": "'the wired' or as fallback 'letsalllovela.in'"
+      }
+    }
+  },
+  "closeButtonLabel": "غلق",
+  "@closeButtonLabel": {},
+  "welcome": "مرحبا بك في Kaiteki!",
+  "@welcome": {},
+  "bookmarksEmpty": "لا فواصل مرجعية",
+  "@bookmarksEmpty": {},
+  "emojiUnicodeGroupSmileysEmotion": "الوجوه التعبيرية",
+  "@emojiUnicodeGroupSmileysEmotion": {},
+  "timeDifferenceNow": "الآن",
+  "@timeDifferenceNow": {
+    "description": "Text used to display an event that just happened"
+  },
+  "composeDialogTitleReply": "رد على ",
+  "@composeDialogTitleReply": {
+    "description": "Title used when compose dialog is shown for writing a reply. Gets appended with replyee's display name"
+  },
+  "reactionSupport": "التفاعلات",
+  "@reactionSupport": {},
+  "chatsTab": "المحادثات",
+  "@chatsTab": {},
+  "loginTitle": "ولولتم على مثيل خادم",
+  "@loginTitle": {},
+  "loginButtonLabel": "لِج",
+  "@loginButtonLabel": {},
+  "instanceFieldHint": "مثيل الخادم",
+  "@instanceFieldHint": {},
+  "forgotPasswordButtonLabel": "نسيت كلمة السر",
+  "@forgotPasswordButtonLabel": {},
+  "recordVoiceButtonLabel": "سجّل صوتا",
+  "@recordVoiceButtonLabel": {},
+  "followingTab": "مُتابَع",
+  "@followingTab": {},
+  "viewPostButtonLabel": "رؤية المنشور",
+  "@viewPostButtonLabel": {},
+  "rulesLearnMore": "تعلم المزيد عن القواعد",
+  "@rulesLearnMore": {},
+  "visibilityPublic": "للعامة",
+  "@visibilityPublic": {},
+  "theme": "الحَُلّة",
+  "@theme": {},
+  "existingAccountButtonLabel": "تسجيل الدخول بواسطة حساب تم انشاؤه",
+  "@existingAccountButtonLabel": {},
+  "selectThemeTitle": "اختر حُلة",
+  "@selectThemeTitle": {},
+  "timeDifferenceWeeks": "{weeks} أسا",
+  "@timeDifferenceWeeks": {
+    "description": "Text used to display how many weeks have passed since a certain event",
+    "placeholders": {
+      "weeks": {
+        "description": "Amount of weeks",
+        "example": "2"
+      }
+    }
+  },
+  "discoverInstancesButtonLabel": "استكشف الخوادم",
+  "@discoverInstancesButtonLabel": {},
+  "visibilityUnlisted": "غير مُدرَج",
+  "@visibilityUnlisted": {},
+  "followersTab": "المتابِعون",
+  "@followersTab": {},
+  "createAccountButtonLabel": "إنشاء حساب جديد",
+  "@createAccountButtonLabel": {},
+  "themeDark": "داكنة",
+  "@themeDark": {},
+  "settingsLocale": "اللغة",
+  "@settingsLocale": {},
+  "emptyAccounts": "لا توجد حسابات",
+  "@emptyAccounts": {
+    "description": "Placeholder text used if user doesn't have any accounts"
+  },
+  "timeDifferenceDays": "{days} أيام",
+  "@timeDifferenceDays": {
+    "description": "Text used to display how many days have passed since a certain event",
+    "placeholders": {
+      "days": {
+        "description": "Amount of days",
+        "example": "2"
+      }
+    }
+  },
+  "listsTitle": "القوائم",
+  "@listsTitle": {},
+  "attachButtonTooltip": "أرفق",
+  "@attachButtonTooltip": {},
+  "chooseButtonLabel": "إختر",
+  "@chooseButtonLabel": {},
+  "postPinned": "مُثبَّت",
+  "@postPinned": {},
+  "cancelButtonLabel": "ألغِ",
+  "@cancelButtonLabel": {},
+  "visibilityDirect": "مباشِر",
+  "@visibilityDirect": {},
+  "aboutInstanceTitle": "عن {instance}",
+  "@aboutInstanceTitle": {
+    "placeholders": {
+      "instance": {
+        "description": "Domain/hostname of the instance",
+        "example": "fedi.absturztau.be"
+      }
+    }
+  },
+  "homeTab": "الرئيسي",
+  "@homeTab": {},
+  "attachmentNoDescription": "لا وصف",
+  "@attachmentNoDescription": {},
+  "selectLocaleTitle": "اختر لغة",
+  "@selectLocaleTitle": {},
+  "rules": "القواعد",
+  "@rules": {},
+  "visibilityFollowersOnlyDescription": "يظهر للمتابِعين",
+  "@visibilityFollowersOnlyDescription": {},
+  "verifyButtonLabel": "تأكيد",
+  "@verifyButtonLabel": {},
+  "visibilityPublicDescription": "يظهر للجميع",
+  "@visibilityPublicDescription": {},
+  "timeDifferenceHours": "{hours} سا",
+  "@timeDifferenceHours": {
+    "description": "Text used to display how many hours have passed since a certain event",
+    "placeholders": {
+      "hours": {
+        "description": "Amount of hours",
+        "example": "2"
+      }
+    }
+  },
+  "postSubmissionSent": "أُرسِلَ المنشور",
+  "@postSubmissionSent": {},
+  "addAccountButtonLabel": "إضافة حساب",
+  "@addAccountButtonLabel": {},
+  "useMaterialYou": "استخدم Material You",
+  "@useMaterialYou": {},
+  "replyTo": "رد على",
+  "@replyTo": {
+    "description": "Gets appended with replyee's display name"
+  },
+  "timeDifferenceSeconds": "{seconds} ث",
+  "@timeDifferenceSeconds": {
+    "description": "Text used to display how many seconds have passed since a certain event",
+    "placeholders": {
+      "seconds": {
+        "description": "Amount of seconds",
+        "example": "2"
+      }
+    }
+  },
+  "visibilityFollowersOnly": "لمُتابِعيك فقط",
+  "@visibilityFollowersOnly": {},
+  "composeButtonLabel": "تحرير",
+  "@composeButtonLabel": {},
+  "searchButtonLabel": "البحث",
+  "@searchButtonLabel": {},
+  "attachFilesButtonLabel": "إرفاق ملفات",
+  "@attachFilesButtonLabel": {},
+  "showAltTextTooltip": "إظهار النص البديل",
+  "@showAltTextTooltip": {},
+  "notificationsTab": "الإشعارات",
+  "@notificationsTab": {},
+  "refresh": "إنعاش",
+  "@refresh": {},
+  "languageName": "العربية",
+  "@languageName": {},
+  "settingsSensitivePosts": "المنشورات الحساسة",
+  "@settingsSensitivePosts": {},
+  "mfaTitle": "الاستيثاق بخطوتين",
+  "@mfaTitle": {},
+  "copiedToClipboard": "تم نسخه إلى الحافظة",
+  "@copiedToClipboard": {},
+  "conversationTitle": "محادثة",
+  "@conversationTitle": {
+    "description": "Title used for conversation/thread page"
+  },
+  "attachmentDownloadButtonLabel": "تنزيل المرفق",
+  "@attachmentDownloadButtonLabel": {},
+  "timeDifferenceMinutes": "{minutes} د",
+  "@timeDifferenceMinutes": {
+    "description": "Text used to display how many minutes have passed since a certain event",
+    "placeholders": {
+      "minutes": {
+        "description": "Amount of minutes",
+        "example": "2"
+      }
+    }
+  },
+  "settingsHideSensitivePosts": "إخفاء المنشورات الحساسة",
+  "@settingsHideSensitivePosts": {},
+  "okButtonLabel": "حسناً",
+  "@okButtonLabel": {},
+  "composeDialogTitle": "تحرير منشور جديد",
+  "@composeDialogTitle": {},
+  "pageViewTitle": "{current} مِن {total}",
+  "@pageViewTitle": {
+    "placeholders": {
+      "current": {
+        "description": "The current number of the page",
+        "example": "2"
+      },
+      "total": {
+        "description": "The total amount of pages available",
+        "example": "10"
+      }
+    }
+  },
+  "creditsGithubRepo": "مستودع غيت هب",
+  "@creditsGithubRepo": {},
+  "takePictureButtonLabel": "التقط صورة",
+  "@takePictureButtonLabel": {},
+  "creditsTelegramChannel": "قناة تلغرام",
+  "@creditsTelegramChannel": {},
+  "empty": "تبدو فارغة هنا…",
+  "@empty": {},
+  "manageAccountsTitle": "إدارة الحسابات",
+  "@manageAccountsTitle": {},
+  "localeSystem": "مبدئية حسب النظام",
+  "@localeSystem": {},
+  "settings": "اﻹعدادات",
+  "@settings": {},
+  "repeatPasswordFieldHint": "إعادة كتابة الكلمة السرية",
+  "@repeatPasswordFieldHint": {},
+  "visibilityDirectDescription": "يظهر للمُشار إليهم فقط",
+  "@visibilityDirectDescription": {},
+  "removeButtonLabel": "إزالة",
+  "@removeButtonLabel": {},
+  "themeSystem": "مبدئية حسب النظام",
+  "@themeSystem": {},
+  "timeDifferenceYears": "{years} سن",
+  "@timeDifferenceYears": {
+    "description": "Text used to display how many years have passed since a certain event",
+    "placeholders": {
+      "years": {
+        "description": "Amount of years",
+        "example": "2"
+      }
+    }
+  },
+  "authNoInstance": "رجاءً إدخلْ مثيل خادم",
+  "@authNoInstance": {},
+  "attachmentUnsupported": "المرفق غير مدعوم",
+  "@attachmentUnsupported": {},
+  "emailFieldHint": "عنوان البريد الإلكتروني",
+  "@emailFieldHint": {},
+  "chatSupport": "المحادثات",
+  "@chatSupport": {},
+  "creditsLicenses": "تراخيص مفتوحة المصدر",
+  "@creditsLicenses": {},
+  "formattingPlain": "نص عادي",
+  "@formattingPlain": {},
+  "registerButtonLabel": "إنشاء حساب",
+  "@registerButtonLabel": {},
+  "authInstructions": "لإضافة حساب، أدخِل عنوان الموقع الذي تريد استخدامه.",
+  "@authInstructions": {},
+  "createPollButtonLabel": "أنشئ اسطلاعا للرأي",
+  "@createPollButtonLabel": {},
+  "authPasswordNoMatch": "كلمات السر يجب أن تتطابق",
+  "@authPasswordNoMatch": {},
+  "aboutBackendTitle": "عن {api}",
+  "@aboutBackendTitle": {
+    "placeholders": {
+      "api": {
+        "description": "Name of the instance backend software",
+        "example": "Pleroma"
+      }
+    }
+  },
+  "unsupportedInstanceTitle": "هذا النوع من مثيلات الخوادم غير مدعوم حاليا",
+  "@unsupportedInstanceTitle": {},
+  "postsTab": "المنشورات",
+  "@postsTab": {},
+  "favoritesEmpty": "لا مفضلات",
+  "@favoritesEmpty": {},
+  "openInBrowserLabel": "فتح في المتصفّح",
+  "@openInBrowserLabel": {},
+  "accountRequiredToContinue": "للاستمرار، يجب عليك الولوج في خادم واحد على الأقل.",
+  "@accountRequiredToContinue": {}
+}

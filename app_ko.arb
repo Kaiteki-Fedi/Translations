@@ -1,0 +1,16 @@
+{
+  "mfaNoCode": "코드를 입력해 주세요",
+  "@mfaNoCode": {},
+  "apiTypeDialog_title": "인스턴스 종류를 인식하지 못했습니다",
+  "@apiTypeDialog_title": {},
+  "cancelButtonLabel": "취소",
+  "@cancelButtonLabel": {},
+  "apiTypeDialog_description": "인스턴스에서 사용하는 소프트웨어를 인식하려고 했으나 실패했습니다. 인스턴스가 사용 중인 소프트웨어를 아래에서 골라 주세요.",
+  "@apiTypeDialog_description": {},
+  "mfaTitle": "2단계 인증",
+  "@mfaTitle": {},
+  "okButtonLabel": "",
+  "@okButtonLabel": {},
+  "removeButtonLabel": "삭제",
+  "@removeButtonLabel": {}
+}

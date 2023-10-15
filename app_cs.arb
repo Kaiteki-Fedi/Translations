@@ -691,8 +691,6 @@
   "@authNoUsername": {},
   "postRepeatFailed": "Nepodařilo se přesdílet/zrušit přesdílení příspěvku",
   "@postRepeatFailed": {},
-  "settingsPedantry": "Puntičkářství",
-  "@settingsPedantry": {},
   "selectLocaleTitle": "Výběr jazyka",
   "@selectLocaleTitle": {}
 }

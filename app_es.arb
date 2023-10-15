@@ -387,8 +387,6 @@
   "@settingsEmojisHeader": {},
   "settingsWellbeing": "Bienestar",
   "@settingsWellbeing": {},
-  "settingsPedantry": "Pedantería",
-  "@settingsPedantry": {},
   "settingsContentWarningBehavior": "Comportamiento de las advertencias de contenido",
   "@settingsContentWarningBehavior": {},
   "contentWarningBehaviorAutomatic": "Automático",
@@ -831,5 +829,7 @@
   "favoriteButtonLabel": "Favoritos",
   "@favoriteButtonLabel": {},
   "settingsHidePostMetrics": "Ocultar las métricas para las publicaciones",
-  "@settingsHidePostMetrics": {}
+  "@settingsHidePostMetrics": {},
+  "enablePrideFlag": "Activar el orgullo",
+  "@enablePrideFlag": {}
 }

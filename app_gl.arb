@@ -617,8 +617,6 @@
       }
     }
   },
-  "settingsPedantry": "Adictas",
-  "@settingsPedantry": {},
   "userJoinDate": "Creada {date}",
   "@userJoinDate": {
     "placeholders": {

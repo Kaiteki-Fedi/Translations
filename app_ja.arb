@@ -669,8 +669,6 @@
   "@settingsHidePostMetrics": {},
   "settingsThirdPartyServices": "サードパーティサービス",
   "@settingsThirdPartyServices": {},
-  "settingsPedantry": "マニアックな設定",
-  "@settingsPedantry": {},
   "replyButtonLabel": "返信",
   "@replyButtonLabel": {},
   "deleteButtonLabel": "削除",

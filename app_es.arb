@@ -131,9 +131,9 @@
   },
   "previewSupport": "Vista previa de mensajes",
   "@previewSupport": {},
-  "discoverInstancesButtonLabel": "Descubre instancias",
+  "discoverInstancesButtonLabel": "Descubrir las instancias",
   "@discoverInstancesButtonLabel": {},
-  "discoverInstancesTitle": "Descubre instancias",
+  "discoverInstancesTitle": "Descubrir las instancias",
   "@discoverInstancesTitle": {},
   "discoverInstancesDisclaimer": "Esta es una lista de instancias seleccionadas a mano y recomendadas por los desarrolladores de Kaiteki, cuyo software es soportado.",
   "@discoverInstancesDisclaimer": {},
@@ -831,5 +831,7 @@
   "settingsHidePostMetrics": "Ocultar las métricas para las publicaciones",
   "@settingsHidePostMetrics": {},
   "enablePrideFlag": "Activar el orgullo",
-  "@enablePrideFlag": {}
+  "@enablePrideFlag": {},
+  "settingsTweaks": "Retoques",
+  "@settingsTweaks": {}
 }

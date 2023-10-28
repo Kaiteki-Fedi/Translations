@@ -728,9 +728,9 @@
       }
     }
   },
-  "pollOptionVoteCount": "{count, plural, =1 {1 vote} other {# votes}}",
-  "pollTotalVotesMultiple": "{voteCount, plural, =1 {1 vote} other {# votes}} total from {voterCount, plural, =1 {1 person} other {# people}}",
-  "pollTotalVotes": "{voteCount, plural, =1 {1 vote} other {# votes}} total",
+  "pollOptionVoteCount": "{count, plural, =1 {1 vote} other {{count} votes}}",
+  "pollTotalVotesMultiple": "{voteCount, plural, =1 {1 vote} other {{voteCount} votes}} total from {voterCount, plural, =1 {1 person} other {{voterCount} people}}",
+  "pollTotalVotes": "{voteCount, plural, =1 {1 vote} other {{voteCount} votes}} total",
   "copyToClipboardButtonTooltip": "Copy to clipboard",
   "usersTab": "Users",
   "searchUsersNoResults": "No users found",
@@ -785,7 +785,7 @@
   "misskeyCalendarToday": "Today",
   "misskeyCalendarYear": "Year",
   "misskeyCalendarMonth": "Month",
-  "chatPreviewAttachments": "{attachmentCount, plural, =1 {1 attachment} other {# attachments}}",
+  "chatPreviewAttachments": "{attachmentCount, plural, =1 {1 attachment} other {{attachmentCount} attachments}}",
   "createButtonLabel": "Create",
   "renameButtonLabel": "Rename",
   "proceedButtonLabel": "Proceed"

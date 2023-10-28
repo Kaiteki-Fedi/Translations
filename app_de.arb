@@ -720,11 +720,11 @@
       }
     }
   },
-  "pollOptionVoteCount": "{count, plural, =1 {1 Stimme} other {# Stimmen}}",
+  "pollOptionVoteCount": "{count, plural, =1 {1 Stimme} other {{count} Stimmen}}",
   "@pollOptionVoteCount": {},
-  "pollTotalVotesMultiple": "Insgesamt {voteCount, plural, =1 {1 Stimme} other {# Stimmen}} von {voterCount, plural, =1 {1 Person} other {# Personen}}",
+  "pollTotalVotesMultiple": "Insgesamt {voteCount, plural, =1 {1 Stimme} other {{voteCount} Stimmen}} von {voterCount, plural, =1 {1 Person} other {{voterCount} Personen}}",
   "@pollTotalVotesMultiple": {},
-  "pollTotalVotes": "Insgesamt {voteCount, plural, =1 {1 Stimme} other {# Stimmen}}",
+  "pollTotalVotes": "Insgesamt {voteCount, plural, =1 {1 Stimme} other {{voteCount} Stimmen}}",
   "@pollTotalVotes": {},
   "copyToClipboardButtonTooltip": "In die Zwischenablage kopieren",
   "@copyToClipboardButtonTooltip": {},
@@ -810,7 +810,7 @@
   "@misskeyCalendarYear": {},
   "misskeyCalendarMonth": "Monat",
   "@misskeyCalendarMonth": {},
-  "chatPreviewAttachments": "{attachmentCount, plural, =1 {1 Anhang} other {# Anhänge}}",
+  "chatPreviewAttachments": "{attachmentCount, plural, =1 {1 Anhang} other {{attachmentCount} Anhänge}}",
   "@chatPreviewAttachments": {},
   "renameButtonLabel": "Umbenennen",
   "@renameButtonLabel": {},

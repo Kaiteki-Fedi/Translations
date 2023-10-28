@@ -623,8 +623,6 @@
   "@settingsWellbeing": {},
   "settingsContentWarningBehavior": "内容警告行为",
   "@settingsContentWarningBehavior": {},
-  "settingsPedantry": "琐碎",
-  "@settingsPedantry": {},
   "contentWarningBehaviorCollapse": "折叠",
   "@contentWarningBehaviorCollapse": {},
   "contentWarningBehaviorExpand": "展开",
@@ -833,5 +831,7 @@
   "createButtonLabel": "创建",
   "@createButtonLabel": {},
   "renameButtonLabel": "重命名",
-  "@renameButtonLabel": {}
+  "@renameButtonLabel": {},
+  "settingsTweaks": "微调",
+  "@settingsTweaks": {}
 }

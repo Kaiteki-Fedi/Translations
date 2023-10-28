@@ -653,8 +653,6 @@
   "@settingsEmojisHeader": {},
   "settingsWellbeing": "Bien-être",
   "@settingsWellbeing": {},
-  "settingsPedantry": "Pédanterie",
-  "@settingsPedantry": {},
   "settingsContentWarningBehavior": "Comportement d'avertissement de contenu",
   "@settingsContentWarningBehavior": {},
   "contentWarningBehaviorCollapseDescription": "Les messages avec un avertissement de contenu sont toujours réduits",

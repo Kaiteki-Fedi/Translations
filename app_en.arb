@@ -788,5 +788,12 @@
   "chatPreviewAttachments": "{attachmentCount, plural, =1 {1 attachment} other {{attachmentCount} attachments}}",
   "createButtonLabel": "Create",
   "renameButtonLabel": "Rename",
-  "proceedButtonLabel": "Proceed"
+  "proceedButtonLabel": "Proceed",
+  "themeAffection": "Affection",
+  "themeJoy": "Joy",
+  "themeComfort": "Comfort",
+  "themeCompassion": "Compassion",
+  "themeSerenity": "Serenity",
+  "themeSpirit": "Spirit",
+  "themeCare": "Care"
 }

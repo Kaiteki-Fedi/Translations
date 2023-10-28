@@ -819,5 +819,12 @@
   "homeTab": "Startseite",
   "@homeTab": {},
   "visibilityMutuals": "Nur Zurückfolgende",
-  "@visibilityMutuals": {}
+  "@visibilityMutuals": {},
+  "themeAffection": "Zuneigung",
+  "themeJoy": "Freude",
+  "themeComfort": "Komfort",
+  "themeCompassion": "Mitgefühl",
+  "themeSerenity": "Gelassenheit",
+  "themeSpirit": "Seele",
+  "themeCare": "Fürsorge"
 }

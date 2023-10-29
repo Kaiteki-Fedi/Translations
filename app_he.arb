@@ -9,25 +9,8 @@
   "@cancelButtonLabel": {},
   "verifyButtonLabel": "אימות",
   "@verifyButtonLabel": {},
-  "sharedBackendFunctionality": "להלן התכונות הנתמכות ע\"י Kaiteki ו-{api}:",
-  "@sharedBackendFunctionality": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
-  "reactionSupport": "תגובות אימוג'י",
-  "@reactionSupport": {},
-  "chatSupport": "צ'אטים",
-  "@chatSupport": {},
   "continueAnywayButtonLabel": "המשך בכל זאת",
   "@continueAnywayButtonLabel": {},
-  "discoverInstancesButtonLabel": "מצא שרתים",
-  "@discoverInstancesButtonLabel": {},
-  "discoverInstancesTitle": "מצא שרתים",
-  "@discoverInstancesTitle": {},
   "chooseButtonLabel": "המשך",
   "@chooseButtonLabel": {},
   "aboutInstanceTitle": "אודות {instance}",
@@ -50,30 +33,8 @@
   },
   "loginButtonLabel": "התחבר",
   "@loginButtonLabel": {},
-  "featureSupported": "תמיכה ב{feature}",
-  "@featureSupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
-      }
-    }
-  },
-  "featureUnsupported": "אין תמיכה ב{feature}",
-  "@featureUnsupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
-      }
-    }
-  },
   "rules": "חוקים",
   "@rules": {},
-  "usesFediverseCovenant": "משתמש באמנה הידידותית ל-Fediverse",
-  "@usesFediverseCovenant": {},
-  "usesMastodonCovenant": "משתמש באמנת Mastodon",
-  "@usesMastodonCovenant": {},
   "attachButtonTooltip": "צרף",
   "@attachButtonTooltip": {},
   "emojiButtonTooltip": "הוסף אימוג'י",
@@ -128,19 +89,6 @@
   "@apiTypeDialog_title": {},
   "apiTypeDialog_description": "Kaiteki ניסה למצוא את התוכנה שעליה השרת רץ, אך ללא הצלחה. בבקשה בחר את סוג השרת המתאים מהרשימה.",
   "@apiTypeDialog_description": {},
-  "runsOn": "מריץ {api}",
-  "@runsOn": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
-  "previewSupport": "תצוגה מקדימה",
-  "@previewSupport": {},
-  "discoverInstancesDisclaimer": "להלן רשימה של שרתים המומלצים ע\"י Kaiteki.",
-  "@discoverInstancesDisclaimer": {},
   "rulesLearnMore": "ראה עוד לגבי חוקי השרת",
   "@rulesLearnMore": {},
   "postPreviewWaiting": "התחל לכתוב פוסט כדי לראות תצוגה מקדימה!",

@@ -21,17 +21,6 @@
   "@okButtonLabel": {},
   "verifyButtonLabel": "Επιβεβαίωση",
   "@verifyButtonLabel": {},
-  "runsOn": "Τρέχει σε {api}",
-  "@runsOn": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
-  "usesMastodonCovenant": "Χρησιμοποιεί το Σύμφωνο Mastodon Server",
-  "@usesMastodonCovenant": {},
   "attachButtonTooltip": "Επισύναψη",
   "@attachButtonTooltip": {},
   "emojiButtonTooltip": "Προσθήκη emoji",
@@ -298,10 +287,6 @@
   "@cancelButtonLabel": {},
   "composeBodyHint": "Μόλις προσγειώθηκα στο L.A.",
   "@composeBodyHint": {},
-  "discoverInstancesDisclaimer": "Αυτή είναι μια λίστα με επιλεγμένα instances, προτεινόμενα από τους προγραμματιστές του Kaiteki και κάθε υποστηριζόμενο λογισμικό instance.",
-  "@discoverInstancesDisclaimer": {},
-  "usesFediverseCovenant": "Χρησιμοποιεί το Φιλικό προς το Fediverse Σύμφωνο Διαχείρισης",
-  "@usesFediverseCovenant": {},
   "aboutInstanceTitle": "Σχετικά με το {instance}",
   "@aboutInstanceTitle": {
     "placeholders": {
@@ -395,28 +380,12 @@
   "@discardDraftDialogDescription": {},
   "discardButtonLabel": "Απόρριψη",
   "@discardButtonLabel": {},
-  "whyButtonLabel": "Γιατί;",
-  "@whyButtonLabel": {},
   "keepWritingButtonLabel": "Συνέχιση σύνταξης",
   "@keepWritingButtonLabel": {},
   "postBookmarkFailed": "Αποτυχία προσθήκης ή αφαίρεσης ανάρτησης από τους σελιδοδείκτες",
   "@postBookmarkFailed": {},
   "viewPostButtonLabel": "Εμφάνιση Ανάρτησης",
   "@viewPostButtonLabel": {},
-  "reactionSupport": "Αντιδράσεις",
-  "@reactionSupport": {},
-  "reactionSupportDescription": "Προσθήκη αντιδράσεων στις αναρτήσεις",
-  "@reactionSupportDescription": {},
-  "chatSupport": "Συνομιλία",
-  "@chatSupport": {},
-  "chatSupportDescription": "Αποστολή μηνυμάτων σε άλλους χρήστες",
-  "@chatSupportDescription": {},
-  "previewSupport": "Προεπισκοπήσεις ανάρτησης",
-  "@previewSupport": {},
-  "discoverInstancesButtonLabel": "Ανακαλύψτε instances",
-  "@discoverInstancesButtonLabel": {},
-  "discoverInstancesTitle": "Ανακαλύψτε Instances",
-  "@discoverInstancesTitle": {},
   "postRemoveFromBookmarks": "Αφαίρεση από τους σελιδοδείκτες",
   "@postRemoveFromBookmarks": {},
   "postAddToBookmarks": "Σελιδοδείκτης",
@@ -425,8 +394,6 @@
   "@bookmarksTab": {},
   "accountSettingsTitle": "Ρυθμίσεις Λογαριασμού",
   "@accountSettingsTitle": {},
-  "bookmarkSupport": "Σελιδοδείκτες",
-  "@bookmarkSupport": {},
   "timelineHomeDescription": "Αναρτήσεις από εσάς και όσους ακολουθείτε",
   "@timelineHomeDescription": {},
   "keyboardShortcuts": "Συντομεύσεις Πληκτρολογίου",
@@ -443,8 +410,6 @@
   "@keyboardShortcutsComposePost": {},
   "closeButtonLabel": "Κλείσιμο",
   "@closeButtonLabel": {},
-  "featureSupportListTileSubtitle": "Δείτε ποιες λειτουργίες μπορείτε να χρησιμοποιήσετε με το Kaiteki σε αυτό το instance",
-  "@featureSupportListTileSubtitle": {},
   "useMaterialYou": "Χρήση του Material You",
   "@useMaterialYou": {},
   "selectLocaleTitle": "Επιλογή τοποθεσίας",
@@ -503,19 +468,6 @@
   "@reactButtonLabel": {},
   "settingsAccessibility": "Προσβασιμότητα",
   "@settingsAccessibility": {},
-  "reportSupportDescription": "Αναφέρετε χρήστες ή αναρτήσεις στην ομάδα διαχείρισης.",
-  "@reportSupportDescription": {},
-  "sharedBackendFunctionality": "Αυτές είναι οι δυνατότητες που υποστηρίζουν το {api} και το Kaiteki:",
-  "@sharedBackendFunctionality": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
-  "previewSupportDescription": "Δείτε μια προεπισκόπηση της ανάρτησής σας προτού τη στείλετε",
-  "@previewSupportDescription": {},
   "emojiUnicodeGroupSmileysEmotion": "Πρόσωπα & Συναισθήματα",
   "@emojiUnicodeGroupSmileysEmotion": {},
   "emojiUnicodeGroupObjects": "Αντικείμενα",
@@ -560,24 +512,6 @@
   "@contentWarningBehaviorAutomaticDescription": {},
   "removeButtonLabel": "Διαγραφή",
   "@removeButtonLabel": {},
-  "featureSupported": "Οι {feature} υποστηρίζονται",
-  "@featureSupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
-      }
-    }
-  },
-  "featureUnsupported": "Οι {feature} δεν υποστηρίζονται",
-  "@featureUnsupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
-      }
-    }
-  },
   "timelineBookmarks": "Σελιδοδείκτες",
   "@timelineBookmarks": {},
   "timelineFederatedDescription": "Αναρτήσεις από όλο το Fediverse",
@@ -590,8 +524,6 @@
   "@timelineBookmarksDescription": {},
   "keyboardShortcutsNavigation": "Πλοήγηση",
   "@keyboardShortcutsNavigation": {},
-  "featureSupportListTileTitle": "Αμοιβαία υποστηριζόμενες λειτουργίες",
-  "@featureSupportListTileTitle": {},
   "postPinned": "Καρφιτσωμένο",
   "@postPinned": {},
   "copyAttachmentUrl": "Αντιγραφή διεύθυνσης συνημμένου",
@@ -619,10 +551,6 @@
   "@keyboardShortcutsRepeatPost": {},
   "reportsTitle": "Απεσταλμένες Αναφορές",
   "@reportsTitle": {},
-  "reportSupport": "Αναφορές κατάχρησης",
-  "@reportSupport": {},
-  "bookmarkSupportDescription": "Προσθέστε αναρτήσεις στους σελιδοδείκτες και δείτε τις στην καρτέλα σελιδοδεικτών.",
-  "@bookmarkSupportDescription": {},
   "timelineLocal": "Τοπικά",
   "@timelineLocal": {},
   "keyboardShortcutsBookmarkPost": "Προσθήκη ανάρτησης στους σελιδοδείκτες",

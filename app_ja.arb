@@ -23,48 +23,8 @@
   "@continueAnywayButtonLabel": {},
   "abortButtonLabel": "中止",
   "@abortButtonLabel": {},
-  "sharedBackendFunctionality": "{api} とKaitekiの両方がサポートする機能:",
-  "@sharedBackendFunctionality": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
-  "reactionSupport": "リアクション",
-  "@reactionSupport": {},
-  "reactionSupportDescription": "投稿にリアクション",
-  "@reactionSupportDescription": {},
-  "chatSupport": "チャット",
-  "@chatSupport": {},
-  "chatSupportDescription": "他のユーザーとチャット",
-  "@chatSupportDescription": {},
-  "previewSupport": "投稿のプレビュー",
-  "@previewSupport": {},
-  "previewSupportDescription": "投稿する前にプレビューを見る",
-  "@previewSupportDescription": {},
-  "discoverInstancesButtonLabel": "インスタンスを見つける",
-  "@discoverInstancesButtonLabel": {},
-  "discoverInstancesTitle": "インスタンスを見つける",
-  "@discoverInstancesTitle": {},
-  "discoverInstancesDisclaimer": "Kaitekiの開発者が推奨する、サポートされている全インスタンスの一覧です。",
-  "@discoverInstancesDisclaimer": {},
   "chooseButtonLabel": "選択",
   "@chooseButtonLabel": {},
-  "runsOn": "{api} で動作します",
-  "@runsOn": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
-  "usesFediverseCovenant": "Fediverse-Friendly Moderation Covenantを使用",
-  "@usesFediverseCovenant": {},
-  "usesMastodonCovenant": "Mastodonサーバー規約を使用",
-  "@usesMastodonCovenant": {},
   "visibilityButtonTooltip": "投稿の公開範囲を変更",
   "@visibilityButtonTooltip": {},
   "attachButtonTooltip": "ファイルを添付",
@@ -93,24 +53,6 @@
   },
   "loginButtonLabel": "ログイン",
   "@loginButtonLabel": {},
-  "featureSupported": "{feature} がサポートされています",
-  "@featureSupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
-      }
-    }
-  },
-  "featureUnsupported": "{feature} はサポートされていません",
-  "@featureUnsupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
-      }
-    }
-  },
   "rules": "ルール",
   "@rules": {},
   "rulesLearnMore": "ルールについてもっと知る",
@@ -428,8 +370,6 @@
   "@discardButtonLabel": {},
   "keepWritingButtonLabel": "執筆を続ける",
   "@keepWritingButtonLabel": {},
-  "whyButtonLabel": "なぜ？",
-  "@whyButtonLabel": {},
   "refreshTimelineButtonLabel": "更新",
   "@refreshTimelineButtonLabel": {},
   "postBookmarkAdded": "ブックマークが追加されました",
@@ -454,14 +394,6 @@
   "@reportsTitle": {},
   "accountSettingsTitle": "アカウント設定",
   "@accountSettingsTitle": {},
-  "reportSupport": "違反を報告",
-  "@reportSupport": {},
-  "reportSupportDescription": "ユーザーもしくは投稿をモデレーターに報告する。",
-  "@reportSupportDescription": {},
-  "bookmarkSupport": "ブックマーク",
-  "@bookmarkSupport": {},
-  "bookmarkSupportDescription": "投稿をブックマークして、ブックマークタブから閲覧する。",
-  "@bookmarkSupportDescription": {},
   "authOAuthPending": "OAuth認証の完了を待っています…",
   "@authOAuthPending": {
     "description": "Kaiteki is waiting for an external website to confirm an authorization request"
@@ -530,10 +462,6 @@
   "@closeButtonLabel": {},
   "authInstructions": "アカウントを追加するには、利用したいWebサイトのアドレスを入力してください。",
   "@authInstructions": {},
-  "featureSupportListTileTitle": "相互に対応する機能",
-  "@featureSupportListTileTitle": {},
-  "featureSupportListTileSubtitle": "このインスタンスにおいてKaitekiで使える機能を見る",
-  "@featureSupportListTileSubtitle": {},
   "mfaInstructions": "このアカウントは多要素認証を使用しています。以下にコードを入力してください:",
   "@mfaInstructions": {},
   "directMessagesTitle": "ダイレクトメッセージ",

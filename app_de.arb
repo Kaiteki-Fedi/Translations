@@ -15,22 +15,6 @@
   "@viewPostButtonLabel": {},
   "continueAnywayButtonLabel": "Trotzdem fortfahren",
   "@continueAnywayButtonLabel": {},
-  "sharedBackendFunctionality": "Dies sind die Features die beide {api} und Kaiteki unterstützen:",
-  "@sharedBackendFunctionality": {},
-  "reactionSupport": "Reaktionen",
-  "@reactionSupport": {},
-  "chatSupport": "Unterhaltungen",
-  "@chatSupport": {},
-  "previewSupport": "Beitrag-Vorschau",
-  "@previewSupport": {},
-  "discoverInstancesButtonLabel": "Instanzen entdecken",
-  "@discoverInstancesButtonLabel": {},
-  "discoverInstancesTitle": "Instanzen Entdecken",
-  "@discoverInstancesTitle": {},
-  "discoverInstancesDisclaimer": "Dies hier ist eine Liste von ausgewählten Instanzen, empfohlen von den Entwicklern von Kaiteki und den unterstützen Instanz-Software.",
-  "@discoverInstancesDisclaimer": {},
-  "usesFediverseCovenant": "Folgt der Fediverse-freundlichen Moderationsvereinbarung",
-  "@usesFediverseCovenant": {},
   "chooseButtonLabel": "Auswählen",
   "@chooseButtonLabel": {},
   "mfaNoCode": "Bitte gebe einen Code ein",
@@ -41,15 +25,6 @@
   "@removeButtonLabel": {},
   "abortButtonLabel": "Abbrechen",
   "@abortButtonLabel": {},
-  "runsOn": "Läuft auf {api}",
-  "@runsOn": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
   "postPreviewWaiting": "Fang' an einen Beitrag zu schreiben um eine Vorschau zu sehen!",
   "@postPreviewWaiting": {},
   "postPreviewTitle": "Vorschau",
@@ -90,24 +65,6 @@
   },
   "loginButtonLabel": "Anmelden",
   "@loginButtonLabel": {},
-  "featureSupported": "{feature} sind unterstützt",
-  "@featureSupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
-      }
-    }
-  },
-  "featureUnsupported": "{feature} sind nicht unterstützt",
-  "@featureUnsupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
-      }
-    }
-  },
   "rules": "Regeln",
   "@rules": {},
   "rulesLearnMore": "Lerne mehr über die Regeln",
@@ -373,8 +330,6 @@
       }
     }
   },
-  "usesMastodonCovenant": "Folgt der Mastodon Serververeinbarung",
-  "@usesMastodonCovenant": {},
   "creditsWebsite": "Website",
   "@creditsWebsite": {},
   "timelineRetrievalFailed": "Fehler beim Abfragen der Zeitleiste",
@@ -408,8 +363,6 @@
   "@discardButtonLabel": {},
   "keepWritingButtonLabel": "Weiterschreiben",
   "@keepWritingButtonLabel": {},
-  "whyButtonLabel": "Warum?",
-  "@whyButtonLabel": {},
   "refreshTimelineButtonLabel": "Aktualisieren",
   "@refreshTimelineButtonLabel": {},
   "postBookmarkAdded": "Lesezeichen hinzugefügt",
@@ -434,20 +387,6 @@
   "@reportsTitle": {},
   "accountSettingsTitle": "Konto-Einstellungen",
   "@accountSettingsTitle": {},
-  "reportSupport": "Missbrauch-Meldungen",
-  "@reportSupport": {},
-  "reportSupportDescription": "Melde Nutzer oder Beiträge an das Moderationsteam.",
-  "@reportSupportDescription": {},
-  "bookmarkSupport": "Lesezeichen",
-  "@bookmarkSupport": {},
-  "bookmarkSupportDescription": "Setze Lesezeichen auf Beiträgen und sehe sie im Lesezeichen-Reiter.",
-  "@bookmarkSupportDescription": {},
-  "reactionSupportDescription": "Füge Reaktionen zu Beiträge hinzu",
-  "@reactionSupportDescription": {},
-  "chatSupportDescription": "Sende Chat-Nachrichten an andere Nutzer",
-  "@chatSupportDescription": {},
-  "previewSupportDescription": "Sehe eine Vorschau von deinen Beitrag",
-  "@previewSupportDescription": {},
   "timelineFederated": "Föderiert",
   "@timelineFederated": {},
   "authInstructions": "Um ein Konto hinzuzufügen, gebe die Adresse der Webseite ein, die du verwenden möchtest.",
@@ -512,10 +451,6 @@
   "@keyboardShortcutsComposePost": {},
   "closeButtonLabel": "Schließen",
   "@closeButtonLabel": {},
-  "featureSupportListTileTitle": "Gemeinsam unterstützte Funktionen",
-  "@featureSupportListTileTitle": {},
-  "featureSupportListTileSubtitle": "Sehe welche Funktionen du mit Kaiteki und dieser Instanz verwenden kannst",
-  "@featureSupportListTileSubtitle": {},
   "mfaInstructions": "Dieses Konto verwendet Multi-Faktor-Authentifizierung, bitte gebe den Code unten ein:",
   "@mfaInstructions": {},
   "directMessagesTitle": "Direktnachrichten",
@@ -819,10 +754,17 @@
   "visibilityMutuals": "Nur Zurückfolgende",
   "@visibilityMutuals": {},
   "themeAffection": "Zuneigung",
+  "@themeAffection": {},
   "themeJoy": "Freude",
+  "@themeJoy": {},
   "themeComfort": "Komfort",
+  "@themeComfort": {},
   "themeCompassion": "Mitgefühl",
+  "@themeCompassion": {},
   "themeSerenity": "Gelassenheit",
+  "@themeSerenity": {},
   "themeSpirit": "Seele",
-  "themeCare": "Fürsorge"
+  "@themeSpirit": {},
+  "themeCare": "Fürsorge",
+  "@themeCare": {}
 }

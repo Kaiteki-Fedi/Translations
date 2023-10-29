@@ -7,10 +7,6 @@
   "@viewPostButtonLabel": {},
   "abortButtonLabel": "Akhiri",
   "@abortButtonLabel": {},
-  "reactionSupportDescription": "Tambah reaksi ke pos",
-  "@reactionSupportDescription": {},
-  "chatSupport": "Obrolan",
-  "@chatSupport": {},
   "apiTypeDialog_title": "Tidak dapat mendeteksi jenis instance",
   "@apiTypeDialog_title": {},
   "apiTypeDialog_description": "Kaiteki mencoba mencari tahu perangkat lunak apa yang sedang dijalankan oleh instance tersebut, tetapi tidak dapat mengetahuinya. Harap pilih backend instance yang benar dari bawah.",
@@ -19,8 +15,6 @@
   "@apiTypeDialog_missing": {},
   "continueAnywayButtonLabel": "Tetap lanjutkan",
   "@continueAnywayButtonLabel": {},
-  "reactionSupport": "Reaksi",
-  "@reactionSupport": {},
   "okButtonLabel": "Oke",
   "@okButtonLabel": {},
   "cancelButtonLabel": "Batal",
@@ -29,25 +23,6 @@
   "@verifyButtonLabel": {},
   "removeButtonLabel": "Hapus",
   "@removeButtonLabel": {},
-  "sharedBackendFunctionality": "Ini adalah fitur yang didukung oleh {api} dan Kaiteki:",
-  "@sharedBackendFunctionality": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
-  "chatSupportDescription": "Kirim pesan instan ke pengguna lain",
-  "@chatSupportDescription": {},
-  "previewSupport": "Pratinjau pos",
-  "@previewSupport": {},
-  "discoverInstancesButtonLabel": "Temukan instance",
-  "@discoverInstancesButtonLabel": {},
-  "usesFediverseCovenant": "Menggunakan Perjanjian Moderasi yang Ramah terhadap Fediverse",
-  "@usesFediverseCovenant": {},
-  "usesMastodonCovenant": "Menggunakan Perjanjian Server Mastodon",
-  "@usesMastodonCovenant": {},
   "visibilityButtonTooltip": "Ubah cakupan pos",
   "@visibilityButtonTooltip": {},
   "attachButtonTooltip": "Lampirkan",
@@ -65,32 +40,8 @@
       }
     }
   },
-  "featureUnsupported": "{feature} tidak didukung",
-  "@featureUnsupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
-      }
-    }
-  },
-  "discoverInstancesTitle": "Temukan instance",
-  "@discoverInstancesTitle": {},
-  "previewSupportDescription": "Lihat pratinjau pos Anda sebelum mengirimnya",
-  "@previewSupportDescription": {},
-  "discoverInstancesDisclaimer": "Ini adalah daftar instance yang dipilih sendiri, direkomendasikan oleh pengembang Kaiteki dan setiap perangkat lunak instance yang didukung.",
-  "@discoverInstancesDisclaimer": {},
   "chooseButtonLabel": "Pilih",
   "@chooseButtonLabel": {},
-  "runsOn": "Berjalan di {api}",
-  "@runsOn": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
   "aboutBackendTitle": "Tentang {api}",
   "@aboutBackendTitle": {
     "placeholders": {
@@ -102,15 +53,6 @@
   },
   "loginButtonLabel": "Masuk",
   "@loginButtonLabel": {},
-  "featureSupported": "{feature} didukung",
-  "@featureSupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
-      }
-    }
-  },
   "postPreviewTitle": "Pratinjau",
   "@postPreviewTitle": {},
   "postPreviewWaiting": "Mulailah menulis pos untuk melihat pratinjau!",
@@ -543,8 +485,6 @@
   "@discardDraftDialogTitle": {},
   "discardDraftDialogDescription": "Apakah Anda yakin ingin membuang draf ini?",
   "@discardDraftDialogDescription": {},
-  "whyButtonLabel": "Kenapa?",
-  "@whyButtonLabel": {},
   "keepWritingButtonLabel": "Tetap menulis",
   "@keepWritingButtonLabel": {},
   "postBookmarkFailed": "Gagal menambahkan atau menghapus pos dari bookmark",
@@ -561,20 +501,12 @@
   "@reportLabel": {},
   "timelineLocalDescription": "Pos dari semua orang di instance Anda",
   "@timelineLocalDescription": {},
-  "reportSupport": "Penyalahgunaan lapor",
-  "@reportSupport": {},
-  "bookmarkSupportDescription": "Tandai pos dan lihat di tab bookmark.",
-  "@bookmarkSupportDescription": {},
   "postBookmarkRemoved": "Bookmark dihapus",
   "@postBookmarkRemoved": {},
-  "reportSupportDescription": "Laporkan pengguna atau pos ke tim moderasi.",
-  "@reportSupportDescription": {},
   "timelineLocal": "Lokal",
   "@timelineLocal": {},
   "timelineBookmarks": "Bookmark",
   "@timelineBookmarks": {},
-  "bookmarkSupport": "Bookmark",
-  "@bookmarkSupport": {},
   "postBookmarkAdded": "Bookmark ditambah",
   "@postBookmarkAdded": {},
   "bookmarksTab": "Bookmark",
@@ -599,8 +531,6 @@
   "@timelineDirectMessagesDescription": {},
   "keyboardShortcuts": "Pintasan Keyboard",
   "@keyboardShortcuts": {},
-  "featureSupportListTileTitle": "Fitur saling mendukung",
-  "@featureSupportListTileTitle": {},
   "keyboardShortcutsOpenDialog": "Tampilkan pintasan keyboard",
   "@keyboardShortcutsOpenDialog": {},
   "keyboardShortcutsReplyToPost": "Balas pos",
@@ -629,8 +559,6 @@
   "@trendsTitle": {},
   "bookmarksEmpty": "Tidak ada bookmark",
   "@bookmarksEmpty": {},
-  "featureSupportListTileSubtitle": "Lihat fitur apa yang dapat Anda gunakan dengan Kaiteki pada instance ini",
-  "@featureSupportListTileSubtitle": {},
   "repeatsEmpty": "Tidak ada ulangan",
   "@repeatsEmpty": {},
   "mfaInstructions": "Akun ini menggunakan Autentikasi Multi-Faktor, harap masukkan kode di bawah ini:",

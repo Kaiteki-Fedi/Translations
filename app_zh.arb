@@ -15,8 +15,6 @@
       }
     }
   },
-  "discoverInstancesTitle": "发现实例",
-  "@discoverInstancesTitle": {},
   "loginButtonLabel": "登录",
   "@loginButtonLabel": {},
   "submitButtonTooltip": "提交",
@@ -210,38 +208,8 @@
   "@mfaTitle": {},
   "abortButtonLabel": "中止",
   "@abortButtonLabel": {},
-  "sharedBackendFunctionality": "这些是 {api} 和 Kaiteki 都支持的特性：",
-  "@sharedBackendFunctionality": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
-  "reactionSupport": "表情回应",
-  "@reactionSupport": {},
-  "reactionSupportDescription": "添加对帖文的表情回应",
-  "@reactionSupportDescription": {},
-  "chatSupport": "聊天",
-  "@chatSupport": {},
-  "chatSupportDescription": "向其他用户发送即时消息",
-  "@chatSupportDescription": {},
-  "previewSupportDescription": "在发送之前查看您的帖文的预览",
-  "@previewSupportDescription": {},
-  "discoverInstancesButtonLabel": "发现实例",
-  "@discoverInstancesButtonLabel": {},
   "chooseButtonLabel": "选择",
   "@chooseButtonLabel": {},
-  "runsOn": "在 {api} 上运行",
-  "@runsOn": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
   "visibilityButtonTooltip": "更改发帖可见范围",
   "@visibilityButtonTooltip": {},
   "attachButtonTooltip": "附加",
@@ -265,24 +233,6 @@
       "api": {
         "description": "Name of the instance backend software",
         "example": "Pleroma"
-      }
-    }
-  },
-  "featureSupported": "{feature} 受支持",
-  "@featureSupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
-      }
-    }
-  },
-  "featureUnsupported": "{feature} 不受支持",
-  "@featureUnsupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
       }
     }
   },
@@ -459,8 +409,6 @@
   "@discardButtonLabel": {},
   "keepWritingButtonLabel": "继续撰写",
   "@keepWritingButtonLabel": {},
-  "whyButtonLabel": "为什么？",
-  "@whyButtonLabel": {},
   "refreshTimelineButtonLabel": "刷新",
   "@refreshTimelineButtonLabel": {},
   "postBookmarkAdded": "书签已添加",
@@ -469,14 +417,6 @@
   "@postBookmarkRemoved": {},
   "timelineLocal": "本站",
   "@timelineLocal": {},
-  "reportSupport": "滥用举报",
-  "@reportSupport": {},
-  "reportSupportDescription": "向审核团队举报用户或帖文。",
-  "@reportSupportDescription": {},
-  "bookmarkSupport": "书签",
-  "@bookmarkSupport": {},
-  "bookmarkSupportDescription": "为帖文添加书签并在书签标签页中查看它们。",
-  "@bookmarkSupportDescription": {},
   "timelineFederated": "跨站",
   "@timelineFederated": {},
   "timelineHybrid": "社交",
@@ -527,10 +467,6 @@
   "@closeButtonLabel": {},
   "authInstructions": "要添加帐号，请输入您要使用的网站地址。",
   "@authInstructions": {},
-  "featureSupportListTileTitle": "相互支持的功能",
-  "@featureSupportListTileTitle": {},
-  "featureSupportListTileSubtitle": "查看您可以在此实例上使用 Kaiteki 的哪些功能",
-  "@featureSupportListTileSubtitle": {},
   "mfaInstructions": "此帐号使用多重身份验证，请在下方输入验证码：",
   "@mfaInstructions": {},
   "directMessagesTitle": "私信",
@@ -571,8 +507,6 @@
   "@showAltTextTooltip": {},
   "copyAttachmentUrl": "复制附件地址",
   "@copyAttachmentUrl": {},
-  "discoverInstancesDisclaimer": "这是一个精心挑选的实例列表，由 Kaiteki 和每个支持的实例软件的开发人员推荐。",
-  "@discoverInstancesDisclaimer": {},
   "composeBodyHint": "刚刚降落在洛杉矶",
   "@composeBodyHint": {},
   "postSubmissionFailed": "帖文发送失败",
@@ -595,10 +529,6 @@
   "@verifyButtonLabel": {},
   "removeButtonLabel": "移除",
   "@removeButtonLabel": {},
-  "usesFediverseCovenant": "使用联邦宇宙友好的仲裁协议",
-  "@usesFediverseCovenant": {},
-  "usesMastodonCovenant": "使用 Mastodon 服务器协议",
-  "@usesMastodonCovenant": {},
   "followingTab": "正在关注",
   "@followingTab": {},
   "notificationsTab": "通知",
@@ -609,8 +539,6 @@
   "@viewPostButtonLabel": {},
   "continueAnywayButtonLabel": "仍然继续",
   "@continueAnywayButtonLabel": {},
-  "previewSupport": "发布预览",
-  "@previewSupport": {},
   "emojiRetrievalFailed": "无法检索表情符号",
   "@emojiRetrievalFailed": {},
   "visibilityLocal": "本站",

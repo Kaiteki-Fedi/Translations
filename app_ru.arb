@@ -15,40 +15,10 @@
   "@continueAnywayButtonLabel": {},
   "abortButtonLabel": "Прервать",
   "@abortButtonLabel": {},
-  "sharedBackendFunctionality": "Kaiteki и {api} поддерживают эти возможности:",
-  "@sharedBackendFunctionality": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
-  "reactionSupport": "Реакции",
-  "@reactionSupport": {},
-  "chatSupport": "Чаты",
-  "@chatSupport": {},
-  "discoverInstancesButtonLabel": "Найти инстансы",
-  "@discoverInstancesButtonLabel": {},
-  "discoverInstancesTitle": "Найти Инстансы",
-  "@discoverInstancesTitle": {},
   "chooseButtonLabel": "Выбрать",
   "@chooseButtonLabel": {},
-  "runsOn": "Работает на {api}",
-  "@runsOn": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
-  "usesFediverseCovenant": "Следует Cоглашению о Дружелюбной Модерации в Fediverse",
-  "@usesFediverseCovenant": {},
   "viewPostButtonLabel": "Показать Пост",
   "@viewPostButtonLabel": {},
-  "previewSupport": "Предпросмотр сообщений",
-  "@previewSupport": {},
   "visibilityButtonTooltip": "Изменить масштаб поста",
   "@visibilityButtonTooltip": {},
   "attachButtonTooltip": "Прикрепить",
@@ -77,24 +47,6 @@
   "@apiTypeDialog_description": {},
   "emojiButtonTooltip": "Добавить эмодзи",
   "@emojiButtonTooltip": {},
-  "featureSupported": "{feature} поддерживаются",
-  "@featureSupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
-      }
-    }
-  },
-  "featureUnsupported": "{feature} не поддерживаются",
-  "@featureUnsupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
-      }
-    }
-  },
   "rules": "Правила",
   "@rules": {},
   "postPreviewTitle": "Предпросмотр",
@@ -119,8 +71,6 @@
   "@formattingButtonTooltip": {},
   "apiTypeDialog_title": "Не удалось распознать тип сервера",
   "@apiTypeDialog_title": {},
-  "discoverInstancesDisclaimer": "Это список вручную подобранных инстансов, рекомендуемых разработчиками Kaiteki и поддерживаемого программного обеспечения.",
-  "@discoverInstancesDisclaimer": {},
   "empty": "Здесь как-то пусто…",
   "@empty": {},
   "emailFieldHint": "Адрес электронной почты",
@@ -406,10 +356,6 @@
   "@refreshTimelineButtonLabel": {},
   "reportsTitle": "Поступившие жалобы",
   "@reportsTitle": {},
-  "whyButtonLabel": "Почему?",
-  "@whyButtonLabel": {},
-  "bookmarkSupport": "Закладки",
-  "@bookmarkSupport": {},
   "postBookmarkAdded": "Закладка добавлена",
   "@postBookmarkAdded": {},
   "postBookmarkRemoved": "Закладка удалена",
@@ -430,10 +376,6 @@
   "@postAddToBookmarks": {},
   "reportLabel": "Пожаловаться",
   "@reportLabel": {},
-  "reportSupport": "Жалобы на жестокое обращение",
-  "@reportSupport": {},
-  "reportSupportDescription": "Пожаловаться модераторам на пользователей или на посты.",
-  "@reportSupportDescription": {},
   "authOAuthPending": "Ждём, когда OAuth закончит свое дело…",
   "@authOAuthPending": {
     "description": "Kaiteki is waiting for an external website to confirm an authorization request"
@@ -442,14 +384,8 @@
   "@selectThemeTitle": {},
   "openInBrowserLabel": "Открыть в браузере",
   "@openInBrowserLabel": {},
-  "previewSupportDescription": "Просмотр превью поста до того, как он будет отправлен",
-  "@previewSupportDescription": {},
-  "chatSupportDescription": "Отправка личных сообщений другим пользователям",
-  "@chatSupportDescription": {},
   "switchListTileTextOff": "Выкл",
   "@switchListTileTextOff": {},
-  "reactionSupportDescription": "Добавить реакции на посты",
-  "@reactionSupportDescription": {},
   "creditsTitle": "Авторы",
   "@creditsTitle": {},
   "theme": "Тема",
@@ -469,8 +405,6 @@
   "@composeContentWarningHint": {},
   "contentWarningButtonLabelEnable": "Включить предупреждение о содержимом",
   "@contentWarningButtonLabelEnable": {},
-  "usesMastodonCovenant": "Использует протокол сервера Mastodon",
-  "@usesMastodonCovenant": {},
   "visibilityLocal": "Локальный",
   "@visibilityLocal": {},
   "visibilityLocalDescription": "Видно пользователям на том же сервере",
@@ -545,10 +479,6 @@
   "@keyboardShortcutsGoToBookmarks": {},
   "authInstructions": "Чтобы добавить учетную запись, введите адрес сайта, который вы хотите использовать.",
   "@authInstructions": {},
-  "featureSupportListTileTitle": "Взаимно поддерживаемые функции",
-  "@featureSupportListTileTitle": {},
-  "featureSupportListTileSubtitle": "Узнайте, какие функции вы можете использовать с Kaiteki на этом сервере",
-  "@featureSupportListTileSubtitle": {},
   "mfaInstructions": "Эта учетная запись использует многофакторную аутентификацию, пожалуйста, введите код ниже:",
   "@mfaInstructions": {},
   "directMessagesTitle": "Личные сообщения",
@@ -628,8 +558,6 @@
   "@keyboardShortcuts": {},
   "contentWarningButtonLabelDisable": "Отключить предупреждение о содержимом",
   "@contentWarningButtonLabelDisable": {},
-  "bookmarkSupportDescription": "Добавляйте посты в закладки и просматривайте их на вкладке закладок.",
-  "@bookmarkSupportDescription": {},
   "timelineFederated": "Все сервера",
   "@timelineFederated": {},
   "timelineLocal": "Этот сервер",

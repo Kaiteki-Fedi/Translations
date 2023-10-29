@@ -20,21 +20,6 @@
   "@removeButtonLabel": {},
   "viewPostButtonLabel": "Pokaż post",
   "@viewPostButtonLabel": {},
-  "chatSupportDescription": "Wysyłaj wiadomości do innych użytkowników",
-  "@chatSupportDescription": {},
-  "previewSupport": "Podglądy postów",
-  "@previewSupport": {},
-  "discoverInstancesButtonLabel": "Odkryj instancje",
-  "@discoverInstancesButtonLabel": {},
-  "runsOn": "Działa na {api}",
-  "@runsOn": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
   "visibilityButtonTooltip": "Zmień zasięg posta",
   "@visibilityButtonTooltip": {},
   "attachButtonTooltip": "Dodaj załącznik",
@@ -58,25 +43,8 @@
   "@mfaTitle": {},
   "cancelButtonLabel": "Anuluj",
   "@cancelButtonLabel": {},
-  "sharedBackendFunctionality": "Funkcje wspierane zarówno przez {api} i Kaiteki:",
-  "@sharedBackendFunctionality": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
   "emojiButtonTooltip": "Wprowadź emoji",
   "@emojiButtonTooltip": {},
-  "reactionSupport": "Reakcje",
-  "@reactionSupport": {},
-  "chatSupport": "Wiadomości",
-  "@chatSupport": {},
-  "previewSupportDescription": "Zobacz podgląd swojego posta przed jego wysłaniem",
-  "@previewSupportDescription": {},
-  "discoverInstancesTitle": "Odkryj instancje",
-  "@discoverInstancesTitle": {},
   "chooseButtonLabel": "Wybierz",
   "@chooseButtonLabel": {},
   "rulesLearnMore": "Dowiedz się więcej o zasadach",

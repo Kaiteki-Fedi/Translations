@@ -1,8 +1,6 @@
 {
   "apiTypeDialog_description": "Kaiteki ha provato a scoprire quale software è in esecuzione nell'istanza, ma non è riuscito a capirlo. Seleziona il backend dell'istanza corretto dal basso.",
   "@apiTypeDialog_description": {},
-  "discoverInstancesButtonLabel": "Scopri le istanze",
-  "@discoverInstancesButtonLabel": {},
   "apiTypeDialog_title": "Impossibile rilevare il tipo di istanza",
   "@apiTypeDialog_title": {},
   "mfaTitle": "Autenticazione a due fattori",
@@ -19,37 +17,12 @@
   "@continueAnywayButtonLabel": {},
   "abortButtonLabel": "Annulla",
   "@abortButtonLabel": {},
-  "reactionSupport": "Reazioni",
-  "@reactionSupport": {},
-  "reactionSupportDescription": "Aggiungi reazioni ai post",
-  "@reactionSupportDescription": {},
-  "chatSupportDescription": "Invia messaggi istantanei ad altri utenti",
-  "@chatSupportDescription": {},
-  "chatSupport": "Chat",
-  "@chatSupport": {},
   "verifyButtonLabel": "Verifica",
   "@verifyButtonLabel": {},
   "removeButtonLabel": "Rimuovi",
   "@removeButtonLabel": {},
-  "discoverInstancesTitle": "Scopri le istanze",
-  "@discoverInstancesTitle": {},
-  "discoverInstancesDisclaimer": "Questo è un elenco di istanze selezionate, consigliate dagli sviluppatori di Kaiteki e di ogni software di istanza supportato.",
-  "@discoverInstancesDisclaimer": {},
   "chooseButtonLabel": "Scegli",
   "@chooseButtonLabel": {},
-  "runsOn": "Funziona su {api}",
-  "@runsOn": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
-  "usesFediverseCovenant": "Utilizza il patto di moderazione amichevole del Fediverso",
-  "@usesFediverseCovenant": {},
-  "usesMastodonCovenant": "Usa il Patto del Server Mastodon",
-  "@usesMastodonCovenant": {},
   "attachButtonTooltip": "Allega",
   "@attachButtonTooltip": {},
   "formattingButtonTooltip": "Modificare la formattazione",
@@ -60,15 +33,6 @@
       "instance": {
         "description": "Domain/hostname of the instance",
         "example": "fedi.absturztau.be"
-      }
-    }
-  },
-  "featureUnsupported": "{feature} non supportate",
-  "@featureUnsupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
       }
     }
   },
@@ -302,8 +266,6 @@
   "@discardDraftDialogDescription": {},
   "discardButtonLabel": "Scartare",
   "@discardButtonLabel": {},
-  "whyButtonLabel": "Perche'?",
-  "@whyButtonLabel": {},
   "refreshTimelineButtonLabel": "Aggiornare",
   "@refreshTimelineButtonLabel": {},
   "postBookmarkAdded": "Aggiunto segnalibro",
@@ -322,10 +284,6 @@
   "@reportsTitle": {},
   "accountSettingsTitle": "Impostazioni account",
   "@accountSettingsTitle": {},
-  "reportSupport": "Segnalazioni di abusi",
-  "@reportSupport": {},
-  "reportSupportDescription": "Segnalare utenti o messaggi al team di moderazione.",
-  "@reportSupportDescription": {},
   "timelineFederated": "Federata",
   "@timelineFederated": {},
   "timelineLocal": "Locale",
@@ -368,8 +326,6 @@
   "@closeButtonLabel": {},
   "authInstructions": "Per aggiungere un account, digitare l'indirizzo del sito web che si desidera utilizzare.",
   "@authInstructions": {},
-  "featureSupportListTileTitle": "Funzionalità reciprocamente supportate",
-  "@featureSupportListTileTitle": {},
   "mfaInstructions": "Questo account utilizza l'autenticazione a più fattori, inserisci il codice qui sotto:",
   "@mfaInstructions": {},
   "directMessagesTitle": "Messaggi diretti",
@@ -437,19 +393,6 @@
   "@useSystemColorScheme": {},
   "apiTypeDialog_missing": "Manca qualcosa?",
   "@apiTypeDialog_missing": {},
-  "previewSupportDescription": "Guarda un'anteprima del tuo post prima di inviarlo",
-  "@previewSupportDescription": {},
-  "sharedBackendFunctionality": "Queste sono le funzionalità supportate sia da {api} che da Kaiteki:",
-  "@sharedBackendFunctionality": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
-  "previewSupport": "Anteprime post",
-  "@previewSupport": {},
   "visibilityButtonTooltip": "Modifica lo scopo del post",
   "@visibilityButtonTooltip": {},
   "emojiButtonTooltip": "Inserisci l'emoji",
@@ -462,15 +405,6 @@
       "api": {
         "description": "Name of the instance backend software",
         "example": "Pleroma"
-      }
-    }
-  },
-  "featureSupported": "{feature} è supportata",
-  "@featureSupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
       }
     }
   },
@@ -581,10 +515,6 @@
   "@postRepeatFailed": {},
   "reportLabel": "Rapporto",
   "@reportLabel": {},
-  "bookmarkSupport": "Segnalibri",
-  "@bookmarkSupport": {},
-  "bookmarkSupportDescription": "Aggiungi ai post dei segnalibri e visualizzali nella scheda dei preferiti.",
-  "@bookmarkSupportDescription": {},
   "timelineHomeDescription": "Post tuoi e delle persone che segui",
   "@timelineHomeDescription": {},
   "keyboardShortcutsOpenDialog": "Mostra le scorciatoie da tastiera",
@@ -595,8 +525,6 @@
   "@keyboardShortcutsGoToBookmarks": {},
   "keyboardShortcutsNavigation": "Navigazione",
   "@keyboardShortcutsNavigation": {},
-  "featureSupportListTileSubtitle": "Scopri quali funzionalità puoi utilizzare con Kaiteki su questa istanza",
-  "@featureSupportListTileSubtitle": {},
   "bookmarksEmpty": "Nessun segnalibro",
   "@bookmarksEmpty": {},
   "keyboardShortcutsComposePost": "Scrivi un nuovo post",

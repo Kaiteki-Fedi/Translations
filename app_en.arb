@@ -496,8 +496,11 @@
   "@settingsLocale": {},
   "selectLocaleTitle": "Select locale",
   "@selectLocaleTitle": {},
-  "languageName": "English (US)",
-  "@languageName": {},
+  "languageName": "English (Simplified)",
+  "@languageName": {
+    "description": "Name of the language in the language itself. This would be \"日本語\" in Japanese, etc. Only write out the country name if it's necessary to distinguish between multiple languages with the same name.",
+    "context": "Locale picker"
+  },
   "localeSystem": "System default",
   "@localeSystem": {},
   "postPinned": "Pinned",

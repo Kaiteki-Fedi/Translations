@@ -154,5 +154,7 @@
   "settingsMutesBlocks": "השתקות וחסימות",
   "@settingsMutesBlocks": {},
   "emailFieldHint": "כתובת דוא\"ל",
-  "@emailFieldHint": {}
+  "@emailFieldHint": {},
+  "languageName": "עברית",
+  "@languageName": {}
 }

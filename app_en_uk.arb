@@ -1,0 +1,14 @@
+{
+  "postFavoriteFailed": "Failed to un-/favourite post",
+  "@postFavoriteFailed": {},
+  "keyboardShortcutsFavoritePost": "Favourite post",
+  "@keyboardShortcutsFavoritePost": {},
+  "favoriteesTitle": "Favourited by",
+  "@favoriteesTitle": {},
+  "favoritesEmpty": "No favourites",
+  "@favoritesEmpty": {},
+  "settingsHidePostMetricsDescription": "Hides the amount of replies, favourites, repeats a post has",
+  "@settingsHidePostMetricsDescription": {},
+  "favoriteButtonLabel": "Favourite",
+  "@favoriteButtonLabel": {}
+}

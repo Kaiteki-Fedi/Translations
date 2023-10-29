@@ -3,8 +3,6 @@
   "@apiTypeDialog_title": {},
   "threadRetrievalFailed": "Fallou a obtención da conversa",
   "@threadRetrievalFailed": {},
-  "previewSupport": "Vista previa das publicacións",
-  "@previewSupport": {},
   "continueAnywayButtonLabel": "Continuar igualmente",
   "@continueAnywayButtonLabel": {},
   "emojiUnicodeGroupSymbols": "Símbolos",
@@ -27,8 +25,6 @@
   "@composeBodyHint": {},
   "directMessagesTitle": "Mensaxes Directas",
   "@directMessagesTitle": {},
-  "bookmarkSupport": "Marcadores",
-  "@bookmarkSupport": {},
   "noMorePosts": "Chegaches ao final",
   "@noMorePosts": {},
   "emojiUnicodeGroupFoodDrink": "Comida & Bebida",
@@ -84,23 +80,12 @@
   "@welcome": {},
   "settingsAccessibility": "Accesibilidade",
   "@settingsAccessibility": {},
-  "featureUnsupported": "Non hai soporte para {feature}",
-  "@featureUnsupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
-      }
-    }
-  },
   "postSubmissionFailed": "Fallou o envío da publicación",
   "@postSubmissionFailed": {},
   "bookmarksEmpty": "Sen marcadores",
   "@bookmarksEmpty": {},
   "emojiUnicodeGroupSmileysEmotion": "Sorrisos & Emocións",
   "@emojiUnicodeGroupSmileysEmotion": {},
-  "discoverInstancesDisclaimer": "Esta é unha lista de instancias escollidas, para cada tipo de servidor, recomendadas polas desenvolvedoras de Kaiteki.",
-  "@discoverInstancesDisclaimer": {},
   "altText": "Texto alternativo",
   "@altText": {},
   "mfaInstructions": "Esta conta usa Autenticación con Varios-Factores, escribe o código aquí:",
@@ -123,21 +108,10 @@
   "@composeDialogTitleReply": {
     "description": "Title used when compose dialog is shown for writing a reply. Gets appended with replyee's display name"
   },
-  "reactionSupport": "Reaccións",
-  "@reactionSupport": {},
   "chatsTab": "Conversas",
   "@chatsTab": {},
   "keyboardShortcutsFavoritePost": "Favorecer a publicación",
   "@keyboardShortcutsFavoritePost": {},
-  "runsOn": "A funcionar en {api}",
-  "@runsOn": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
   "loginTitle": "Accede a unha instancia",
   "@loginTitle": {},
   "loginButtonLabel": "Acceder",
@@ -215,16 +189,12 @@
   "@shareSheetFormatContent": {},
   "visibilityPublic": "Pública",
   "@visibilityPublic": {},
-  "reactionSupportDescription": "Engadir reaccións ás publicacións",
-  "@reactionSupportDescription": {},
   "searchEmojisNoResults": "Sen emojis",
   "@searchEmojisNoResults": {},
   "bookmarkButtonLabel": "Marcar",
   "@bookmarkButtonLabel": {},
   "contentWarningButtonLabelEnable": "Activar aviso sobre o contido",
   "@contentWarningButtonLabelEnable": {},
-  "usesMastodonCovenant": "Usa o Compromiso entre Servidores de Mastodon",
-  "@usesMastodonCovenant": {},
   "contentWarningBehaviorExpand": "Despregar",
   "@contentWarningBehaviorExpand": {},
   "exceptionShowJson": "Mostrar JSON",
@@ -271,8 +241,6 @@
   "@settingsAbout": {},
   "emojiUnicodeGroupPeopleBody": "Persoas & Corpos",
   "@emojiUnicodeGroupPeopleBody": {},
-  "discoverInstancesButtonLabel": "Descubrir instancias",
-  "@discoverInstancesButtonLabel": {},
   "visibilityUnlisted": "Non listada",
   "@visibilityUnlisted": {},
   "showStackTrace": "Mostrar trazas do sistema",
@@ -361,8 +329,6 @@
       }
     }
   },
-  "bookmarkSupportDescription": "Marcar publicacións e velas na lapela dos marcadores.",
-  "@bookmarkSupportDescription": {},
   "homeTab": "Inicio",
   "@homeTab": {},
   "missingDescriptionDialogTitle": "O anexo non ten descrición",
@@ -383,8 +349,6 @@
   "@selectLocaleTitle": {},
   "prideFlag": "Bandeira do orguio",
   "@prideFlag": {},
-  "reportSupport": "Denuncias de abusos",
-  "@reportSupport": {},
   "postAddToBookmarks": "Marcar",
   "@postAddToBookmarks": {},
   "contentWarningBehaviorExpandDescription": "As publicacións mostraranse sempre. Os avisos sobre o contido serán tratados como se fosen o tema.",
@@ -403,8 +367,6 @@
   "@visibilityPublicDescription": {},
   "contentWarningBehaviorAutomaticDescription": "As publicacións estarán pregadas se o aviso sobre o contido contén palabras sensibles.",
   "@contentWarningBehaviorAutomaticDescription": {},
-  "featureSupportListTileSubtitle": "Mira as características de Kaiteki que podes usar nesta instancia",
-  "@featureSupportListTileSubtitle": {},
   "settingsExperimentsDescription": "Proba as características experimentais de Kaiteki!",
   "@settingsExperimentsDescription": {},
   "timeDifferenceHours": "{hours}h",
@@ -439,8 +401,6 @@
   "@retryButtonLabel": {},
   "exceptionReasonServerError": "Erro interno do servidor",
   "@exceptionReasonServerError": {},
-  "previewSupportDescription": "Ver a publicación antes de publicala",
-  "@previewSupportDescription": {},
   "replyTo": "Responder a",
   "@replyTo": {
     "description": "Gets appended with replyee's display name"
@@ -453,15 +413,6 @@
   "@filteringIncludeSensitive": {},
   "formattingButtonTooltip": "Cambiar o formato",
   "@formattingButtonTooltip": {},
-  "sharedBackendFunctionality": "Estas son as características que tanto Kaiteki como {api} soportan:",
-  "@sharedBackendFunctionality": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
   "timeDifferenceSeconds": "{seconds}s",
   "@timeDifferenceSeconds": {
     "description": "Text used to display how many seconds have passed since a certain event",
@@ -561,15 +512,6 @@
   "@settingsGeneral": {},
   "reactButtonLabel": "Reaccionar",
   "@reactButtonLabel": {},
-  "featureSupported": "Hai soporte para {feature}",
-  "@featureSupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
-      }
-    }
-  },
   "copiedToClipboard": "Copiado ao portapapeis",
   "@copiedToClipboard": {},
   "enablePrideFlag": "Activar Orguio",
@@ -659,8 +601,6 @@
   "@discardButtonLabel": {},
   "emojiUnicodeGroupTravelPlaces": "Viaxar & Lugares",
   "@emojiUnicodeGroupTravelPlaces": {},
-  "usesFediverseCovenant": "Uníuse ao Compromiso de Moderación por un Fediverso Amigable",
-  "@usesFediverseCovenant": {},
   "creditsGithubRepo": "Repositorio en GitHub",
   "@creditsGithubRepo": {},
   "showDetailsButtonLabel": "Mostrar detalles",
@@ -741,18 +681,12 @@
   "@attachmentUnsupported": {},
   "emailFieldHint": "Enderezo de correo",
   "@emailFieldHint": {},
-  "chatSupport": "Conversas",
-  "@chatSupport": {},
   "pendingFollowRequestButtonLabel": "Pendente",
   "@pendingFollowRequestButtonLabel": {},
   "creditsLicenses": "Licenzas de Código Aberto",
   "@creditsLicenses": {},
-  "featureSupportListTileTitle": "Características con soporte común",
-  "@featureSupportListTileTitle": {},
   "keyboardShortcutsOpenDialog": "Mostrar atallos do teclado",
   "@keyboardShortcutsOpenDialog": {},
-  "chatSupportDescription": "Enviar mensaxes instantáneas a outras persoas",
-  "@chatSupportDescription": {},
   "authDuplicate": "Xa existe unha conta coa mesma instancia e identificador",
   "@authDuplicate": {},
   "formattingPlain": "Texto plano",
@@ -761,10 +695,6 @@
   "@accountSettingsTitle": {},
   "registerButtonLabel": "Crear conta",
   "@registerButtonLabel": {},
-  "discoverInstancesTitle": "Descubrir Instancias",
-  "@discoverInstancesTitle": {},
-  "whyButtonLabel": "Por que?",
-  "@whyButtonLabel": {},
   "authInstructions": "Engadir unha conta, escribe o enderezo da web que queres usar.",
   "@authInstructions": {},
   "postRemoveFromBookmarks": "Retirar marcador",
@@ -808,8 +738,6 @@
   "@visibilityMutuals": {},
   "emojiUnicodeGroupFlags": "Bandeiras",
   "@emojiUnicodeGroupFlags": {},
-  "reportSupportDescription": "Denunciar usuarias ou publicacións ao equipo de moderación.",
-  "@reportSupportDescription": {},
   "visibilityCircleDescription": "Visible para usuarias no teu círculo",
   "@visibilityCircleDescription": {},
   "prideSettingsHeader": "Orguio",

@@ -1,6 +1,4 @@
 {
-  "previewSupport": "معاينات المنشورات",
-  "@previewSupport": {},
   "continueAnywayButtonLabel": "استمر على أي حال",
   "@continueAnywayButtonLabel": {},
   "creditsWebsite": "موقع الويب",
@@ -46,8 +44,6 @@
   "@composeDialogTitleReply": {
     "description": "Title used when compose dialog is shown for writing a reply. Gets appended with replyee's display name"
   },
-  "reactionSupport": "التفاعلات",
-  "@reactionSupport": {},
   "chatsTab": "المحادثات",
   "@chatsTab": {},
   "loginTitle": "ولولتم على مثيل خادم",
@@ -84,8 +80,6 @@
       }
     }
   },
-  "discoverInstancesButtonLabel": "استكشف الخوادم",
-  "@discoverInstancesButtonLabel": {},
   "visibilityUnlisted": "غير مُدرَج",
   "@visibilityUnlisted": {},
   "followersTab": "المتابِعون",
@@ -270,8 +264,6 @@
   "@attachmentUnsupported": {},
   "emailFieldHint": "عنوان البريد الإلكتروني",
   "@emailFieldHint": {},
-  "chatSupport": "المحادثات",
-  "@chatSupport": {},
   "creditsLicenses": "تراخيص مفتوحة المصدر",
   "@creditsLicenses": {},
   "formattingPlain": "نص عادي",

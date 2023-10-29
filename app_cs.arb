@@ -1,25 +1,10 @@
 {
-  "previewSupportDescription": "Před odesláním ukáže, jak bude příspěvek vypadat",
-  "@previewSupportDescription": {},
-  "discoverInstancesTitle": "Objevování instancí",
-  "@discoverInstancesTitle": {},
   "loginButtonLabel": "Přihlásit se",
   "@loginButtonLabel": {},
   "postPreviewWaiting": "Začněte vytvářet příspěvek pro zobrazení ukázky!",
   "@postPreviewWaiting": {},
-  "discoverInstancesDisclaimer": "Toto je seznam ručně vybraných instancí, které doporučují vývojáři Kaiteki a každé podporované platformy.",
-  "@discoverInstancesDisclaimer": {},
   "aboutBackendTitle": "O {api}",
   "@aboutBackendTitle": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
-  "runsOn": "Používá {api}",
-  "@runsOn": {
     "placeholders": {
       "api": {
         "description": "Name of the instance backend software",
@@ -35,15 +20,6 @@
       "instance": {
         "description": "Domain/hostname of the instance",
         "example": "fedi.absturztau.be"
-      }
-    }
-  },
-  "featureUnsupported": "{feature} není podporováno",
-  "@featureUnsupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
       }
     }
   },
@@ -85,42 +61,14 @@
   "@mfaTitle": {},
   "mfaNoCode": "Zadejte prosím kód",
   "@mfaNoCode": {},
-  "sharedBackendFunctionality": "Toto jsou funkce, které podporuje {api} i Kaiteki:",
-  "@sharedBackendFunctionality": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
-  "reactionSupport": "Reakce",
-  "@reactionSupport": {},
-  "reactionSupportDescription": "Přidání reakce k příspěvku",
-  "@reactionSupportDescription": {},
-  "chatSupport": "Chat",
-  "@chatSupport": {},
   "chooseButtonLabel": "Vybrat",
   "@chooseButtonLabel": {},
-  "usesFediverseCovenant": "Řídí se fediverzovou moderační dohodou",
-  "@usesFediverseCovenant": {},
-  "usesMastodonCovenant": "Řídí se dohodou mastodonových serverů",
-  "@usesMastodonCovenant": {},
   "visibilityButtonTooltip": "Změnit viditelnost příspěvku",
   "@visibilityButtonTooltip": {},
   "attachButtonTooltip": "Připojit",
   "@attachButtonTooltip": {},
   "emojiButtonTooltip": "Vložit emodži",
   "@emojiButtonTooltip": {},
-  "featureSupported": "{feature} je podporováno",
-  "@featureSupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
-      }
-    }
-  },
   "rules": "Pravidla",
   "@rules": {},
   "rulesLearnMore": "Zjistit více o pravidlech",
@@ -267,8 +215,6 @@
   "@creditsTelegramChannel": {},
   "discardButtonLabel": "Zahodit",
   "@discardButtonLabel": {},
-  "whyButtonLabel": "Proč?",
-  "@whyButtonLabel": {},
   "postBookmarkAdded": "Záložka přidána",
   "@postBookmarkAdded": {},
   "postBookmarkRemoved": "Záložka odstraněna",
@@ -277,8 +223,6 @@
   "@postAddToBookmarks": {},
   "reportLabel": "Nahlásit",
   "@reportLabel": {},
-  "bookmarkSupport": "Založené",
-  "@bookmarkSupport": {},
   "timelineFederated": "Federovaná",
   "@timelineFederated": {},
   "timelineFollowing": "Sledovaní",
@@ -409,8 +353,6 @@
   "@apiTypeDialog_title": {},
   "continueAnywayButtonLabel": "Přesto pokračovat",
   "@continueAnywayButtonLabel": {},
-  "discoverInstancesButtonLabel": "Objevit instance",
-  "@discoverInstancesButtonLabel": {},
   "apiTypeDialog_description": "Kaiteki se nepodařilo zjistit, jaký software běží na této instanci. Prosím vyberte správný druh softwaru běžící na instanci níže.",
   "@apiTypeDialog_description": {},
   "okButtonLabel": "OK",
@@ -423,10 +365,6 @@
   "@verifyButtonLabel": {},
   "abortButtonLabel": "Přerušit",
   "@abortButtonLabel": {},
-  "chatSupportDescription": "Posílání zpráv ostatním uživatelům",
-  "@chatSupportDescription": {},
-  "previewSupport": "Ukázky příspěvků",
-  "@previewSupport": {},
   "authDuplicate": "Pro tuto instanci již existuje účet s tímto uživatelským jménem",
   "@authDuplicate": {},
   "authOAuthPending": "Čekám na dokončení OAuth…",
@@ -594,14 +532,8 @@
   },
   "reportsTitle": "Odeslaná hlášení",
   "@reportsTitle": {},
-  "reportSupport": "Nahlášení zneužití",
-  "@reportSupport": {},
-  "reportSupportDescription": "Nahlásí uživatele nebo příspšvky moderačnímu týmu.",
-  "@reportSupportDescription": {},
   "bookmarkButtonLabel": "Založit",
   "@bookmarkButtonLabel": {},
-  "bookmarkSupportDescription": "Založí příspěvky do karty Založené.",
-  "@bookmarkSupportDescription": {},
   "shareButtonLabel": "Sdílet",
   "@shareButtonLabel": {},
   "timelineDirectMessagesDescription": "Příspěvky odeslané přímo někomu jinému",
@@ -616,16 +548,12 @@
   "@keyboardShortcutsOpenDialog": {},
   "keyboardShortcutsGoToSettings": "Přejít do nastavení",
   "@keyboardShortcutsGoToSettings": {},
-  "featureSupportListTileSubtitle": "Podívejte se, jake funkce můžete na této instanci s Kaiteki používat",
-  "@featureSupportListTileSubtitle": {},
   "keyboardShortcutsFavoritePost": "Oblíbit příspěvek",
   "@keyboardShortcutsFavoritePost": {},
   "keyboardShortcutsSubmitPost": "Odeslat příspěvek",
   "@keyboardShortcutsSubmitPost": {},
   "noMorePosts": "Došli jste až na konec",
   "@noMorePosts": {},
-  "featureSupportListTileTitle": "Oboustraně podporované funkce",
-  "@featureSupportListTileTitle": {},
   "settingsLocale": "Jazyk",
   "@settingsLocale": {},
   "timelineBubbleDescription": "Příspěvky ze sousedních instancí",

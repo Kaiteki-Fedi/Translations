@@ -19,21 +19,8 @@
   "@continueAnywayButtonLabel": {},
   "abortButtonLabel": "Abortar",
   "@abortButtonLabel": {},
-  "reactionSupport": "Reacciones",
-  "@reactionSupport": {},
-  "chatSupport": "Conversaciones",
-  "@chatSupport": {},
   "chooseButtonLabel": "Elegir",
   "@chooseButtonLabel": {},
-  "runsOn": "Funciona con {api}",
-  "@runsOn": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
   "emojiButtonTooltip": "Añadir emoji",
   "@emojiButtonTooltip": {},
   "formattingButtonTooltip": "Cambiar formato",
@@ -44,15 +31,6 @@
       "api": {
         "description": "Name of the instance backend software",
         "example": "Pleroma"
-      }
-    }
-  },
-  "featureUnsupported": "Sin soporte para {feature}",
-  "@featureUnsupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
       }
     }
   },
@@ -120,23 +98,6 @@
   "@apiTypeDialog_title": {},
   "apiTypeDialog_description": "Kaiteki intentó determinar qué software utiliza la instancia pero no lo consiguió. Por favor, selecciona el correcto abajo.",
   "@apiTypeDialog_description": {},
-  "sharedBackendFunctionality": "Estas son las características que tanto {api} como Kaiteki soportan:",
-  "@sharedBackendFunctionality": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
-  "previewSupport": "Vista previa de mensajes",
-  "@previewSupport": {},
-  "discoverInstancesButtonLabel": "Descubrir las instancias",
-  "@discoverInstancesButtonLabel": {},
-  "discoverInstancesTitle": "Descubrir las instancias",
-  "@discoverInstancesTitle": {},
-  "discoverInstancesDisclaimer": "Esta es una lista de instancias seleccionadas a mano y recomendadas por los desarrolladores de Kaiteki, cuyo software es soportado.",
-  "@discoverInstancesDisclaimer": {},
   "visibilityButtonTooltip": "Cambiar visibilidad",
   "@visibilityButtonTooltip": {},
   "attachButtonTooltip": "Adjuntar",
@@ -147,15 +108,6 @@
       "instance": {
         "description": "Domain/hostname of the instance",
         "example": "fedi.absturztau.be"
-      }
-    }
-  },
-  "featureSupported": "Con soporte para {feature}",
-  "@featureSupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
       }
     }
   },
@@ -219,14 +171,6 @@
   },
   "composeContentWarningHint": "Alerta de contenido (opcional)",
   "@composeContentWarningHint": {},
-  "reactionSupportDescription": "Agrega reacciones a publicaciones",
-  "@reactionSupportDescription": {},
-  "chatSupportDescription": "Envía mensajes directos a otros usuarios",
-  "@chatSupportDescription": {},
-  "previewSupportDescription": "Mira una vista previa de tu publicación antes de enviarla",
-  "@previewSupportDescription": {},
-  "usesFediverseCovenant": "Usa el Pacto de Moderación Amigable al Fediverso",
-  "@usesFediverseCovenant": {},
   "loginButtonLabel": "Iniciar sesión",
   "@loginButtonLabel": {},
   "settingsCustomization": "Personalización",
@@ -407,14 +351,8 @@
   "@attachmentNoDescription": {},
   "creditsTelegramChannel": "Canal de Telegram",
   "@creditsTelegramChannel": {},
-  "whyButtonLabel": "¿Por qué?",
-  "@whyButtonLabel": {},
   "bookmarksTab": "Marcadores",
   "@bookmarksTab": {},
-  "bookmarkSupport": "Marcadores",
-  "@bookmarkSupport": {},
-  "bookmarkSupportDescription": "Marque publicaciones y véalas en la pestaña de marcadores.",
-  "@bookmarkSupportDescription": {},
   "timelineFederated": "Federado",
   "@timelineFederated": {},
   "timelineLocal": "Local",
@@ -530,8 +468,6 @@
   "@emojiUnicodeGroupObjects": {},
   "contentWarningBehaviorExpand": "Expandir",
   "@contentWarningBehaviorExpand": {},
-  "usesMastodonCovenant": "Usa el Pacto de Servidores de Mastodon",
-  "@usesMastodonCovenant": {},
   "keepWritingButtonLabel": "Seguir escribiendo",
   "@keepWritingButtonLabel": {},
   "contentWarningButtonLabelEnable": "Habilitar advertencia de contenido",
@@ -647,8 +583,6 @@
   "@applyButtonLabel": {},
   "settingsEmojiSize": "Tamaño de emoji",
   "@settingsEmojiSize": {},
-  "reportSupportDescription": "Reportar usuarios o publicaciones al equipo de moderación.",
-  "@reportSupportDescription": {},
   "timelineHomeDescription": "Publicaciones de ti y de las personas que sigues",
   "@timelineHomeDescription": {},
   "timelineLocalDescription": "Publicaciones de todos en tu instancia",
@@ -663,18 +597,12 @@
   "@keyboardShortcutsRefreshView": {},
   "authInstructions": "Para agregar una cuenta, escribe la dirección del sitio web que deseas usar.",
   "@authInstructions": {},
-  "featureSupportListTileTitle": "Características mutuamente compatibles",
-  "@featureSupportListTileTitle": {},
-  "featureSupportListTileSubtitle": "Vea qué características puede usar con Kaiteki en esta instancia",
-  "@featureSupportListTileSubtitle": {},
   "trendsTitle": "Tendencias",
   "@trendsTitle": {},
   "selectLocaleTitle": "Seleccionar configuración regional",
   "@selectLocaleTitle": {},
   "emojiUnicodeGroupSmileysEmotion": "Emoticonos y emociones",
   "@emojiUnicodeGroupSmileysEmotion": {},
-  "reportSupport": "Reportes de abuso",
-  "@reportSupport": {},
   "reportsTitle": "Reportes enviados",
   "@reportsTitle": {},
   "timelineFollowing": "Siguiendo",

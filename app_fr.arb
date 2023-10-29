@@ -38,8 +38,6 @@
   "@discardButtonLabel": {},
   "keepWritingButtonLabel": "Continuer à écrire",
   "@keepWritingButtonLabel": {},
-  "whyButtonLabel": "Pourquoi ?",
-  "@whyButtonLabel": {},
   "refreshTimelineButtonLabel": "Actualiser",
   "@refreshTimelineButtonLabel": {},
   "postBookmarkAdded": "Marque-page ajouté",
@@ -56,10 +54,6 @@
   "@reportsTitle": {},
   "accountSettingsTitle": "Paramètres du compte",
   "@accountSettingsTitle": {},
-  "reportSupport": "Signalements d'abus",
-  "@reportSupport": {},
-  "reportSupportDescription": "Signaler des utilisateurs ou des publications à l'équipe de modération.",
-  "@reportSupportDescription": {},
   "settingsLocale": "Langue",
   "@settingsLocale": {},
   "selectLocaleTitle": "Sélectionnez la langue",
@@ -119,10 +113,6 @@
   "@mfaTitle": {},
   "verifyButtonLabel": "Confirmer",
   "@verifyButtonLabel": {},
-  "reactionSupport": "Réactions",
-  "@reactionSupport": {},
-  "reactionSupportDescription": "Ajouter des réactions aux publications",
-  "@reactionSupportDescription": {},
   "postPreviewTitle": "Aperçu",
   "@postPreviewTitle": {},
   "settingsSensitivePosts": "Publications sensibles",
@@ -151,8 +141,6 @@
   "@continueAnywayButtonLabel": {},
   "abortButtonLabel": "Annuler",
   "@abortButtonLabel": {},
-  "discoverInstancesTitle": "Découvrir les instances",
-  "@discoverInstancesTitle": {},
   "emojiButtonTooltip": "Insérer un émoji",
   "@emojiButtonTooltip": {},
   "aboutBackendTitle": "À propos de {api}",
@@ -166,8 +154,6 @@
   },
   "rulesLearnMore": "En savoir plus sur les règles",
   "@rulesLearnMore": {},
-  "discoverInstancesDisclaimer": "Il s'agit d'une liste d'instances triées sur le volet, recommandées par les développeurs de Kaiteki et de tous les logiciels d'instance pris en charge.",
-  "@discoverInstancesDisclaimer": {},
   "aboutInstanceTitle": "À propos de {instance}",
   "@aboutInstanceTitle": {
     "placeholders": {
@@ -177,42 +163,14 @@
       }
     }
   },
-  "chatSupport": "Discussions",
-  "@chatSupport": {},
-  "previewSupportDescription": "Voir un aperçu de votre message avant de l'envoyer",
-  "@previewSupportDescription": {},
-  "featureUnsupported": "{feature} ne sont pas pris en charge",
-  "@featureUnsupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
-      }
-    }
-  },
   "rules": "Règles",
   "@rules": {},
-  "chatSupportDescription": "Envoyer des messages instantanés à d'autres utilisateurs",
-  "@chatSupportDescription": {},
-  "previewSupport": "Aperçus des publications",
-  "@previewSupport": {},
-  "discoverInstancesButtonLabel": "Découvrez les instances",
-  "@discoverInstancesButtonLabel": {},
   "chooseButtonLabel": "Choisir",
   "@chooseButtonLabel": {},
   "attachButtonTooltip": "Joindre",
   "@attachButtonTooltip": {},
   "formattingButtonTooltip": "Modifier le formatage",
   "@formattingButtonTooltip": {},
-  "featureSupported": "{feature} sont pris en charge",
-  "@featureSupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
-      }
-    }
-  },
   "accountRequiredToContinue": "Pour continuer, vous devez vous connecter à au moins une instance.",
   "@accountRequiredToContinue": {},
   "settingsProfile": "Profil",
@@ -319,8 +277,6 @@
   "@createPollButtonLabel": {},
   "timelineRetrievalFailed": "Échec de la récupération de la ligne de temps",
   "@timelineRetrievalFailed": {},
-  "bookmarkSupportDescription": "Mettez des publications dans les marque-pages et voyez-les dans l'onglet Marque-pages.",
-  "@bookmarkSupportDescription": {},
   "keyboardShortcutsGoToBookmarks": "Aller aux marque-pages",
   "@keyboardShortcutsGoToBookmarks": {},
   "notificationsTab": "Notifications",
@@ -350,17 +306,6 @@
   "@passwordFieldHint": {},
   "forgotPasswordButtonLabel": "Mot de passe oublié",
   "@forgotPasswordButtonLabel": {},
-  "sharedBackendFunctionality": "Ce sont les fonctionnalités prises en charge par {api} et Kaiteki :",
-  "@sharedBackendFunctionality": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
-  "usesMastodonCovenant": "Utilise le pacte de modération Mastodon",
-  "@usesMastodonCovenant": {},
   "registerButtonLabel": "S'inscrire",
   "@registerButtonLabel": {},
   "emptyAccounts": "Aucun compte",
@@ -387,8 +332,6 @@
   },
   "refresh": "Actualiser",
   "@refresh": {},
-  "bookmarkSupport": "Marque-pages",
-  "@bookmarkSupport": {},
   "timelineFederated": "Fédéré",
   "@timelineFederated": {},
   "settingsHideSensitivePosts": "Masquer les publications sensibles",
@@ -421,8 +364,6 @@
   "@directMessagesTitle": {},
   "listsTitle": "Listes",
   "@listsTitle": {},
-  "featureSupportListTileTitle": "Caractéristiques mutuellement prises en charge",
-  "@featureSupportListTileTitle": {},
   "closeButtonLabel": "Fermer",
   "@closeButtonLabel": {},
   "keyboardShortcutsRefreshView": "Actualiser la vue",
@@ -449,15 +390,6 @@
   "@repeatPasswordFieldHint": {},
   "composeButtonLabel": "Rédiger",
   "@composeButtonLabel": {},
-  "runsOn": "Fonctionne sur {api}",
-  "@runsOn": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
   "selectThemeTitle": "Sélectionnez le thème",
   "@selectThemeTitle": {},
   "themeSystem": "Valeur par défaut du système",
@@ -490,8 +422,6 @@
   "@usernameFieldHint": {},
   "authPasswordNoMatch": "Les mots de passe doivent correspondre",
   "@authPasswordNoMatch": {},
-  "usesFediverseCovenant": "Utilise le pacte de modération favorable au Fediverse",
-  "@usesFediverseCovenant": {},
   "unsupportedInstanceDescriptionCORS": "Kaiteki Web ne prend pas en charge {api} pour le moment car votre navigateur bloque les demandes à l'instance avec l'origine d'autres sites web. Pour plus d'informations, veuillez consulter ",
   "@unsupportedInstanceDescriptionCORS": {
     "placeholders": {
@@ -607,8 +537,6 @@
   "@keyboardShortcutsBookmarkPost": {},
   "keyboardShortcutsPostShortcuts": "Raccourcis des publications",
   "@keyboardShortcutsPostShortcuts": {},
-  "featureSupportListTileSubtitle": "Voir les fonctionnalités que vous pouvez utiliser avec Kaiteki sur cette instance",
-  "@featureSupportListTileSubtitle": {},
   "useMaterialYou": "Utiliser Material You",
   "@useMaterialYou": {},
   "useSystemColorScheme": "Utiliser le jeu de couleurs du système",

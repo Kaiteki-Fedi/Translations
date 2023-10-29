@@ -23,48 +23,8 @@
   "@continueAnywayButtonLabel": {},
   "abortButtonLabel": "Abort",
   "@abortButtonLabel": {},
-  "sharedBackendFunctionality": "These are the features that both {api} and Kaiteki support:",
-  "@sharedBackendFunctionality": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
-  "reactionSupport": "Reactions",
-  "@reactionSupport": {},
-  "reactionSupportDescription": "Add reactions to posts",
-  "@reactionSupportDescription": {},
-  "chatSupport": "Chats",
-  "@chatSupport": {},
-  "chatSupportDescription": "Send instant messages to other users",
-  "@chatSupportDescription": {},
-  "previewSupport": "Post previews",
-  "@previewSupport": {},
-  "previewSupportDescription": "See a preview of your post before sending it",
-  "@previewSupportDescription": {},
-  "discoverInstancesButtonLabel": "Discover instances",
-  "@discoverInstancesButtonLabel": {},
-  "discoverInstancesTitle": "Discover Instances",
-  "@discoverInstancesTitle": {},
-  "discoverInstancesDisclaimer": "This is a list of handpicked instances, recommended by the developers of Kaiteki and every supported instance software.",
-  "@discoverInstancesDisclaimer": {},
   "chooseButtonLabel": "Choose",
   "@chooseButtonLabel": {},
-  "runsOn": "Runs on {api}",
-  "@runsOn": {
-    "placeholders": {
-      "api": {
-        "description": "Name of the instance backend software",
-        "example": "Pleroma"
-      }
-    }
-  },
-  "usesFediverseCovenant": "Uses the Fediverse-Friendly Moderation Covenant",
-  "@usesFediverseCovenant": {},
-  "usesMastodonCovenant": "Uses the Mastodon Server Covenant",
-  "@usesMastodonCovenant": {},
   "visibilityButtonTooltip": "Change post scope",
   "@visibilityButtonTooltip": {},
   "attachButtonTooltip": "Attach",
@@ -93,24 +53,6 @@
   },
   "loginButtonLabel": "Login",
   "@loginButtonLabel": {},
-  "featureSupported": "{feature} are supported",
-  "@featureSupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
-      }
-    }
-  },
-  "featureUnsupported": "{feature} are not supported",
-  "@featureUnsupported": {
-    "placeholders": {
-      "feature": {
-        "description": "Feature name, always in plural.",
-        "example": "Post previews"
-      }
-    }
-  },
   "rules": "Rules",
   "@rules": {},
   "rulesLearnMore": "Learn more about the rules",
@@ -450,8 +392,6 @@
   "@discardButtonLabel": {},
   "keepWritingButtonLabel": "Keep writing",
   "@keepWritingButtonLabel": {},
-  "whyButtonLabel": "Why?",
-  "@whyButtonLabel": {},
   "refreshTimelineButtonLabel": "Refresh",
   "@refreshTimelineButtonLabel": {},
   "postBookmarkAdded": "Bookmark added",
@@ -476,14 +416,6 @@
   "@reportsTitle": {},
   "accountSettingsTitle": "Account Settings",
   "@accountSettingsTitle": {},
-  "reportSupport": "Abuse reports",
-  "@reportSupport": {},
-  "reportSupportDescription": "Report users or posts to the moderation team.",
-  "@reportSupportDescription": {},
-  "bookmarkSupport": "Bookmarks",
-  "@bookmarkSupport": {},
-  "bookmarkSupportDescription": "Bookmark posts and see them in the bookmarks tab.",
-  "@bookmarkSupportDescription": {},
   "timelineFederated": "Federated",
   "@timelineFederated": {},
   "timelineFollowing": "Following",
@@ -540,10 +472,6 @@
   "@closeButtonLabel": {},
   "authInstructions": "To add an account, type in the address of the website you want to use.",
   "@authInstructions": {},
-  "featureSupportListTileTitle": "Features mutually supported",
-  "@featureSupportListTileTitle": {},
-  "featureSupportListTileSubtitle": "See what features you can use with Kaiteki on this instance",
-  "@featureSupportListTileSubtitle": {},
   "mfaInstructions": "This account uses Multi-Factor Authentication, please enter the code below:",
   "@mfaInstructions": {},
   "directMessagesTitle": "Direct Messages",

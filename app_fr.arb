@@ -701,5 +701,63 @@
         "example": "150"
       }
     }
-  }
+  },
+  "themeSpirit": "Esprit",
+  "@themeSpirit": {},
+  "searchPostsNoResults": "Aucune publication trouvée",
+  "@searchPostsNoResults": {},
+  "themeCare": "Soin",
+  "@themeCare": {},
+  "shareSheetFormatContent": "Contenu",
+  "@shareSheetFormatContent": {},
+  "searchEmojisNoResults": "Aucun émoji trouvé",
+  "@searchEmojisNoResults": {},
+  "searchUsersNoResults": "Aucun·e utilisateur·rice trouvé·e",
+  "@searchUsersNoResults": {},
+  "showStackTrace": "Afficher la trace de la pile",
+  "@showStackTrace": {},
+  "recentEmojisTab": "Récent",
+  "@recentEmojisTab": {},
+  "postAnywayButtonLabel": "Publier malgré tout",
+  "@postAnywayButtonLabel": {
+    "description": "Used in confirmation dialogs"
+  },
+  "themeComfort": "Confort",
+  "@themeComfort": {},
+  "missingDescriptionDialogTitle": "Votre pièce jointe manque de description",
+  "@missingDescriptionDialogTitle": {},
+  "themeAffection": "Affection",
+  "@themeAffection": {},
+  "retryButtonLabel": "Réessayer",
+  "@retryButtonLabel": {},
+  "noRecentlyUsedEmojis": "Pas encore d’émojis ici …",
+  "@noRecentlyUsedEmojis": {},
+  "copyToClipboardButtonTooltip": "Copier dans le presse-papiers",
+  "@copyToClipboardButtonTooltip": {},
+  "userBirthDate": "Né·e le {date}",
+  "@userBirthDate": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMMMMd"
+      }
+    }
+  },
+  "themeJoy": "Joie",
+  "@themeJoy": {},
+  "themeCompassion": "Compassion",
+  "@themeCompassion": {},
+  "userJoinDate": "Ici depuis {date}",
+  "@userJoinDate": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMMMMd"
+      }
+    }
+  },
+  "themeSerenity": "Sérénité",
+  "@themeSerenity": {},
+  "removeAttachmentButtonLabel": "Supprimer la pièce jointe",
+  "@removeAttachmentButtonLabel": {}
 }

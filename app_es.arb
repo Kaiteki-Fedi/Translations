@@ -761,5 +761,19 @@
   "enablePrideFlag": "Activar el orgullo",
   "@enablePrideFlag": {},
   "settingsTweaks": "Retoques",
-  "@settingsTweaks": {}
+  "@settingsTweaks": {},
+  "themeSpirit": "Espíritu",
+  "@themeSpirit": {},
+  "themeCare": "Cuidado",
+  "@themeCare": {},
+  "themeComfort": "Cómodo",
+  "@themeComfort": {},
+  "themeAffection": "Afecto",
+  "@themeAffection": {},
+  "themeJoy": "Alegría",
+  "@themeJoy": {},
+  "themeCompassion": "Compasión",
+  "@themeCompassion": {},
+  "themeSerenity": "Serenidad",
+  "@themeSerenity": {}
 }

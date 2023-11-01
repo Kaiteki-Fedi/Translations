@@ -751,5 +751,7 @@
   "renameButtonLabel": "名前を変更",
   "@renameButtonLabel": {},
   "proceedButtonLabel": "開始",
-  "@proceedButtonLabel": {}
+  "@proceedButtonLabel": {},
+  "settingsTweaks": "微調整",
+  "@settingsTweaks": {}
 }

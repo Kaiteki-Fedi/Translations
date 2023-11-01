@@ -759,5 +759,21 @@
   "keepWritingButtonLabel": "Seguir escribindo",
   "@keepWritingButtonLabel": {},
   "accountRequiredToContinue": "Para continuar tes que acceder a unha instancia polo menos.",
-  "@accountRequiredToContinue": {}
+  "@accountRequiredToContinue": {},
+  "themeSpirit": "Ánimo",
+  "@themeSpirit": {},
+  "themeCare": "Coidados",
+  "@themeCare": {},
+  "themeComfort": "Comodidade",
+  "@themeComfort": {},
+  "themeAffection": "Afecto",
+  "@themeAffection": {},
+  "settingsTweaks": "Detalles",
+  "@settingsTweaks": {},
+  "themeJoy": "Alegría",
+  "@themeJoy": {},
+  "themeCompassion": "Compasión",
+  "@themeCompassion": {},
+  "themeSerenity": "Serenidade",
+  "@themeSerenity": {}
 }

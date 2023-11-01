@@ -11,5 +11,9 @@
   "settingsHidePostMetricsDescription": "Hides the amount of replies, favourites, repeats a post has",
   "@settingsHidePostMetricsDescription": {},
   "favoriteButtonLabel": "Favourite",
-  "@favoriteButtonLabel": {}
+  "@favoriteButtonLabel": {},
+  "settingsUseNeutralBadgeColors": "Use neutral badge colours",
+  "@settingsUseNeutralBadgeColors": {},
+  "useSystemColorScheme": "Use system colour scheme",
+  "@useSystemColorScheme": {}
 }

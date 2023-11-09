@@ -624,5 +624,17 @@
   "homeTab": "Home",
   "@homeTab": {},
   "prideSettingsHeader": "Pride",
-  "@prideSettingsHeader": {}
+  "@prideSettingsHeader": {},
+  "exceptionReportOnGitHub": "Segnala su GitHub",
+  "@exceptionReportOnGitHub": {},
+  "listsTab": "Elenchi",
+  "@listsTab": {},
+  "exceptionShowJson": "Mostra JSON",
+  "@exceptionShowJson": {},
+  "messagesTab": "Messaggi",
+  "@messagesTab": {},
+  "showDetailsButtonLabel": "Mostra dettagli",
+  "@showDetailsButtonLabel": {},
+  "attachmentAltTextFallback": "Nessuna descrizione fornita",
+  "@attachmentAltTextFallback": {}
 }

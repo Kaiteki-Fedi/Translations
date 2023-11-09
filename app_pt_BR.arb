@@ -1,1 +1,4 @@
-{}
+{
+  "apiTypeDialog_title": "Não foi possível detectar o tipo de instância",
+  "@apiTypeDialog_title": {}
+}

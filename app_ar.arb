@@ -414,5 +414,15 @@
   "reportLabel": "أبلِغ عنه",
   "@reportLabel": {},
   "keyboardShortcutsGoToNotifications": "الذهاب إلى الإشعارات",
-  "@keyboardShortcutsGoToNotifications": {}
+  "@keyboardShortcutsGoToNotifications": {},
+  "themeCare": "الرعاية",
+  "@themeCare": {},
+  "usersTab": "مستخدِم",
+  "@usersTab": {},
+  "postAnywayButtonLabel": "انشر على أي حال",
+  "@postAnywayButtonLabel": {
+    "description": "Used in confirmation dialogs"
+  },
+  "copyToClipboardButtonTooltip": "انسخ إلى الحافظة",
+  "@copyToClipboardButtonTooltip": {}
 }

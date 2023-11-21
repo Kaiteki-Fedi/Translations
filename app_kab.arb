@@ -93,5 +93,159 @@
   "themeJoy": "Tumert",
   "@themeJoy": {},
   "mfaTitle": "Snat tarrayin n usesteb",
-  "@mfaTitle": {}
+  "@mfaTitle": {},
+  "continueAnywayButtonLabel": "Kemmel akken ibɣu yili",
+  "@continueAnywayButtonLabel": {},
+  "mfaNoCode": "Ttxil-k sekcem tangalt",
+  "@mfaNoCode": {},
+  "emojiButtonTooltip": "Senni imujit",
+  "@emojiButtonTooltip": {},
+  "themeLight": "Amceɛlal",
+  "@themeLight": {},
+  "postPreviewTitle": "Taskant",
+  "@postPreviewTitle": {},
+  "switchListTileTextOn": "Rmed",
+  "@switchListTileTextOn": {},
+  "loginButtonLabel": "Qqen",
+  "@loginButtonLabel": {},
+  "switchListTileTextOff": "Sens",
+  "@switchListTileTextOff": {},
+  "viewPostButtonLabel": "Wali tasuffeɣt",
+  "@viewPostButtonLabel": {},
+  "rulesLearnMore": "Issin ugar ɣef yilugan",
+  "@rulesLearnMore": {},
+  "visibilityPublic": "Azayaz",
+  "@visibilityPublic": {},
+  "abortButtonLabel": "Sefsex",
+  "@abortButtonLabel": {},
+  "selectThemeTitle": "Fren asentel",
+  "@selectThemeTitle": {},
+  "timeDifferenceWeeks": "{weeks}mls",
+  "@timeDifferenceWeeks": {
+    "description": "Text used to display how many weeks have passed since a certain event",
+    "placeholders": {
+      "weeks": {
+        "description": "Amount of weeks",
+        "example": "2"
+      }
+    }
+  },
+  "visibilityUnlisted": "Ur d-yettubder ara",
+  "@visibilityUnlisted": {},
+  "themeDark": "Aberkan",
+  "@themeDark": {},
+  "emptyAccounts": "Ulac amiḍan",
+  "@emptyAccounts": {
+    "description": "Placeholder text used if user doesn't have any accounts"
+  },
+  "timeDifferenceDays": "{days}ws",
+  "@timeDifferenceDays": {
+    "description": "Text used to display how many days have passed since a certain event",
+    "placeholders": {
+      "days": {
+        "description": "Amount of days",
+        "example": "2"
+      }
+    }
+  },
+  "attachButtonTooltip": "Seddu",
+  "@attachButtonTooltip": {},
+  "chooseButtonLabel": "Fren",
+  "@chooseButtonLabel": {},
+  "aboutInstanceTitle": "Ɣef {instance}",
+  "@aboutInstanceTitle": {
+    "placeholders": {
+      "instance": {
+        "description": "Domain/hostname of the instance",
+        "example": "fedi.absturztau.be"
+      }
+    }
+  },
+  "rules": "Ilugan",
+  "@rules": {},
+  "visibilityFollowersOnlyDescription": "Yettban i yineḍfaren",
+  "@visibilityFollowersOnlyDescription": {},
+  "verifyButtonLabel": "Sentem",
+  "@verifyButtonLabel": {},
+  "timeDifferenceHours": "{hours}srg",
+  "@timeDifferenceHours": {
+    "description": "Text used to display how many hours have passed since a certain event",
+    "placeholders": {
+      "hours": {
+        "description": "Amount of hours",
+        "example": "2"
+      }
+    }
+  },
+  "postRepeated": "Yules",
+  "@postRepeated": {
+    "description": "Gets prepended with repeater's display name"
+  },
+  "replyTo": "Err-as",
+  "@replyTo": {
+    "description": "Gets appended with replyee's display name"
+  },
+  "formattingButtonTooltip": "Senfel amsal",
+  "@formattingButtonTooltip": {},
+  "timeDifferenceSeconds": "{seconds}tsn",
+  "@timeDifferenceSeconds": {
+    "description": "Text used to display how many seconds have passed since a certain event",
+    "placeholders": {
+      "seconds": {
+        "description": "Amount of seconds",
+        "example": "2"
+      }
+    }
+  },
+  "visibilityFollowersOnly": "Ineḍfaren kan",
+  "@visibilityFollowersOnly": {},
+  "conversationTitle": "Adiwenni",
+  "@conversationTitle": {
+    "description": "Title used for conversation/thread page"
+  },
+  "timeDifferenceMinutes": "{minutes}tsd",
+  "@timeDifferenceMinutes": {
+    "description": "Text used to display how many minutes have passed since a certain event",
+    "placeholders": {
+      "minutes": {
+        "description": "Amount of minutes",
+        "example": "2"
+      }
+    }
+  },
+  "manageAccountsTitle": "Asefrek imiḍanen",
+  "@manageAccountsTitle": {},
+  "visibilityDirectDescription": "Yettban i yiseqdacen i d-yettwabdaren",
+  "@visibilityDirectDescription": {},
+  "removeButtonLabel": "Kkes",
+  "@removeButtonLabel": {},
+  "themeSystem": "Udem amezwer n unagraw",
+  "@themeSystem": {},
+  "timeDifferenceYears": "{years}sgs",
+  "@timeDifferenceYears": {
+    "description": "Text used to display how many years have passed since a certain event",
+    "placeholders": {
+      "years": {
+        "description": "Amount of years",
+        "example": "2"
+      }
+    }
+  },
+  "viewOnlineButtonLabel": "Wali srid",
+  "@viewOnlineButtonLabel": {
+    "description": "Button label used when certain content can't be displayed in Kaiteki but might able to in a web browser instead (e.g. videos)."
+  },
+  "filteringIncludeSubject": "Seddu tisuffaɣ s usentel",
+  "@filteringIncludeSubject": {},
+  "accountRemovalConfirmationTitle": "Kkes amiḍan?",
+  "@accountRemovalConfirmationTitle": {},
+  "aboutBackendTitle": "Ɣef {api}",
+  "@aboutBackendTitle": {
+    "placeholders": {
+      "api": {
+        "description": "Name of the instance backend software",
+        "example": "Pleroma"
+      }
+    }
+  }
 }

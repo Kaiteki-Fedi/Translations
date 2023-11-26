@@ -761,5 +761,19 @@
   "renameButtonLabel": "重命名",
   "@renameButtonLabel": {},
   "settingsTweaks": "微调",
-  "@settingsTweaks": {}
+  "@settingsTweaks": {},
+  "themeSpirit": "精神",
+  "@themeSpirit": {},
+  "themeCare": "关怀",
+  "@themeCare": {},
+  "themeComfort": "舒适",
+  "@themeComfort": {},
+  "themeAffection": "爱情",
+  "@themeAffection": {},
+  "themeJoy": "快乐",
+  "@themeJoy": {},
+  "themeCompassion": "同情",
+  "@themeCompassion": {},
+  "themeSerenity": "宁静",
+  "@themeSerenity": {}
 }

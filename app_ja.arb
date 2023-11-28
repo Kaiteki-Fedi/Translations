@@ -754,12 +754,12 @@
   "@proceedButtonLabel": {},
   "settingsTweaks": "微調整",
   "@settingsTweaks": {},
-  "pollOptionVoteCount": "{count, plural, =1 {1 票} other {{count} 票}}",
+  "pollOptionVoteCount": "{count}票",
   "@pollOptionVoteCount": {},
-  "pollTotalVotes": "計 {voteCount, plural, =1 {1 票} other {{voteCount} 票}}",
+  "pollTotalVotes": "計{voteCount}票",
   "@pollTotalVotes": {},
-  "pollTotalVotesMultiple": "{voterCount, plural, =1 {1 人} other {{voterCount} 人}} による {voteCount, plural, =計 1 {1 票} other {{voteCount} 票}}",
+  "pollTotalVotesMultiple": "{voterCount}人による{voteCount}票",
   "@pollTotalVotesMultiple": {},
-  "chatPreviewAttachments": "{attachmentCount, plural, =1 {1 件の添付} other {{attachmentCount} 件の添付}}",
+  "chatPreviewAttachments": "{attachmentCount}件の添付",
   "@chatPreviewAttachments": {}
 }

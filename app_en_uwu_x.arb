@@ -1,6 +1,7 @@
 {
   "@@locale": "en_uwu_x",
   "languageName": "Engwish (uwu)",
+  "@languageName": {},
   "timelineFederated": "fedewated",
   "@timelineFederated": {},
   "submitButtonTooltip": "submit :3",
@@ -39,7 +40,7 @@
   "@postLengthExceededDialogTitle": {},
   "postLengthExceededDialogDescription": "the post exceeds the x3 maximum wength (・`ω´・) of {characterLimit} chawactews",
   "@postLengthExceededDialogDescription": {},
-  "postsTab": "posts",
+  "postsTab": "meows",
   "@postsTab": {},
   "followersTab": "fowwowews",
   "@followersTab": {},
@@ -75,12 +76,20 @@
   "@discardDraftDialogDescription": {},
   "mfaNoCode": "Pwease enwar a code",
   "@mfaNoCode": {},
-  "viewPostButtonLabel": "View powst",
+  "viewPostButtonLabel": "hear meow",
   "@viewPostButtonLabel": {},
   "apiTypeDialog_missing": "Is somewing mewwing?",
   "@apiTypeDialog_missing": {},
   "verifyButtonLabel": "Vwewify",
   "@verifyButtonLabel": {},
   "okButtonLabel": "OwKe",
-  "@okButtonLabel": {}
+  "@okButtonLabel": {},
+  "timelineHomeDescription": "meows from u and ur fwiends",
+  "@timelineHomeDescription": {},
+  "timelineFederatedDescription": "meows across the fediverse",
+  "@timelineFederatedDescription": {},
+  "postRepeated": "meowed back",
+  "@postRepeated": {
+    "description": "Gets prepended with repeater's display name"
+  }
 }

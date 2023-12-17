@@ -91,5 +91,25 @@
   "postRepeated": "meowed back",
   "@postRepeated": {
     "description": "Gets prepended with repeater's display name"
-  }
+  },
+  "postPreviewTitle": "pweview",
+  "@postPreviewTitle": {},
+  "postBookmarkAdded": "meowmark added",
+  "@postBookmarkAdded": {},
+  "visibilityButtonTooltip": "change meow surrounding",
+  "@visibilityButtonTooltip": {},
+  "postSubmissionSent": "meow sent",
+  "@postSubmissionSent": {},
+  "postBookmarkRemoved": "meowmark removed",
+  "@postBookmarkRemoved": {},
+  "settingsSubjectPosts": "meows with title",
+  "@settingsSubjectPosts": {},
+  "postPreviewWaiting": "start meowing to pweview~",
+  "@postPreviewWaiting": {},
+  "settingsSensitivePosts": "sensitive meows",
+  "@settingsSensitivePosts": {},
+  "settingsHideSensitivePosts": "hide sensitive mewos owo",
+  "@settingsHideSensitivePosts": {},
+  "composeDialogTitle": "make new meow",
+  "@composeDialogTitle": {}
 }

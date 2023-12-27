@@ -726,5 +726,9 @@
   "themeCompassion": "Compassion",
   "themeSerenity": "Serenity",
   "themeSpirit": "Spirit",
-  "themeCare": "Care"
+  "themeCare": "Care",
+  "favoriteCount": "{count, plural, =1 {1 favorite} other {{count} favorites}}",
+  "repeatCount": "{count, plural, =1 {1 repeat} other {{count} repeats}}",
+  "replyCount": "{count, plural, =1 {1 reply} other {{count} replies}}",
+  "bookmarkCount": "{count, plural, =1 {1 bookmark} other {{count} bookmarks}}"
 }

@@ -775,5 +775,13 @@
   "themeCompassion": "Compasión",
   "@themeCompassion": {},
   "themeSerenity": "Serenidade",
-  "@themeSerenity": {}
+  "@themeSerenity": {},
+  "favoriteCount": "{count, plural, =1 {1 favorito} other {{count} favoritos}}",
+  "@favoriteCount": {},
+  "bookmarkCount": "{count, plural, =1 {1 marcador} other {{count} marcadores}}",
+  "@bookmarkCount": {},
+  "repeatCount": "{count, plural, =1 {1 promoción} other {{count} promocións}}",
+  "@repeatCount": {},
+  "replyCount": "{count, plural, =1 {1 resposta} other {{count} respostas}}",
+  "@replyCount": {}
 }

@@ -247,5 +247,15 @@
         "example": "Pleroma"
       }
     }
-  }
+  },
+  "visibilityButtonTooltip": "Beddel udem n tsuffeɣt",
+  "@visibilityButtonTooltip": {},
+  "postPreviewWaiting": "Bdu tira n tsuffeɣt i tmeẓriwt n teskant!",
+  "@postPreviewWaiting": {},
+  "composeBodyHint": "Aql-i akken i d-wwḍeɣ ɣer Bgayet.",
+  "@composeBodyHint": {},
+  "composeContentWarningHint": "Ɣur-k agbur (d afrayan)",
+  "@composeContentWarningHint": {},
+  "bookmarkCount": "{count, plural, =1 {1 bookmark} other {{count} bookmarks}}",
+  "@bookmarkCount": {}
 }

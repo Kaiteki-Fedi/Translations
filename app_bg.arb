@@ -126,5 +126,149 @@
   "timelineLocal": "Този сървър",
   "@timelineLocal": {},
   "keyboardShortcutsGoToNotifications": "Към известията",
-  "@keyboardShortcutsGoToNotifications": {}
+  "@keyboardShortcutsGoToNotifications": {},
+  "chatsTab": "Чатове",
+  "@chatsTab": {},
+  "settingsProfile": "Профил",
+  "@settingsProfile": {},
+  "settingsSecurity": "Сигурност",
+  "@settingsSecurity": {},
+  "settingsFiltering": "Филтриране",
+  "@settingsFiltering": {},
+  "settingsCustomization": "Персонализиране",
+  "@settingsCustomization": {},
+  "usernameFieldHint": "Потребителско име",
+  "@usernameFieldHint": {},
+  "emailFieldHint": "Адрес на е-поща",
+  "@emailFieldHint": {},
+  "repeatPasswordFieldHint": "Повтори паролата",
+  "@repeatPasswordFieldHint": {},
+  "authPasswordNoMatch": "Паролите трябва да съвпадат",
+  "@authPasswordNoMatch": {},
+  "instanceFieldHint": "Инстанция",
+  "@instanceFieldHint": {},
+  "existingAccountButtonLabel": "Влизане със съществуващ акаунт",
+  "@existingAccountButtonLabel": {},
+  "registerButtonLabel": "Регистриране",
+  "@registerButtonLabel": {},
+  "selectThemeTitle": "Избиране на тема",
+  "@selectThemeTitle": {},
+  "themeLight": "Светла",
+  "@themeLight": {},
+  "creditsGithubRepo": "GitHub Хранилище",
+  "@creditsGithubRepo": {},
+  "timeDifferenceDays": "{days}д",
+  "@timeDifferenceDays": {
+    "description": "Text used to display how many days have passed since a certain event",
+    "placeholders": {
+      "days": {
+        "description": "Amount of days",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceYears": "{years}г",
+  "@timeDifferenceYears": {
+    "description": "Text used to display how many years have passed since a certain event",
+    "placeholders": {
+      "years": {
+        "description": "Amount of years",
+        "example": "2"
+      }
+    }
+  },
+  "translateButton": "Превеждане",
+  "@translateButton": {},
+  "replyButtonLabel": "Отговор",
+  "@replyButtonLabel": {},
+  "listsTab": "Списъци",
+  "@listsTab": {},
+  "usersTab": "Потребители",
+  "@usersTab": {},
+  "copyToClipboardButtonTooltip": "Копиране в клипборда",
+  "@copyToClipboardButtonTooltip": {},
+  "userJoinDate": "Присъединил се на {date}",
+  "@userJoinDate": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMMMMd"
+      }
+    }
+  },
+  "misskeyCalendarToday": "Днес",
+  "@misskeyCalendarToday": {},
+  "misskeyCalendarYear": "Година",
+  "@misskeyCalendarYear": {},
+  "misskeyCalendarMonth": "Месец",
+  "@misskeyCalendarMonth": {},
+  "settingsTabs": "Раздели",
+  "@settingsTabs": {},
+  "passwordFieldHint": "Парола",
+  "@passwordFieldHint": {},
+  "theme": "Тема",
+  "@theme": {},
+  "themeDark": "Тъмна",
+  "@themeDark": {},
+  "creditsWebsite": "Уебсайт",
+  "@creditsWebsite": {},
+  "timeDifferenceMinutes": "{minutes}мин",
+  "@timeDifferenceMinutes": {
+    "description": "Text used to display how many minutes have passed since a certain event",
+    "placeholders": {
+      "minutes": {
+        "description": "Amount of minutes",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceHours": "{hours}ч",
+  "@timeDifferenceHours": {
+    "description": "Text used to display how many hours have passed since a certain event",
+    "placeholders": {
+      "hours": {
+        "description": "Amount of hours",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceWeeks": "{weeks}с",
+  "@timeDifferenceWeeks": {
+    "description": "Text used to display how many weeks have passed since a certain event",
+    "placeholders": {
+      "weeks": {
+        "description": "Amount of weeks",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceNow": "сега",
+  "@timeDifferenceNow": {
+    "description": "Text used to display an event that just happened"
+  },
+  "timeDifferenceSeconds": "{seconds}сек",
+  "@timeDifferenceSeconds": {
+    "description": "Text used to display how many seconds have passed since a certain event",
+    "placeholders": {
+      "seconds": {
+        "description": "Amount of seconds",
+        "example": "2"
+      }
+    }
+  },
+  "unfollowButtonLabel": "Отпоследване",
+  "@unfollowButtonLabel": {},
+  "editProfileButtonLabel": "Редактиране на профила",
+  "@editProfileButtonLabel": {},
+  "userBirthDate": "Рожден ден на {date}",
+  "@userBirthDate": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMMMMd"
+      }
+    }
+  },
+  "messagesTab": "Съобщения",
+  "@messagesTab": {}
 }

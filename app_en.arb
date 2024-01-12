@@ -81,6 +81,8 @@
   "@followersTab": {},
   "followingTab": "Following",
   "@followingTab": {},
+  "featuredTab": "Featured",
+  "@featuredTab": {},
   "homeTab": "Home",
   "@homeTab": {},
   "notificationsTab": "Notifications",
@@ -733,5 +735,12 @@
   "replyCount": "{count, plural, =1 {1 reply} other {{count} replies}}",
   "bookmarkCount": "{count, plural, =1 {1 bookmark} other {{count} bookmarks}}",
   "pollOptionCount": "{count, plural, =1 {1 option} other {{count} options}}",
-  "openInMenuItemLabel": "Open in..."
+  "openInMenuItemLabel": "Open in...",
+  "peopleDialogTitle": "People",
+  "peopleDialogButtonLabel": "View releated people",
+  "@peopleDialogButtonLabel": {
+    "description": "Placeholder button label for opening the people dialog, when no people counts are available"
+  },
+  "favoritesTab": "Favorites",
+  "mediaTab": "Media"
 }

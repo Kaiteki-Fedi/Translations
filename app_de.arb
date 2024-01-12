@@ -773,5 +773,10 @@
   "replyCount": "{count, plural, =1 {1 Antwort} other {{count} Antworten}}",
   "bookmarkCount": "{count} Lesezeichen",
   "pollOptionCount": "{count, plural, =1 {1 Option} other {{count} Optionen}}",
-  "openInMenuItemLabel": "Öffnen in..."
+  "openInMenuItemLabel": "Öffnen in...",
+  "peopleDialogTitle": "Leute",
+  "featuredTab": "Vorgestellt",
+  "peopleDialogButtonLabel": "Verwandte Leute ansehen",
+  "favoritesTab": "Favoriten",
+  "mediaTab": "Medien"
 }

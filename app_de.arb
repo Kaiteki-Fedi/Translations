@@ -766,5 +766,6 @@
   "themeSpirit": "Seele",
   "@themeSpirit": {},
   "themeCare": "Fürsorge",
-  "@themeCare": {}
+  "@themeCare": {},
+  "pollOptionCount": "{count, plural, =1 {1 Option} other {{count} Optionen}}"
 }

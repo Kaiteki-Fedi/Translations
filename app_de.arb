@@ -767,5 +767,9 @@
   "@themeSpirit": {},
   "themeCare": "Fürsorge",
   "@themeCare": {},
+  "favoriteCount": "{count, plural, =1 {1 Favorisierung} other {{count} Favorisierungen}}",
+  "repeatCount": "{count, plural, =1 {1 Wiederholung} other {{count} Wiederholungen}}",
+  "replyCount": "{count, plural, =1 {1 Antwort} other {{count} Antworten}}",
+  "bookmarkCount": "{count} Lesezeichen",
   "pollOptionCount": "{count, plural, =1 {1 Option} other {{count} Optionen}}"
 }

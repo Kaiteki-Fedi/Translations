@@ -667,6 +667,7 @@
   "searchUsersNoResults": "No users found",
   "searchPostsNoResults": "No posts found",
   "searchEmojisNoResults": "No emojis found",
+  "searchHashtagsNoResults": "No hashtags found",
   "noRecentlyUsedEmojis": "No emojis here yet...",
   "postAnywayButtonLabel": "Post anyway",
   "@postAnywayButtonLabel": {

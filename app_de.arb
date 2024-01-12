@@ -667,6 +667,7 @@
   "@searchPostsNoResults": {},
   "searchEmojisNoResults": "Keine Emojis gefunden",
   "@searchEmojisNoResults": {},
+  "searchHashtagsNoResults": "Keine Hashtags gefunden",
   "noRecentlyUsedEmojis": "Noch keine Emojis...",
   "@noRecentlyUsedEmojis": {},
   "postAnywayButtonLabel": "Trotzdem senden",

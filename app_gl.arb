@@ -783,5 +783,23 @@
   "repeatCount": "{count, plural, =1 {1 promoción} other {{count} promocións}}",
   "@repeatCount": {},
   "replyCount": "{count, plural, =1 {1 resposta} other {{count} respostas}}",
-  "@replyCount": {}
+  "@replyCount": {},
+  "featuredTab": "Destacado",
+  "@featuredTab": {},
+  "openInMenuItemLabel": "Abrir con...",
+  "@openInMenuItemLabel": {},
+  "peopleDialogButtonLabel": "Ver persoas relacionadas",
+  "@peopleDialogButtonLabel": {
+    "description": "Placeholder button label for opening the people dialog, when no people counts are available"
+  },
+  "mediaTab": "Multimedia",
+  "@mediaTab": {},
+  "searchHashtagsNoResults": "Non hai etiquetas",
+  "@searchHashtagsNoResults": {},
+  "pollOptionCount": "{count, plural, =1 {1 opción} other {{count} opcións}}",
+  "@pollOptionCount": {},
+  "peopleDialogTitle": "Persoas",
+  "@peopleDialogTitle": {},
+  "favoritesTab": "Favoritas",
+  "@favoritesTab": {}
 }

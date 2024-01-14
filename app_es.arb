@@ -754,7 +754,7 @@
   "@visibilityMutuals": {},
   "prideSettingsHeader": "Orgullo",
   "@prideSettingsHeader": {},
-  "favoriteButtonLabel": "Favoritos",
+  "favoriteButtonLabel": "Favorito",
   "@favoriteButtonLabel": {},
   "settingsHidePostMetrics": "Ocultar las métricas para las publicaciones",
   "@settingsHidePostMetrics": {},
@@ -783,5 +783,23 @@
   "repeatCount": "{count, plural, =1 {1 repetición} other {{count} repeticiones}}",
   "@repeatCount": {},
   "replyCount": "{count, plural, =1 {1 respuesta} other {{count} respuestas}}",
-  "@replyCount": {}
+  "@replyCount": {},
+  "searchHashtagsNoResults": "No se encontraron hashtags",
+  "@searchHashtagsNoResults": {},
+  "pollOptionCount": "{count, plural, =1 {1 opción} other {{count} opciones}}",
+  "@pollOptionCount": {},
+  "openInMenuItemLabel": "Abrir en...",
+  "@openInMenuItemLabel": {},
+  "peopleDialogButtonLabel": "Ver personas relacionadas",
+  "@peopleDialogButtonLabel": {
+    "description": "Placeholder button label for opening the people dialog, when no people counts are available"
+  },
+  "peopleDialogTitle": "Persona",
+  "@peopleDialogTitle": {},
+  "favoritesTab": "Favoritos",
+  "@favoritesTab": {},
+  "mediaTab": "Multimedia",
+  "@mediaTab": {},
+  "featuredTab": "Destacados",
+  "@featuredTab": {}
 }

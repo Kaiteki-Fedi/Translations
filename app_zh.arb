@@ -783,5 +783,23 @@
   "repeatCount": "{count} 次转发",
   "@repeatCount": {},
   "replyCount": "{count} 条回复",
-  "@replyCount": {}
+  "@replyCount": {},
+  "featuredTab": "精选",
+  "@featuredTab": {},
+  "searchHashtagsNoResults": "未找到话题标签",
+  "@searchHashtagsNoResults": {},
+  "pollOptionCount": "{count} 个选项",
+  "@pollOptionCount": {},
+  "openInMenuItemLabel": "打开于…",
+  "@openInMenuItemLabel": {},
+  "peopleDialogTitle": "人们",
+  "@peopleDialogTitle": {},
+  "peopleDialogButtonLabel": "查看相关人员",
+  "@peopleDialogButtonLabel": {
+    "description": "Placeholder button label for opening the people dialog, when no people counts are available"
+  },
+  "favoritesTab": "收藏",
+  "@favoritesTab": {},
+  "mediaTab": "媒体",
+  "@mediaTab": {}
 }

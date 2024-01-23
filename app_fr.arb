@@ -777,5 +777,17 @@
   "mediaTab": "Médias",
   "@mediaTab": {},
   "favoritesTab": "Favoris",
-  "@favoritesTab": {}
+  "@favoritesTab": {},
+  "pollOptionVoteCount": "{count, plural, =1 {1 voix} other {{count} voix}}",
+  "@pollOptionVoteCount": {},
+  "bookmarkCount": "{count, plural, =1 {1 signet} other {{count} signets}}",
+  "@bookmarkCount": {},
+  "pollOptionCount": "{count, plural, =1 {1 option} other {{count} options}}",
+  "@pollOptionCount": {},
+  "replyCount": "{count, plural, =1 {1 réponse} other {{count} réponses}}",
+  "@replyCount": {},
+  "favoriteCount": "{count, plural, =1 {1 favori} other {{count} favoris}}",
+  "@favoriteCount": {},
+  "pollTotalVotes": "{voteCount, plural, =1 {1 voix} other {{voteCount} voix}} au total",
+  "@pollTotalVotes": {}
 }

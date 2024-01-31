@@ -778,5 +778,7 @@
   "featuredTab": "Vorgestellt",
   "peopleDialogButtonLabel": "Verwandte Leute ansehen",
   "favoritesTab": "Favoriten",
-  "mediaTab": "Medien"
+  "mediaTab": "Medien",
+  "followerCount": "{count, plural, other {{count} Follower}}",
+  "followingCount": "{count, plural, other {{count} Folgende}}"
 }

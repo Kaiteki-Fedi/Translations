@@ -742,5 +742,23 @@
     "description": "Placeholder button label for opening the people dialog, when no people counts are available"
   },
   "favoritesTab": "Favorites",
-  "mediaTab": "Media"
+  "mediaTab": "Media",
+  "followerCount": "{count, plural, =1 {1 follower} other {{count} followers}}",
+  "@followerCount": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "compact"
+      }
+    }
+  },
+  "followingCount": "{count, plural, other {{count} following}}",
+  "@followingCount": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "compact"
+      }
+    }
+  }
 }

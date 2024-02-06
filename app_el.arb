@@ -224,7 +224,7 @@
   "@postRepeated": {
     "description": "Gets prepended with repeater's display name"
   },
-  "openInBrowserLabel": "Άνοιγμα σε browser",
+  "openInBrowserLabel": "Άνοιγμα στον περιηγητή",
   "@openInBrowserLabel": {},
   "visibilityDirect": "Άμεσο μήνυμα",
   "@visibilityDirect": {},
@@ -313,7 +313,7 @@
   "@postSubmissionSending": {},
   "settingsDisabled": "Ανενεργό",
   "@settingsDisabled": {},
-  "composeContentWarningHint": "Προειδοποίηση περιεχομένου (προαιρετικά)",
+  "composeContentWarningHint": "Προειδοποίηση περιεχομένου (προαιρετικό)",
   "@composeContentWarningHint": {},
   "postsTab": "Αναρτήσεις",
   "@postsTab": {},
@@ -675,5 +675,21 @@
   "removeAttachmentButtonLabel": "Αφαίρεση συνημμένου",
   "@removeAttachmentButtonLabel": {},
   "exceptionReasonForbidden": "Απαγορευμένο",
-  "@exceptionReasonForbidden": {}
+  "@exceptionReasonForbidden": {},
+  "openInMenuItemLabel": "Άνοιγμα σε...",
+  "@openInMenuItemLabel": {},
+  "messagesTab": "Μηνύματα",
+  "@messagesTab": {},
+  "finishButtonLabel": "Τέλος",
+  "@finishButtonLabel": {},
+  "settingsEmojisHeader": "Εμότζι",
+  "@settingsEmojisHeader": {},
+  "timelineFollowing": "Ακολουθείτε",
+  "@timelineFollowing": {},
+  "contentWarningBehaviorExpandDescription": "Οι αναρτήσεις εμφανίζονται πάντα. Οι ειδοποιήσεις περιεχομένου αντιμετωπίζονται ως αντικείμενα.",
+  "@contentWarningBehaviorExpandDescription": {},
+  "searchHashtagsNoResults": "Δε βρέθηκαν hashtags",
+  "@searchHashtagsNoResults": {},
+  "favoritesTab": "Αγαπημένα",
+  "@favoritesTab": {}
 }

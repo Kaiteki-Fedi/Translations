@@ -1,0 +1,19 @@
+name: kaiteki_l10n
+description: "Kaiteki Localizations"
+version: 0.0.1
+homepage: https://hosted.weblate.org/projects/kaiteki/
+
+environment:
+  sdk: '>=3.4.0-99.0.dev <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter

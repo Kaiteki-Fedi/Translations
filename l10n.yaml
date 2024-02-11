@@ -1,0 +1,8 @@
+arb-dir: "."
+template-arb-file: app_en.arb
+output-localization-file: localizations.dart
+output-class: KaitekiLocalizations
+output-dir: lib/src
+synthetic-package: false
+preferred-supported-locales: ['en']
+suppress-warnings: true

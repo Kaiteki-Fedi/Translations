@@ -760,5 +760,71 @@
         "format": "compact"
       }
     }
+  },
+  "timeDifferenceMinutesLong": "{minutes, plural, =1 {1 minute ago} other {{minutes} minutes ago}}",
+  "@timeDifferenceMinutesLong": {
+    "description": "Text used to display how many minutes have passed since a certain event",
+    "placeholders": {
+      "minutes": {
+        "description": "Amount of minutes",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceDaysLong": "{days, plural, =1 {1 day ago} other {{days} days ago}}",
+  "@timeDifferenceDaysLong": {
+    "description": "Text used to display how many days have passed since a certain event",
+    "placeholders": {
+      "days": {
+        "description": "Amount of days",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceHoursLong": "{hours, plural, =1 {1 hour ago} other {{hours} hours ago}}",
+  "@timeDifferenceHoursLong": {
+    "description": "Text used to display how many hours have passed since a certain event",
+    "placeholders": {
+      "hours": {
+        "description": "Amount of hours",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceWeeksLong": "{weeks, plural, =1 {1 hour ago} other {{weeks} weeks ago}}",
+  "@timeDifferenceWeeksLong": {
+    "description": "Text used to display how many weeks have passed since a certain event",
+    "placeholders": {
+      "weeks": {
+        "description": "Amount of weeks",
+        "example": "2"
+      }
+    }
+  },
+
+  "timeDifferenceYearsLong": "{years, plural, =1 {1 year ago} other {{years} years ago}}",
+  "@timeDifferenceYearsLong": {
+    "description": "Text used to display how many years have passed since a certain event",
+    "placeholders": {
+      "years": {
+        "description": "Amount of years",
+        "example": "2"
+      }
+    }
+  },
+
+  "timeDifferenceSecondsLong": "{seconds, plural, =1 {1 second ago} other {{seconds} seconds ago}}",
+  "@timeDifferenceSecondsLong": {
+    "description": "Text used to display how many seconds have passed since a certain event",
+    "placeholders": {
+      "seconds": {
+        "description": "Amount of seconds",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceNowLong": "now",
+  "@timeDifferenceNowLong": {
+    "description": "Text used to display an event that just happened"
   }
 }

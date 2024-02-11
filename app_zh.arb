@@ -801,23 +801,5 @@
   "favoritesTab": "收藏",
   "@favoritesTab": {},
   "mediaTab": "媒体",
-  "@mediaTab": {},
-  "followerCount": "{count} 关注者",
-  "@followerCount": {
-    "placeholders": {
-      "count": {
-        "type": "int",
-        "format": "compact"
-      }
-    }
-  },
-  "followingCount": "{count} 正在关注",
-  "@followingCount": {
-    "placeholders": {
-      "count": {
-        "type": "int",
-        "format": "compact"
-      }
-    }
-  }
+  "@mediaTab": {}
 }

@@ -801,23 +801,5 @@
   "mediaTab": "Multimedia",
   "@mediaTab": {},
   "featuredTab": "Destacados",
-  "@featuredTab": {},
-  "followerCount": "{count, plural, =1 {1 seguidor} other {{count} seguidores}}",
-  "@followerCount": {
-    "placeholders": {
-      "count": {
-        "type": "int",
-        "format": "compact"
-      }
-    }
-  },
-  "followingCount": "{count, plural, other {{count} siguiendo}}",
-  "@followingCount": {
-    "placeholders": {
-      "count": {
-        "type": "int",
-        "format": "compact"
-      }
-    }
-  }
+  "@featuredTab": {}
 }

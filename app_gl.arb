@@ -801,23 +801,5 @@
   "peopleDialogTitle": "Persoas",
   "@peopleDialogTitle": {},
   "favoritesTab": "Favoritas",
-  "@favoritesTab": {},
-  "followingCount": "{count, plural, other {{count} seguimentos}}",
-  "@followingCount": {
-    "placeholders": {
-      "count": {
-        "type": "int",
-        "format": "compact"
-      }
-    }
-  },
-  "followerCount": "{count, plural, =1 {1 seguidora} other {{count} seguidoras}}",
-  "@followerCount": {
-    "placeholders": {
-      "count": {
-        "type": "int",
-        "format": "compact"
-      }
-    }
-  }
+  "@favoritesTab": {}
 }

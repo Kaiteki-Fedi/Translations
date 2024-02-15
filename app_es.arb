@@ -801,5 +801,87 @@
   "mediaTab": "Multimedia",
   "@mediaTab": {},
   "featuredTab": "Destacados",
-  "@featuredTab": {}
+  "@featuredTab": {},
+  "followerCount": "{count, plural, =1 {1 seguidor} other {{count} seguidores}}",
+  "@followerCount": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "compact"
+      }
+    }
+  },
+  "followingCount": "{count, plural, other {\n{count} seguimentos}}",
+  "@followingCount": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "compact"
+      }
+    }
+  },
+  "timeDifferenceNowLong": "ahora",
+  "@timeDifferenceNowLong": {
+    "description": "Text used to display an event that just happened"
+  },
+  "timeDifferenceYearsLong": "{years, plural, =1 {hace un año} other {hace {years} años}}",
+  "@timeDifferenceYearsLong": {
+    "description": "Text used to display how many years have passed since a certain event",
+    "placeholders": {
+      "years": {
+        "description": "Amount of years",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceSecondsLong": "{seconds, plural, =1 {hace un segundo} other {hace {seconds} segundos}}",
+  "@timeDifferenceSecondsLong": {
+    "description": "Text used to display how many seconds have passed since a certain event",
+    "placeholders": {
+      "seconds": {
+        "description": "Amount of seconds",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceMinutesLong": "{minutes, plural, =1 {hace 1 minuto} other {hace {minutes} minutos}}",
+  "@timeDifferenceMinutesLong": {
+    "description": "Text used to display how many minutes have passed since a certain event",
+    "placeholders": {
+      "minutes": {
+        "description": "Amount of minutes",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceHoursLong": "{hours, plural, =1 {hace 1 hora} other {hace {hours} horas}}",
+  "@timeDifferenceHoursLong": {
+    "description": "Text used to display how many hours have passed since a certain event",
+    "placeholders": {
+      "hours": {
+        "description": "Amount of hours",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceDaysLong": "{days, plural, =1 {hace 1 día} otros {hace {days}} días}}",
+  "@timeDifferenceDaysLong": {
+    "description": "Text used to display how many days have passed since a certain event",
+    "placeholders": {
+      "days": {
+        "description": "Amount of days",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceWeeksLong": "{weeks, plural, =1 {hace 1 semana} other {hace {weeks} semanas}}",
+  "@timeDifferenceWeeksLong": {
+    "description": "Text used to display how many weeks have passed since a certain event",
+    "placeholders": {
+      "weeks": {
+        "description": "Amount of weeks",
+        "example": "2"
+      }
+    }
+  }
 }

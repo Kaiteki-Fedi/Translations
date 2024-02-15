@@ -801,5 +801,77 @@
   "peopleDialogTitle": "Persoas",
   "@peopleDialogTitle": {},
   "favoritesTab": "Favoritas",
-  "@favoritesTab": {}
+  "@favoritesTab": {},
+  "followerCount": "{count, plural, =1 {1 seguidora} other {{count} seguidoras}}",
+  "@followerCount": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "compact"
+      }
+    }
+  },
+  "timeDifferenceDaysLong": "{days, plural, =1 {onte} other {fai {days} días}}",
+  "@timeDifferenceDaysLong": {
+    "description": "Text used to display how many days have passed since a certain event",
+    "placeholders": {
+      "days": {
+        "description": "Amount of days",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceHoursLong": "{hours, plural, =1 {fai 1 hora} other {fai {hours} horas}}",
+  "@timeDifferenceHoursLong": {
+    "description": "Text used to display how many hours have passed since a certain event",
+    "placeholders": {
+      "hours": {
+        "description": "Amount of hours",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceYearsLong": "{years, plural, =1 {fai un ano} other {fai {years} anos}}",
+  "@timeDifferenceYearsLong": {
+    "description": "Text used to display how many years have passed since a certain event",
+    "placeholders": {
+      "years": {
+        "description": "Amount of years",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceSecondsLong": "{seconds, plural, =1 {fai un segundo} other {fai {seconds} segundos}}",
+  "@timeDifferenceSecondsLong": {
+    "description": "Text used to display how many seconds have passed since a certain event",
+    "placeholders": {
+      "seconds": {
+        "description": "Amount of seconds",
+        "example": "2"
+      }
+    }
+  },
+  "followingCount": "{count, plural, other {{count} seguimentos}}",
+  "@followingCount": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "compact"
+      }
+    }
+  },
+  "timeDifferenceMinutesLong": "{minutes, plural, =1 {fai 1 minuto} other {fai {minutes} minutos}}",
+  "@timeDifferenceMinutesLong": {
+    "description": "Text used to display how many minutes have passed since a certain event",
+    "placeholders": {
+      "minutes": {
+        "description": "Amount of minutes",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceNowLong": "agora",
+  "@timeDifferenceNowLong": {
+    "description": "Text used to display an event that just happened"
+  }
 }

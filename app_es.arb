@@ -864,7 +864,7 @@
       }
     }
   },
-  "timeDifferenceDaysLong": "{days, plural, =1 {hace 1 día} otros {hace {days}} días}}",
+  "timeDifferenceDaysLong": "{days, plural, =1 {hace 1 día} other {hace {days} días}}",
   "@timeDifferenceDaysLong": {
     "description": "Text used to display how many days have passed since a certain event",
     "placeholders": {

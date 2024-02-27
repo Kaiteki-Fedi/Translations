@@ -643,15 +643,25 @@
   "listsTab": "Lists",
   "@listsTab": {},
   "exceptionShowJson": "Show JSON",
+  "@exceptionShowJson": {},
   "exceptionReportOnGitHub": "Report on GitHub",
+  "@exceptionReportOnGitHub": {},
   "attachmentAltTextFallback": "No description provided",
+  "@attachmentAltTextFallback": {},
   "showDetailsButtonLabel": "Show details",
+  "@showDetailsButtonLabel": {},
   "exceptionReasonGeneric": "An error occurred",
+  "@exceptionReasonGeneric": {},
   "exceptionReasonUnauthorized": "An error occurred",
+  "@exceptionReasonUnauthorized": {},
   "exceptionReasonServerError": "Internal server error",
+  "@exceptionReasonServerError": {},
   "exceptionReasonForbidden": "Forbidden",
+  "@exceptionReasonForbidden": {},
   "exceptionReasonParseError": "Couldn't parse response",
+  "@exceptionReasonParseError": {},
   "postLengthExceededDialogTitle": "Your post is too long",
+  "@postLengthExceededDialogTitle": {},
   "postLengthExceededDialogDescription": "The post exceeds the maximum length of {characterLimit} characters",
   "@postLengthExceededDialogDescription": {
     "placeholders": {
@@ -662,41 +672,66 @@
     }
   },
   "pollOptionVoteCount": "{count, plural, =1 {1 vote} other {{count} votes}}",
+  "@pollOptionVoteCount": {},
   "pollTotalVotesMultiple": "{voteCount, plural, =1 {1 vote} other {{voteCount} votes}} total from {voterCount, plural, =1 {1 person} other {{voterCount} people}}",
+  "@pollTotalVotesMultiple": {},
   "pollTotalVotes": "{voteCount, plural, =1 {1 vote} other {{voteCount} votes}} total",
+  "@pollTotalVotes": {},
   "copyToClipboardButtonTooltip": "Copy to clipboard",
+  "@copyToClipboardButtonTooltip": {},
   "usersTab": "Users",
+  "@usersTab": {},
   "searchUsersNoResults": "No users found",
+  "@searchUsersNoResults": {},
   "searchPostsNoResults": "No posts found",
+  "@searchPostsNoResults": {},
   "searchEmojisNoResults": "No emojis found",
+  "@searchEmojisNoResults": {},
   "searchHashtagsNoResults": "No hashtags found",
+  "@searchHashtagsNoResults": {},
   "noRecentlyUsedEmojis": "No emojis here yet...",
+  "@noRecentlyUsedEmojis": {},
   "postAnywayButtonLabel": "Post anyway",
   "@postAnywayButtonLabel": {
     "description": "Used in confirmation dialogs"
   },
   "missingDescriptionDialogTitle": "Your attachment is missing a description",
+  "@missingDescriptionDialogTitle": {},
   "missingDescriptionDialogDescription": "Descriptions allow users who are unable to see the attachment to understand what it is about.",
+  "@missingDescriptionDialogDescription": {},
   "customEmojisTab": "Custom",
+  "@customEmojisTab": {},
   "recentEmojisTab": "Recent",
+  "@recentEmojisTab": {},
   "showStackTrace": "Show stack trace",
+  "@showStackTrace": {},
   "exceptionDialogTitle": "Exception details",
+  "@exceptionDialogTitle": {},
   "findUserDialogTitle": "Find user",
+  "@findUserDialogTitle": {},
   "findUserDialogHint": "Search for user",
+  "@findUserDialogHint": {},
   "retryButtonLabel": "Retry",
+  "@retryButtonLabel": {},
   "applyButtonLabel": "Apply",
+  "@applyButtonLabel": {},
   "changeAltText": "Change alt text",
-  "altText": "Alt text",
   "@changeAltText": {
     "description": "Refers to attachment descriptions"
   },
+  "altText": "Alt text",
+  "@altText": {},
   "removeAttachmentButtonLabel": "Remove attachment",
+  "@removeAttachmentButtonLabel": {},
   "unfollowButtonLabel": "Unfollow",
+  "@unfollowButtonLabel": {},
   "followButtonLabel": "Follow",
+  "@followButtonLabel": {},
   "pendingFollowRequestButtonLabel": "Pending",
+  "@pendingFollowRequestButtonLabel": {},
   "editProfileButtonLabel": "Edit Profile",
+  "@editProfileButtonLabel": {},
   "userJoinDate": "Joined {date}",
-  "userBirthDate": "Born {date}",
   "@userJoinDate": {
     "placeholders": {
       "date": {
@@ -705,6 +740,7 @@
       }
     }
   },
+  "userBirthDate": "Born {date}",
   "@userBirthDate": {
     "placeholders": {
       "date": {
@@ -714,35 +750,61 @@
     }
   },
   "shareSheetFormatLink": "Link",
+  "@shareSheetFormatLink": {},
   "shareSheetFormatRemoteLink": "Link on {host}",
+  "@shareSheetFormatRemoteLink": {},
   "shareSheetFormatContent": "Content",
+  "@shareSheetFormatContent": {},
   "misskeyCalendarToday": "Today",
+  "@misskeyCalendarToday": {},
   "misskeyCalendarYear": "Year",
+  "@misskeyCalendarYear": {},
   "misskeyCalendarMonth": "Month",
+  "@misskeyCalendarMonth": {},
   "chatPreviewAttachments": "{attachmentCount, plural, =1 {1 attachment} other {{attachmentCount} attachments}}",
+  "@chatPreviewAttachments": {},
   "createButtonLabel": "Create",
+  "@createButtonLabel": {},
   "renameButtonLabel": "Rename",
+  "@renameButtonLabel": {},
   "proceedButtonLabel": "Proceed",
+  "@proceedButtonLabel": {},
   "themeAffection": "Affection",
+  "@themeAffection": {},
   "themeJoy": "Joy",
+  "@themeJoy": {},
   "themeComfort": "Comfort",
+  "@themeComfort": {},
   "themeCompassion": "Compassion",
+  "@themeCompassion": {},
   "themeSerenity": "Serenity",
+  "@themeSerenity": {},
   "themeSpirit": "Spirit",
+  "@themeSpirit": {},
   "themeCare": "Care",
+  "@themeCare": {},
   "favoriteCount": "{count, plural, =1 {1 favorite} other {{count} favorites}}",
+  "@favoriteCount": {},
   "repeatCount": "{count, plural, =1 {1 repeat} other {{count} repeats}}",
+  "@repeatCount": {},
   "replyCount": "{count, plural, =1 {1 reply} other {{count} replies}}",
+  "@replyCount": {},
   "bookmarkCount": "{count, plural, =1 {1 bookmark} other {{count} bookmarks}}",
+  "@bookmarkCount": {},
   "pollOptionCount": "{count, plural, =1 {1 option} other {{count} options}}",
+  "@pollOptionCount": {},
   "openInMenuItemLabel": "Open in...",
+  "@openInMenuItemLabel": {},
   "peopleDialogTitle": "People",
+  "@peopleDialogTitle": {},
   "peopleDialogButtonLabel": "View releated people",
   "@peopleDialogButtonLabel": {
     "description": "Placeholder button label for opening the people dialog, when no people counts are available"
   },
   "favoritesTab": "Favorites",
+  "@favoritesTab": {},
   "mediaTab": "Media",
+  "@mediaTab": {},
   "followerCount": "{count, plural, =1 {1 follower} other {{count} followers}}",
   "@followerCount": {
     "placeholders": {
@@ -791,7 +853,7 @@
       }
     }
   },
-  "timeDifferenceWeeksLong": "{weeks, plural, =1 {1 hour ago} other {{weeks} weeks ago}}",
+  "timeDifferenceWeeksLong": "{weeks, plural, =1 {1 week ago} other {{weeks} weeks ago}}",
   "@timeDifferenceWeeksLong": {
     "description": "Text used to display how many weeks have passed since a certain event",
     "placeholders": {
@@ -801,7 +863,6 @@
       }
     }
   },
-
   "timeDifferenceYearsLong": "{years, plural, =1 {1 year ago} other {{years} years ago}}",
   "@timeDifferenceYearsLong": {
     "description": "Text used to display how many years have passed since a certain event",
@@ -812,7 +873,6 @@
       }
     }
   },
-
   "timeDifferenceSecondsLong": "{seconds, plural, =1 {1 second ago} other {{seconds} seconds ago}}",
   "@timeDifferenceSecondsLong": {
     "description": "Text used to display how many seconds have passed since a certain event",

@@ -801,5 +801,87 @@
   "favoritesTab": "收藏",
   "@favoritesTab": {},
   "mediaTab": "媒体",
-  "@mediaTab": {}
+  "@mediaTab": {},
+  "followingCount": "{count, plural, other {{count} 正在跟随}}",
+  "@followingCount": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "compact"
+      }
+    }
+  },
+  "timeDifferenceDaysLong": "{days, plural, =1 {1 天前} other {{days} 天前}}",
+  "@timeDifferenceDaysLong": {
+    "description": "Text used to display how many days have passed since a certain event",
+    "placeholders": {
+      "days": {
+        "description": "Amount of days",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceWeeksLong": "{weeks, plural, =1 {1 周前} other {{weeks} 周前}}",
+  "@timeDifferenceWeeksLong": {
+    "description": "Text used to display how many weeks have passed since a certain event",
+    "placeholders": {
+      "weeks": {
+        "description": "Amount of weeks",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceYearsLong": "{years, plural, =1 {1 年前} other {{years} 年前}}",
+  "@timeDifferenceYearsLong": {
+    "description": "Text used to display how many years have passed since a certain event",
+    "placeholders": {
+      "years": {
+        "description": "Amount of years",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceSecondsLong": "{seconds, plural, =1 {1 秒前} other {{seconds} 秒前}}",
+  "@timeDifferenceSecondsLong": {
+    "description": "Text used to display how many seconds have passed since a certain event",
+    "placeholders": {
+      "seconds": {
+        "description": "Amount of seconds",
+        "example": "2"
+      }
+    }
+  },
+  "followerCount": "{count, plural, =1 {1 跟随者} other {{count} 跟随者}}",
+  "@followerCount": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "format": "compact"
+      }
+    }
+  },
+  "timeDifferenceMinutesLong": "{minutes, plural, =1 {1 分钟前} other {{minutes} 分钟前}}",
+  "@timeDifferenceMinutesLong": {
+    "description": "Text used to display how many minutes have passed since a certain event",
+    "placeholders": {
+      "minutes": {
+        "description": "Amount of minutes",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceHoursLong": "{hours, plural, =1 {1 小时前} other {{hours} 小时前}}",
+  "@timeDifferenceHoursLong": {
+    "description": "Text used to display how many hours have passed since a certain event",
+    "placeholders": {
+      "hours": {
+        "description": "Amount of hours",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceNowLong": "现在",
+  "@timeDifferenceNowLong": {
+    "description": "Text used to display an event that just happened"
+  }
 }

@@ -811,7 +811,7 @@
       }
     }
   },
-  "followingCount": "{count, plural, other {\n{count} seguimentos}}",
+  "followingCount": "{count, plural, other {{count} siguiente}}",
   "@followingCount": {
     "placeholders": {
       "count": {
@@ -874,7 +874,7 @@
       }
     }
   },
-  "timeDifferenceWeeksLong": "{weeks, plural, =1 {hace 1 semana} other {hace {weeks} semanas}}",
+  "timeDifferenceWeeksLong": "{weeks, plural, =1 {Hace una semana} other {hace {weeks} semanas}}",
   "@timeDifferenceWeeksLong": {
     "description": "Text used to display how many weeks have passed since a certain event",
     "placeholders": {

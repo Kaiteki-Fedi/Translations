@@ -695,9 +695,9 @@
   "@postAnywayButtonLabel": {
     "description": "Used in confirmation dialogs"
   },
-  "missingDescriptionDialogTitle": "Your attachment is missing a description",
+  "missingDescriptionDialogTitle": "Your attachment is missing alt text",
   "@missingDescriptionDialogTitle": {},
-  "missingDescriptionDialogDescription": "Descriptions allow users who are unable to see the attachment to understand what it is about.",
+  "missingDescriptionDialogDescription": "Alt text allow users who are unable to see the attachment to understand what it is about. Consider adding it in order to ",
   "@missingDescriptionDialogDescription": {},
   "customEmojisTab": "Custom",
   "@customEmojisTab": {},
@@ -886,5 +886,7 @@
   "timeDifferenceNowLong": "now",
   "@timeDifferenceNowLong": {
     "description": "Text used to display an event that just happened"
-  }
+  },
+  "missingAltTextOnRepeatDialogTitle": "Repeat post?",
+  "missingAltTextOnRepeatDialogDescription": "The post you are about to share has attachments without alt text."
 }

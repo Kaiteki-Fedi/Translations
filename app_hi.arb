@@ -1,0 +1,12 @@
+{
+  "apiTypeDialog_missing": "कुछ मिल नहीं रहा?",
+  "@apiTypeDialog_missing": {},
+  "mfaNoCode": "कृपया कोड डालिये",
+  "@mfaNoCode": {},
+  "verifyButtonLabel": "पक्का करिये",
+  "@verifyButtonLabel": {},
+  "okButtonLabel": "ठीक हैं",
+  "@okButtonLabel": {},
+  "removeButtonLabel": "हाताइएं",
+  "@removeButtonLabel": {}
+}

@@ -127,5 +127,9 @@
   "followButtonLabel": "befwiend",
   "@followButtonLabel": {},
   "timelineDirectMessagesDescription": "meow at others",
-  "@timelineDirectMessagesDescription": {}
+  "@timelineDirectMessagesDescription": {},
+  "mfaTitle": "Two-Factow-Awfenticashon",
+  "@mfaTitle": {},
+  "cancelButtonLabel": "Cancew",
+  "@cancelButtonLabel": {}
 }

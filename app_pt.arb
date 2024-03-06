@@ -1,4 +1,352 @@
 {
   "apiTypeDialog_title": "Não foi possível detectar o tipo de instância",
-  "@apiTypeDialog_title": {}
+  "@apiTypeDialog_title": {},
+  "accountRequiredToContinue": "Para continuar, você precisa entrar em pelo menos uma instância.",
+  "@accountRequiredToContinue": {},
+  "homeTab": "Início",
+  "@homeTab": {},
+  "notificationsTab": "Notificações",
+  "@notificationsTab": {},
+  "settings": "Configurações",
+  "@settings": {},
+  "settingsGeneral": "Geral",
+  "@settingsGeneral": {},
+  "authNoUsername": "Por favor insira um nome de usuário",
+  "@authNoUsername": {},
+  "createAccountButtonLabel": "Criar uma conta",
+  "@createAccountButtonLabel": {},
+  "unsupportedInstanceDescriptionCORS": "Kaiteki Web não suporta {api} agora porque seu navegador bloqueia pedidos para a instância vindo de outros sites. Para mais informações, por favor visite ",
+  "@unsupportedInstanceDescriptionCORS": {
+    "placeholders": {
+      "api": {
+        "description": "Name of the instance backend software",
+        "example": "Pleroma"
+      }
+    }
+  },
+  "emojiRetrievalFailed": "Falha ao recuperar emojis",
+  "@emojiRetrievalFailed": {},
+  "threadRetrievalFailed": "Falha ao recuperar a thread",
+  "@threadRetrievalFailed": {},
+  "emptyAccounts": "Sem contas",
+  "@emptyAccounts": {
+    "description": "Placeholder text used if user doesn't have any accounts"
+  },
+  "accountRemovalConfirmationTitle": "Remover conta?",
+  "@accountRemovalConfirmationTitle": {},
+  "conversationTitle": "Conversa",
+  "@conversationTitle": {
+    "description": "Title used for conversation/thread page"
+  },
+  "accountRemovalConfirmationDescription": "Se você remover esta conta, terá que entrar para usá-la novamente.",
+  "@accountRemovalConfirmationDescription": {},
+  "switchListTileTextOff": "Desligado",
+  "@switchListTileTextOff": {},
+  "filteringIncludeSensitive": "Incluir posts marcados como sensíveis",
+  "@filteringIncludeSensitive": {},
+  "themeDark": "Escuro",
+  "@themeDark": {},
+  "attachmentUnsupported": "Anexo não suportado",
+  "@attachmentUnsupported": {},
+  "timeDifferenceMinutes": "{minutes}min",
+  "@timeDifferenceMinutes": {
+    "description": "Text used to display how many minutes have passed since a certain event",
+    "placeholders": {
+      "minutes": {
+        "description": "Amount of minutes",
+        "example": "2"
+      }
+    }
+  },
+  "chatsTab": "Conversas",
+  "@chatsTab": {},
+  "niy": "Não implementado ainda",
+  "@niy": {},
+  "welcome": "Bem-vindo(a) ao Kaiteki!",
+  "@welcome": {},
+  "settingsHideSensitivePosts": "Esconder posts sensíveis",
+  "@settingsHideSensitivePosts": {},
+  "settingsSensitivePosts": "Posts sensíveis",
+  "@settingsSensitivePosts": {},
+  "settingsSubjectPosts": "Posts com tópicos",
+  "@settingsSubjectPosts": {},
+  "settingsDisabled": "Desativado",
+  "@settingsDisabled": {},
+  "creditsTitle": "Créditos",
+  "@creditsTitle": {},
+  "failedToLaunchUrl": "URL não pôde ser aberto",
+  "@failedToLaunchUrl": {},
+  "settingsAbout": "Sobre Kaiteki",
+  "@settingsAbout": {},
+  "settingsProfile": "Perfil",
+  "@settingsProfile": {},
+  "settingsSecurity": "Segurança",
+  "@settingsSecurity": {},
+  "settingsCustomization": "Customização",
+  "@settingsCustomization": {},
+  "settingsTabs": "Abas",
+  "@settingsTabs": {},
+  "settingsDebugMaintenance": "Manutenção e Debug",
+  "@settingsDebugMaintenance": {},
+  "authNoInstance": "Por favor insira uma instância",
+  "@authNoInstance": {},
+  "authNoPassword": "Por favor insira uma senha",
+  "@authNoPassword": {},
+  "authDuplicate": "Já existe uma conta com o mesmo nome e instância",
+  "@authDuplicate": {},
+  "authNoUrlAllowed": "Por favor insira apenas o domínio",
+  "@authNoUrlAllowed": {},
+  "authOAuthPending": "Esperando o OAuth terminar…",
+  "@authOAuthPending": {
+    "description": "Kaiteki is waiting for an external website to confirm an authorization request"
+  },
+  "loginTitle": "Entrar numa instância",
+  "@loginTitle": {},
+  "loginTitleInstance": "Entrar em {instance}",
+  "@loginTitleInstance": {
+    "placeholders": {
+      "instance": {
+        "description": "Instance name",
+        "example": "'the wired' or as fallback 'letsalllovela.in'"
+      }
+    }
+  },
+  "nextButtonLabel": "Próximo",
+  "@nextButtonLabel": {},
+  "backButtonLabel": "Voltar",
+  "@backButtonLabel": {},
+  "instanceFieldHint": "Instância",
+  "@instanceFieldHint": {},
+  "usernameFieldHint": "Nome de usuário",
+  "@usernameFieldHint": {},
+  "passwordFieldHint": "Senha",
+  "@passwordFieldHint": {},
+  "emailFieldHint": "Endereço de e-mail",
+  "@emailFieldHint": {},
+  "repeatPasswordFieldHint": "Repetir senha",
+  "@repeatPasswordFieldHint": {},
+  "authPasswordNoMatch": "Senhas devem ser iguais",
+  "@authPasswordNoMatch": {},
+  "forgotPasswordButtonLabel": "Esqueci a senha",
+  "@forgotPasswordButtonLabel": {},
+  "existingAccountButtonLabel": "Entrar numa conta existente",
+  "@existingAccountButtonLabel": {},
+  "registerButtonLabel": "Registrar",
+  "@registerButtonLabel": {},
+  "unsupportedInstanceTitle": "Este tipo de instância não é suportado atualmente",
+  "@unsupportedInstanceTitle": {},
+  "addAccountButtonLabel": "Adicionar conta",
+  "@addAccountButtonLabel": {},
+  "manageAccountsTitle": "Gerenciar Contas",
+  "@manageAccountsTitle": {},
+  "filteringIncludeSubject": "Incluir posts com tópicos",
+  "@filteringIncludeSubject": {},
+  "filteringSensitiveTitle": "Filtrar posts sensíveis",
+  "@filteringSensitiveTitle": {},
+  "composeButtonLabel": "Compor",
+  "@composeButtonLabel": {},
+  "composeDialogTitle": "Compor novo post",
+  "@composeDialogTitle": {},
+  "composeDialogTitleReply": "Responder a ",
+  "@composeDialogTitleReply": {
+    "description": "Title used when compose dialog is shown for writing a reply. Gets appended with replyee's display name"
+  },
+  "discardButtonTooltip": "Descartar",
+  "@discardButtonTooltip": {},
+  "theme": "Tema",
+  "@theme": {},
+  "selectThemeTitle": "Selecionar tema",
+  "@selectThemeTitle": {},
+  "themeLight": "Claro",
+  "@themeLight": {},
+  "themeSystem": "Padrão do sistema",
+  "@themeSystem": {},
+  "creditsLicenses": "Licenças de código aberto",
+  "@creditsLicenses": {},
+  "creditsGithubRepo": "Repositório do GitHub",
+  "@creditsGithubRepo": {},
+  "creditsWebsite": "Site",
+  "@creditsWebsite": {},
+  "viewOnlineButtonLabel": "Ver online",
+  "@viewOnlineButtonLabel": {
+    "description": "Button label used when certain content can't be displayed in Kaiteki but might able to in a web browser instead (e.g. videos)."
+  },
+  "timeDifferenceHours": "{hours}h",
+  "@timeDifferenceHours": {
+    "description": "Text used to display how many hours have passed since a certain event",
+    "placeholders": {
+      "hours": {
+        "description": "Amount of hours",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceDays": "{days}d",
+  "@timeDifferenceDays": {
+    "description": "Text used to display how many days have passed since a certain event",
+    "placeholders": {
+      "days": {
+        "description": "Amount of days",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceWeeks": "{weeks}sem",
+  "@timeDifferenceWeeks": {
+    "description": "Text used to display how many weeks have passed since a certain event",
+    "placeholders": {
+      "weeks": {
+        "description": "Amount of weeks",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceYears": "{years} anos",
+  "@timeDifferenceYears": {
+    "description": "Text used to display how many years have passed since a certain event",
+    "placeholders": {
+      "years": {
+        "description": "Amount of years",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceSeconds": "{seconds}s",
+  "@timeDifferenceSeconds": {
+    "description": "Text used to display how many seconds have passed since a certain event",
+    "placeholders": {
+      "seconds": {
+        "description": "Amount of seconds",
+        "example": "2"
+      }
+    }
+  },
+  "timeDifferenceNow": "agora",
+  "@timeDifferenceNow": {
+    "description": "Text used to display an event that just happened"
+  },
+  "replyTo": "Responder a",
+  "@replyTo": {
+    "description": "Gets appended with replyee's display name"
+  },
+  "postRepeated": "Repetido",
+  "@postRepeated": {
+    "description": "Gets prepended with repeater's display name"
+  },
+  "openInBrowserLabel": "Abrir no navegador",
+  "@openInBrowserLabel": {},
+  "visibilityDirect": "Direto",
+  "@visibilityDirect": {},
+  "visibilityFollowersOnly": "Apenas para seguidores",
+  "@visibilityFollowersOnly": {},
+  "visibilityUnlisted": "Não-listado",
+  "@visibilityUnlisted": {},
+  "visibilityPublic": "Público",
+  "@visibilityPublic": {},
+  "visibilityDirectDescription": "Visível para os usuários mencionados",
+  "@visibilityDirectDescription": {},
+  "visibilityFollowersOnlyDescription": "Visível para os seguidores",
+  "@visibilityFollowersOnlyDescription": {},
+  "visibilityUnlistedDescription": "Visível para todos, não aparece nas linhas do tempo públicas",
+  "@visibilityUnlistedDescription": {},
+  "apiTypeDialog_description": "O Kaiteki tentou descobrir o software que a instância utiliza mas não pôde descobrir. Por favor selecione a instância correta na lista abaixo.",
+  "@apiTypeDialog_description": {},
+  "mfaTitle": "Autenticação de Dois Fatores",
+  "@mfaTitle": {},
+  "mfaNoCode": "Por favor insira um código",
+  "@mfaNoCode": {},
+  "okButtonLabel": "OK",
+  "@okButtonLabel": {},
+  "cancelButtonLabel": "Cancelar",
+  "@cancelButtonLabel": {},
+  "verifyButtonLabel": "Verificar",
+  "@verifyButtonLabel": {},
+  "removeButtonLabel": "Remover",
+  "@removeButtonLabel": {},
+  "viewPostButtonLabel": "Ver Post",
+  "@viewPostButtonLabel": {},
+  "continueAnywayButtonLabel": "Continuar assim mesmo",
+  "@continueAnywayButtonLabel": {},
+  "abortButtonLabel": "Abortar",
+  "@abortButtonLabel": {},
+  "chooseButtonLabel": "Escolher",
+  "@chooseButtonLabel": {},
+  "visibilityButtonTooltip": "Mudar visibilidade de postagem",
+  "@visibilityButtonTooltip": {},
+  "attachButtonTooltip": "Anexar",
+  "@attachButtonTooltip": {},
+  "emojiButtonTooltip": "Inserir emoji",
+  "@emojiButtonTooltip": {},
+  "formattingButtonTooltip": "Mudar formatação",
+  "@formattingButtonTooltip": {},
+  "aboutInstanceTitle": "Sobre {instance}",
+  "@aboutInstanceTitle": {
+    "placeholders": {
+      "instance": {
+        "description": "Domain/hostname of the instance",
+        "example": "fedi.absturztau.be"
+      }
+    }
+  },
+  "aboutBackendTitle": "Sobre {api}",
+  "@aboutBackendTitle": {
+    "placeholders": {
+      "api": {
+        "description": "Name of the instance backend software",
+        "example": "Pleroma"
+      }
+    }
+  },
+  "loginButtonLabel": "Entrar",
+  "@loginButtonLabel": {},
+  "rules": "Regras",
+  "@rules": {},
+  "rulesLearnMore": "Saber mais sobre as regras",
+  "@rulesLearnMore": {},
+  "postPreviewTitle": "Prévia",
+  "@postPreviewTitle": {},
+  "postPreviewWaiting": "Comece a escrever um post para ver a prévia!",
+  "@postPreviewWaiting": {},
+  "composeBodyHint": "Acabei de chegar em Los Angeles.",
+  "@composeBodyHint": {},
+  "composeContentWarningHint": "Aviso de conteúdo (opcional)",
+  "@composeContentWarningHint": {},
+  "postSubmissionFailed": "Falha ao enviar post",
+  "@postSubmissionFailed": {},
+  "postSubmissionSending": "Enviando post",
+  "@postSubmissionSending": {},
+  "postSubmissionSent": "Post enviado",
+  "@postSubmissionSent": {},
+  "submitButtonTooltip": "Enviar",
+  "@submitButtonTooltip": {},
+  "empty": "Está vazio aqui…",
+  "@empty": {},
+  "postsTab": "Posts",
+  "@postsTab": {},
+  "followersTab": "Seguidores",
+  "@followersTab": {},
+  "followingTab": "Seguindo",
+  "@followingTab": {},
+  "settingsNotifications": "Notificações",
+  "@settingsNotifications": {},
+  "settingsFiltering": "Filtragem",
+  "@settingsFiltering": {},
+  "settingsImportExport": "Importação / Exportação de Dados",
+  "@settingsImportExport": {},
+  "settingsMutesBlocks": "Silenciamentos e Bloqueios",
+  "@settingsMutesBlocks": {},
+  "settingsKaiteki": "Configurações do Kaiteki",
+  "@settingsKaiteki": {},
+  "switchListTileTextOn": "Ligado",
+  "@switchListTileTextOn": {},
+  "visibilityPublicDescription": "Visível para todos",
+  "@visibilityPublicDescription": {},
+  "formattingPlain": "Texto plano",
+  "@formattingPlain": {},
+  "formattingMfm": "Markdown do Misskey",
+  "@formattingMfm": {},
+  "attachFilesButtonLabel": "Anexar arquivos",
+  "@attachFilesButtonLabel": {},
+  "takePictureButtonLabel": "Tirar foto",
+  "@takePictureButtonLabel": {}
 }

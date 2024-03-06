@@ -503,7 +503,7 @@
   "@timelineBubble": {},
   "timelineBubbleDescription": "来自相邻实例的帖文",
   "@timelineBubbleDescription": {},
-  "showAltTextTooltip": "显示替代文字",
+  "showAltTextTooltip": "显示替代文本",
   "@showAltTextTooltip": {},
   "copyAttachmentUrl": "复制附件地址",
   "@copyAttachmentUrl": {},
@@ -684,7 +684,7 @@
   "@postAnywayButtonLabel": {
     "description": "Used in confirmation dialogs"
   },
-  "missingDescriptionDialogTitle": "您的附件缺少描述",
+  "missingDescriptionDialogTitle": "您的附件缺少替代文本",
   "@missingDescriptionDialogTitle": {},
   "customEmojisTab": "自定义",
   "@customEmojisTab": {},
@@ -700,7 +700,7 @@
   "@proceedButtonLabel": {},
   "showDetailsButtonLabel": "显示细节",
   "@showDetailsButtonLabel": {},
-  "missingDescriptionDialogDescription": "描述可以让无法看到附件的用户了解附件内容。",
+  "missingDescriptionDialogDescription": "替代文本可以让无法看到附件的用户了解附件内容。请考虑添加它以 ",
   "@missingDescriptionDialogDescription": {},
   "recentEmojisTab": "最近使用",
   "@recentEmojisTab": {},
@@ -708,11 +708,11 @@
   "@showStackTrace": {},
   "applyButtonLabel": "应用",
   "@applyButtonLabel": {},
-  "changeAltText": "更改替代文字",
+  "changeAltText": "更改替代文本",
   "@changeAltText": {
     "description": "Refers to attachment descriptions"
   },
-  "altText": "替代文字",
+  "altText": "替代文本",
   "@altText": {},
   "removeAttachmentButtonLabel": "移除附件",
   "@removeAttachmentButtonLabel": {},
@@ -883,5 +883,9 @@
   "timeDifferenceNowLong": "现在",
   "@timeDifferenceNowLong": {
     "description": "Text used to display an event that just happened"
-  }
+  },
+  "missingAltTextOnRepeatDialogTitle": "转发帖文？",
+  "@missingAltTextOnRepeatDialogTitle": {},
+  "missingAltTextOnRepeatDialogDescription": "您要分享的帖文带有不含替代文本的附件。",
+  "@missingAltTextOnRepeatDialogDescription": {}
 }

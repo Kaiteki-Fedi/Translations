@@ -331,7 +331,7 @@
   },
   "homeTab": "Inicio",
   "@homeTab": {},
-  "missingDescriptionDialogTitle": "O anexo non ten descrición",
+  "missingDescriptionDialogTitle": "O anexo non ten texto descritivo",
   "@missingDescriptionDialogTitle": {},
   "apiTypeDialog_missing": "Falta algo?",
   "@apiTypeDialog_missing": {},
@@ -536,7 +536,7 @@
   "@timelineRetrievalFailed": {},
   "failedToLaunchUrl": "Non se puido abrir o URL",
   "@failedToLaunchUrl": {},
-  "missingDescriptionDialogDescription": "As descricións permitenlle ás usuarias que non poden ver a imaxe acadar comprensión sobre o contexto.",
+  "missingDescriptionDialogDescription": "As descricións permitenlle ás usuarias que non poden ver a imaxe acadar comprensión sobre o contexto. Considera engadila para ",
   "@missingDescriptionDialogDescription": {},
   "settingsKaiteki": "Axustes de Kaiteki",
   "@settingsKaiteki": {},
@@ -873,5 +873,19 @@
   "timeDifferenceNowLong": "agora",
   "@timeDifferenceNowLong": {
     "description": "Text used to display an event that just happened"
+  },
+  "missingAltTextOnRepeatDialogDescription": "A publicación que vas compartir ten anexos sen texto descritivo.",
+  "@missingAltTextOnRepeatDialogDescription": {},
+  "missingAltTextOnRepeatDialogTitle": "Repetir publicación?",
+  "@missingAltTextOnRepeatDialogTitle": {},
+  "timeDifferenceWeeksLong": "{weeks, plural, =1 {fai 1 semana} other {fai {weeks} semanas}}",
+  "@timeDifferenceWeeksLong": {
+    "description": "Text used to display how many weeks have passed since a certain event",
+    "placeholders": {
+      "weeks": {
+        "description": "Amount of weeks",
+        "example": "2"
+      }
+    }
   }
 }
